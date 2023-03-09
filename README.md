@@ -1,3 +1,11 @@
+# Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning. 
+
+This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls.
+
+(Find the original description below:)
+
+***
+
 # Measuring Corporate Culture Using Machine Learning
 
 ## Introduction
