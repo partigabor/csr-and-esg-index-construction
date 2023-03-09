@@ -2,7 +2,7 @@
 
 This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls.
 
-(Find the original description below:)
+**Find the original description below:**
 
 ***
 
