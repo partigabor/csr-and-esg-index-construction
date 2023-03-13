@@ -14,7 +14,6 @@ from gensim import models
 
 from . import file_util
 
-
 def train_bigram_model(input_path, model_path):
     """ Train a phrase model and save it to the disk. 
     
