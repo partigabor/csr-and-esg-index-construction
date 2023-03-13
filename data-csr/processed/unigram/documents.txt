@@ -1,0 +1,3020 @@
+thank sir
+ladies gentleman time will begin question answer_session
+operator_instruction
+[ner:ordinal] question come [ner:person] [ner:organization]
+please go ahead
+good morning guy
+fabulous_quarter
+thanks [ner:person]
+difference increase revenue increase margin [ner:ordinal] party increase cost
+tell [ner:date] cost_increase
+[ner:person] want handle
+sure think table [ner:person] sorry [ner:location] [ner:date]
+come listen [ner:person]
+go try give religion
+[ner:money] [ner:duration] round number increase revenue per [ner:duration] [ner:money] increase cost per [ner:duration] cost increase cost
+combination factor
+know [ner:set] rig_report experience fair amount rain [ner:date] mean crew sit wait move
+recall [ner:number] rig [ner:date] several rig [ner:date]
+would [ner:number] factor another labor_cost go term way schedule people enough people work increase rig
+would primary thing
+move mobilization_cost rig [ner:money] [ner:money] will help offset go forward weather talk price_increase impact fall income_statement
+could give beginning question sure yes use charge [ner:money] mob [ner:money] move
+depend far move [ner:person]
+go double price move
+yes pretty much raise [ner:duration] [ner:number] [ner:number] [ner:number] like say good quarter_guy
+curious know [ner:date] go
+curious as_to revenue business guess [ner:person] trucking_side
+trucking well need truck
+because_of shortage truck rig wait truck area time try help problem add additional truck take time a_lot_of money
+reason go_up [ner:date] charge move new tandem time get field [ner:money] get pay stuff
+get wrong
+take rig
+price go
+[ner:person] question location trucking part average revenue per [ner:duration]
+[ner:date] charge contract average revenue per [ner:duration] report
+effect disconnect relate trucking item reimbursable customer difference primarily mobilization_cost
+help know margin least know probably keep pace
+[ner:number] competitor announce conference_call [ner:date] payroll_tax property_tax would expect [ner:duration] would still increase significantly cost may go_up [ner:money] [ner:money] [ner:duration] [ner:date]
+guy see business
+estimate impact fica occur [ner:date] like [ner:money] [ner:money]
+[ner:date] aware would kind impact
+hand think cost per [ner:duration] will go quarter quarter [ner:ordinal]
+think guess cost per [ner:duration] will similar [ner:date] additional increase would likely relate field_payroll occur think could pass along higher [ner:duration]
+effect guess [ner:person] comment average revenue per [ner:duration] go_on [ner:money] would think increase effect would drop bottom as_to increase margin
+okay gentleman appreciate
+will let people ask
+thank
+next question come [ner:person] please go ahead
+good morning
+hi [ner:person]
+selection finally arrive
+think
+hear correctly say bulk [ner:money] [ner:duration] [ner:date] drop bottom line
+would guess
+thanks
+know question
+look like market finally come around
+term use cash raise dividend institute [ner:number] [ner:date]
+dividend_versus_share_repurchase guy decision
+[ner:person] actively consider regular [ner:set] basis board
+know buyback place
+buyback institute opportunistic structured reduction capital certainly discussion board something will consider [ner:date] progress
+move forward [ner:date] drop [ner:misc] rig_activity would image impact pressure margin sequentially
+think [ner:location] strong enough [ner:date] offset completely seasonal drop [ner:location] would expect margin come_down sequentially [ner:date] versus [ner:ordinal]
+think would expect necessarily go rate increase would expect drop
+[ner:location] contribute [ner:money] [ner:duration] overall margin get [ner:date] effect become kind non-player rig run
+otherwise think know [ner:ordinal] [ner:date] expect [ner:money] [ner:duration] increase [ner:location] [ner:misc] impact would kind mute pull back [ner:money] course get [ner:date] [ner:misc] rig_activity go get lot back
+effect guess would think margin would go_up [ner:ordinal] [ner:date] less would [ner:location]
+understood
+term say go activate [ner:number] rig [ner:duration] long demand_warrant
+understand correctly
+
+market_share go_up vis--vis say neighbor neighbor activate rig pace
+work
+think [ner:number] player really significant capacity ability understand neighbor
+know
+know anybody else know understand neighbor as_well [ner:number] player
+context capex [ner:date]
+capex [ner:date] know clearly dependent demand customer know look [ner:set]
+look [ner:date] point thought [ner:date] bring_out [ner:number] additional rig total include business [ner:organization] pressure_pump etc. would [ner:money]
+[ner:money] like [ner:money] run_rate [ner:date]
+guess would depend demand could increase
+lastly stock_option_expense
+could give update go happen guy [ner:ordinal] half [ner:date]
+yes look far accountant seem focus matter [ner:date] estimate impact [ner:money] per share [ner:date]
+obviously will occur back half [ner:date]
+know calculation drive option vest board really back [ner:date] [ner:date] even larger scale_effect move stock_option restricted stock see kind [ner:set] g&a_number higher time_period drive partly impact expense restricted stock
+therefore little overhang point related employee_stock_option
+look [ner:date] would guess [ner:date] would [ner:money] per share
+okay lastly re-activization_cost rig bring_it_out cost per rig kind cost per rig look
+[ner:money] include drill_strength
+continue increase fairly steady state
+pretty steady versus [ner:date] drill_strength etc.
+much drill_pipe need
+will get back food_chain will call food_chain drill_pipe go order [ner:number] joint [ner:duration]
+activation rig replacement real strength wear_out number rig run
+excellent
+thanks lot guy
+thank [ner:person]
+thank next question come [ner:location] [ner:organization]
+please go ahead
+good morning
+[ner:person] wonder could give insight see [ner:location] [ner:location] south [ner:location] term activity rate
+see everywhere tremendous demand equipment
+matter area pick say [ner:date] continue increase point never see demand like
+[ner:date] think lot a_lot_of area change major oil_company larger independent oil_company buy know buy production development_opportunity [ner:location] [ner:location] [ner:location]
+everywhere
+never see demand equipment exist [ner:date] think lot higher commodity_price
+think people get comfortable high commodity_price believe go stay probably sensitivity run economics get little higher so_that make know prospects viable drill higher budget see tremendous demand every area
+[ner:duration] old rig plan reactivate [ner:date] particular market think will move rig a_kind_of across board everywhere
+think salesman say fight internally rig every area want rig east_[ner:location] [ner:location] [ner:location] particularly [ner:location] [ner:location] need rig pretty much split
+will move [ner:location] [ner:location] couple think list area project [ner:date] certainly could change [ner:date] go depend greatest demand
+okay
+[ner:ordinal] question pressure_pump
+larger least least expect seasonal decline job margin
+[ner:date] generate [ner:percent] return capital bad wonder see side business
+well sort see decline see a_couple_of thing attribute part demand still
+a_kind_of warm [ner:date] get muddy road [ner:location] truly difficult move [ner:location]
+another thing see [ner:date] price gas go high nobody want stop anything hunting_season holiday think people accustomed higher price
+think go probably back normal activity [ner:location] shutdown hunting_season holiday [ner:duration]
+go back normal activity
+okay last question
+capex_plan [ner:date] indication
+say earlier
+look kind quarter quarter
+thing change business demand could go guess [ner:date] would [ner:money] business include reactivation [ner:number] rig will readdress [ner:date]
+okay thanks guy
+appreciate
+thanks_henrion
+next question come [ner:person] [ner:person]
+please go ahead
+good morning guy
+nice quarter
+a_couple_of question talk rig_reactivation_program
+usual run [ner:number] rig [ner:date] plan_up put_out [ner:number] [ner:duration] may rig [ner:person] [ner:person] think guy stack will fall [ner:money] rig_category beyond rest rig
+[ner:person] think continue kind measure approach [ner:duration] bring_out kind [ner:number] rig think could next [ner:number] rig high quality significant horsepower_rig
+go get many specifics competitive reason really first-class rig perfectly situate perfectly suitable activity_level market fact see [ner:duration] without hesitancy whatsoever maybe even accelerate rate depend course market offer
+assurance see go say [ner:number] feel like run close [ner:number] rig point give point see account [ner:number] [ner:number] see rig repair weather all_of kind thing really hard effect_measure
+[ner:number] plus effect [ner:number] additional [ner:date] [ner:number] additional [ner:date] put we_kind [ner:number] level
+rig could bring market really go_out look [ner:date] say next [ner:number]
+[ner:number] thing would observe [ner:person] kind way world work tight rig_market_customer find accept rig might say would accept
+will take [ner:number] horsepower [ner:date] say could job [ner:date] horsepower
+real interesting thing move target effect number rig market will absorb give point
+highly confident effect next say [ner:number]
+right
+business_nobody talk drilling completion fluid obviously offshore activity globe_lease certainly strengthen deep water_activity strengthen
+business seem strengthen outlook business [ner:date]
+internally really assume continue run_rate [ner:ordinal] [ner:date]
+kind margin everything
+yes kind revenue
+clear [ner:person] though gulf go business
+last [ner:number] housekeeping question
+sg [ner:date] [ner:date] kick_up obviously key whatever increment get key rig [ner:date] kind run_rate think g&a
+guess would similar [ner:date] [ner:ordinal] around [ner:money] mention earlier move restricted stock impact g&a_number [ner:date] maybe [ner:number] bump_up [ner:money] [ner:date] [ner:date] somewhere around [ner:money]
+guess [ner:date] will somewhere around [ner:money]
+right finally tax_rate_assumption [ner:date]
+would use [ner:percent] see [ner:date] actually [ner:date] come little may occur [ner:date] purpose modeling price [ner:percent] indiscernible
+great
+thanks_guy
+thank
+next question [ner:person] [ner:organization]
+please go ahead
+thanks much
+clarify comment make [ner:number] rig [ner:person] number actual individual unit active [ner:date]
+give example [ner:person] [ner:set] rig_count could volatile due move weather thing [ner:person] mention
+know last even [ner:date] [ner:duration] see rig_count individual [ner:duration] [ner:number] range think ever [ner:duration] run
+guess would [ner:date] [ner:number] active give take [ner:number]
+okay know average rig_count [ner:date] give [ner:duration] actually something order [ner:date] [ner:number] unit work recent [ner:date]
+yes [ner:date]
+[ner:number] rig crew
+exactly look
+okay
+come back revenue per [ner:duration] want understand [ner:person] talk [ner:date] [ner:money] increase [ner:location] set [ner:money] miss [ner:location]
+want make sure misinterpret comment
+expect rate [ner:location] moderate get [ner:date] [ner:date]
+actually intend example
+[ner:date] really try look_out [ner:duration] feel like decent visibility far leave analyst draw conclusion [ner:duration] beyond
+example assume [ner:money] [ner:location] [ner:misc] utilization drop_off would effect offset some_of benefit bring back [ner:money]
+case think rate would move [ner:money] [ner:location] [ner:date] think would ultimately put would [ner:money] because_of [ner:misc] impact
+mean suggest margin quarter
+want ask question
+let take_off
+see revenue per [ner:duration] [ner:money] [ner:date]
+give projection [ner:money] [ner:date]
+[ner:person] say hard-pressed think reason would slow_down
+think go slow_down
+certainly see demand get equipment would certainly would anticipate [ner:date] increase will lend fleet show increase know go_up [ner:date] go job job point time_contract move target
+[ner:person] factor course know cost [ner:percent] market [ner:percent] market control competition give [ner:duration] [ner:duration] affect as_well
+tell see term demand necessarily clear pricing
+yes understand point_out nobody else spare capacity really [ner:number] major party significant capacity think really
+thanks_[ner:person]
+thank
+next question come [ner:person] [ner:person] company
+please go ahead
+good morning
+walk amount report active rig [ner:date] [ner:date] date reflect [ner:number] active rig key_acquisition
+yes
+mean [ner:number] include partial contribution point
+well certainly market
+look [ner:date] see many average key_rig run
+give [ner:duration] somewhere around [ner:number]
+know [ner:date] patterson-uti_growth [ner:location] [ner:number] [ner:number] [ner:number] [ner:misc] contribute believe [ner:number] [ner:number]
+frankly look [ner:date]
+[ner:date] rig market people work contract_rate method relevant [ner:date] happen look [ner:date] could help
+see significant sort divergence cash_margin term way rig influence overall cash_margin q1 sort progress negotiated project q2 might change see significant overall cash_margin
+think will significant move_they_up call [ner:person]
+certainly finish contract key make little less normally would charge certain area think will see switch know equal charge customer area
+ahead quickly right
+certainly will start happen [ner:date] basically would [ner:date] like rig
+[ner:person] go impact [ner:date] effect average will muted somewhat exist contract take_over complete
+think mute will continue [ner:date]
+got finally [ner:number] remain rig include active count key include sort pool [ner:number] talk reactivatable around [ner:money]
+pool
+[ner:number] total rig rig identify activate
+none happen [ner:number]
+[ner:number] might reactivate know mark indicate earlier look base_on demand market [ner:date] activate rig
+make sense
+yes part rig people get hand around handle along get rig put_they_out none rig project come_out [ner:date] none [ner:number] key_stack_rig
+okay
+thank guy
+[ner:person] question
+yes next question [ner:person] [ner:organization]
+please go ahead
+good morning_everybody
+clearly demand exceed supply rest [ner:date]
+question little bit supply_side_response discuss availability bring_out competitor
+perspective supply spare capacity out_of neighbor stack rig timing and/or economics
+would kind get thought [ner:person] best person address
+will happy talk little bit
+certainly see economics build new rig point
+maybe [ner:duration] will
+itis certainly radar_screen yet anywhere close long bring_out rig [ner:money] range new one cost [ner:money] get field think would competitive thing foreseeable [ner:date]
+certainly could change
+far rig come out_of marketplace certainly will scattered rig will insignificant number comparison overall number rig work [ner:location] [ner:date]
+okay
+[ner:person] maybe gut feel question mention customer see price commodity opportunity
+sense mix_change risk_profile drill i.e. shift away_from development exploration mix
+think mix fact would think would development_drilling exploration_drilling believe commodity_price go continue stay high
+know see rig run oil_field see rig run [ner:duration]
+think know oil place drill smaller spacing get [ner:money] barrel oil become economics
+see lot go particularly [ner:location] think go still need development unbelievable become economic drill higher [ner:money] gas higher [ner:money] will
+got
+last [ner:number] around efficiency
+throughout period maybe slower response efficiency_gain efficiency mod_improvement rig_efficiency move etc.
+see look crystal_ball efficiency
+think get efficient category rig [ner:date] think way [ner:misc] drilling_contractor respond long continuous turn start [ner:date]
+allow continue far efficient last upturn mention big technology change allow drill area go thousand_of well drill faster drill customer economics less barrel take pay higher commodity_price
+got create opportunity
+exactly
+good
+rest answer
+appreciate will turn back guy
+thank
+next question come [ner:person] ph [ner:organization] please go ahead
+thank
+good morning
+pretty_much_everything ask
+[ner:number] quick modeling_question
+run_rate d&a [ner:set] basis
+depreciation
+[ner:date] would guess somewhere around [ner:money] factor capex_estimate [ner:date] would take_it_up [ner:date] progress would guess additional rig activate
+[ner:date] somewhere maybe [ner:money] range
+great
+thanks
+thank
+next question come [ner:organization]
+please go ahead
+good morning guy
+good morning
+quick question
+look average_margin hit back [ner:date] closer [ner:money]
+see
+see get back level [ner:date]
+see [ner:date] exceed number
+head
+tend look_out beyond [ner:date]
+base upon say far [ner:date] would put somewhere [ner:money] [ner:duration]
+peak margin [ner:number] last time [ner:money] [ner:money]
+dramatically so_if demand continue pricing continue move could eclipse [ner:date]
+think view whether will happen point time
+thing look pretty strong guess [ner:location]
+look [ner:misc] side_thing run extremely strong [ner:duration] half [ner:duration] obviously peak level [ner:date]
+look expansion [ner:location] keep fleet
+think will always consider opportunity incremental rig [ner:location] frankly
+issue always [ner:duration] think will give superior return shareholder
+obviously appreciate fact [ner:date] margin point ahead [ner:location] course take slight discount fact seasonality [ner:misc] operation true [ner:location] term break-up_period
+always make evaluation consider whether move incremental rig [ner:location]
+know put additional rig [ner:date] would certainly consider
+much would like say subject
+guess another issue creep_up rig_count start push [ner:number] [ner:number] [ner:location] people_issue
+[ner:location] tough area get people
+hit wall
+guess [ner:number] rig come_out
+look staffing_level [ner:date] see hit barrier
+well know think will hit barrier
+think take time train think different turn slow methodology_way rig_count [ner:duration] turn look like may go visibility far would surprise go several [ner:duration] give time train people a_lot_of people young guy exactly right [ner:location] difficult place think industry [ner:location] decimate [ner:date] [ner:date] build back
+take time think correct way slow methodical trend put rig go
+see hurdle
+basically rig plan come_out staffing follow suit
+count look way look go [ner:number] rig [ner:number] rig big hurdle effect doubling business point incremental effect [ner:percent] increase rig much much easier accomplish already
+really pleased grow fleet time overall efficiency fleet
+drill area faster [ner:date] start [ner:date]
+think real well maintain efficiency know difficult a_lot_of place service_business [ner:duration] labor_have_always_be_the_biggest_single_problem hard problem slow hard problem a_lot_of rig
+always work
+think big issue
+okay great guy
+thanks
+appreciate
+next question follow-up question [ner:person]
+please go ahead
+mr._holly
+look like may step away_from phone will go next question follow-up question [ner:person]
+please
+[ner:person] want come back visibility
+mention great visibility [ner:date] wonder could characterize conversation customer
+start conversation potential work greater time horizon say [ner:number] [ner:date]
+yes think fair statement discuss
+term_contract make
+make term_contract yet
+certainly say go
+ask term_contract
+guess say visibility never see downturn indiscernible lead commodity_price_downturn believe commodity_price go stay oil [ner:money] [ner:money] barrel gas_between_[ner:money] [ner:money] [ner:money] think go see long trend continue visibility far see commodity_price go anybody guess
+[ner:date] pretty apparent might cross supply-demand curve crude oil world case good crude oil_perspective also good natural gas_perspective [ner:location] point go crack crude oil_price natural gas
+decoupling [ner:date] natural gas_price kind go away value [ner:number] ratio crude oil
+think see return industry
+crude oil short world guess reach close_to capacity able produce like natural gas [ner:location] [ner:date]
+case know yet think could see long long trend high commodity_price
+could discuss little bit think term
+mean rate go_up seem little incentive start lock_in think
+would condition would start consider go term_commitment
+get answer want make [ner:number] clarify comment
+think [ner:person] speak [ner:number] commodity recouple necessarily say would [ner:number] ratio use
+try suggest specific couple ratio may come back couple
+clarification
+[ner:ordinal] go back term_contract_question thought subject get point customer think achieve contract perspective give both_of kind proper upside return will consider
+factor course consider competition operate business competitive vacuum
+look competitive marketplace make judgment
+[ner:date] see term_contract yet offer level think would appropriate take contract put aside question enforceability
+right
+simplistic think term margin per rig_[ner:duration] know guess margin per rig_[ner:duration] start become interesting
+think complicated question
+let give a_couple_of particulars
+[ner:duration] get pay
+bear responsibility delay
+bear responsibility kind delay
+play weather
+play repair
+whole series look kind like binomial problem actually larger problem binomial
+last question really kind education get people add staff
+come out_of workforce
+try people always way [ner:number] thing happen upturn industry increase unemployment [ner:location]
+remember [ner:date] unemployment lowest [ner:duration] [ner:location] [ner:date] back normal [ner:percent] [ner:percent] draw lower end a_lot_of employee
+a_lot_of look work
+wages go_up
+[ner:date] [ner:percent] wage_increase at_least become competitive [ner:organization] [ner:organization] use competitive
+keep wages low low long could compete market_place
+[ner:date] kid could come out_of high school work [ner:date] drilling_rig could make enough money go college [ner:duration]
+[ner:date] back
+make money work drilling_rig anywhere else unskilled laborer
+draw market_place
+different [ner:duration] [ner:date]
+thing wages high enough [ner:date] compete
+thanks much
+question
+operator_instruction
+gentleman time show question
+would like turn conference back conclude comment
+thank everyone join
+appreciate support
+take care
+ladies gentleman conclude [ner:organization] [ner:date]
+would like listen replay [ner:date] conference please dial [ner:number] enter access_code [ner:number] follow pound_sign
+[ner:date] thank participate [ner:date] conference
+time may [ner:date] disconnect
+operator_instruction
+[ner:ordinal] question [ner:person]
+mr._[ner:person] may proceed
+good afternoon gentleman
+nice quarter
+could [ner:person] tell balance commercial loan get [ner:money] m_recovery could give little bit color loan
+actually create sorry [ner:person] help
+balance [ner:number]
+[ner:date] charge_it_down
+actually a_series_of real estate_investment feel little uncomfortable fortunately good property course time owner able sell property make whole reason market type property get favorable [ner:date] pleased able book recovery
+actually a_series_of property
+excellent
+doe launch_list_look point
+look good awhile
+honestly keep knock wood look economy think evidence economy really get stronger see
+[ner:duration] delinquency_number [ner:number] basis_point think outlook pretty good
+launch list low level relative basis feel good outlook asset_quality time
+mean something could jump bite feel pretty good
+think testimony strong economy
+think testimony underwriting_and_credit_administration_process
+sit around table evaluate credit come people acquire credit [ner:date] together awhile
+think good experience look
+sometimes thing happen beyond control
+happen make practice address aggressively early [ner:number] case [ner:date] favorable outcome lose money [ner:number] hotel talk much anticipate could
+feel good way a_couple_of problem get resolve
+kind follow kind give scrutiny loan_loss_provision get [ner:date] via [ner:date] [ner:organization] auditor forth give decline mpa excellent performance improve condition watch_list give little bit thought might impact reserve_level [ner:number]
+[ner:person] will answer
+absolutely right review_process banking_standard also external auditor also [ner:date] [ner:organization] become much rigorous adequacy loan per loan_loss
+believe model adequately address risk inherent within portfolio also know take consideration large amount new loan bring portfolio
+look back trend asset_quality overall portfolio really change quickly unless type economic shock type breakdown credit_administration
+say allowance loan_loss_reserve run fairly steady change moderately time
+thing jump mind ask question [ner:person] also mean net charge [ner:date] [ner:date] [ner:number] basis_point mean low number
+nobody go sustain kind number_[ner:duration] [ner:duration]
+mean look back last [ner:number] [ner:number] [ner:duration] probably go see somewhere [ner:number] [ner:number] [ner:number] basis_point average
+probably realistic expectation time net charge_off
+good
+[ner:person] look though [ner:duration] bring_down level investment_security
+think kind want keep point
+think may take_it_down
+pretty comfortable [ner:date]
+want get position borrow short term_fund invest intermediate long term_security leverage tactic
+pull_down leverage balance_sheet work_out well [ner:date] yield_curve flatten tactic really strategy get balance_sheet position anticipation see go happen
+[ner:number] question will let folk hop
+net interest_margin also improve nice improvement [ner:date]
+give little bit feel might think net interest_margin might continue improve throughout [ner:date] [ner:organization] continue increase rate
+well course theory balance_sheet continue asset sensitive probably [ner:duration] primarily because_of way commercial lending_customer_preference_shift toward variable rate_loan at_least market
+theory short term_rate go_up asset_sensitive_balance_sheet improvement net interest_margin
+take consideration flattening yield_curve see provide little dynamic type_scenario
+think go combination
+short term_rate_increase will help
+also depend happen long end curve as_well
+answer question
+help thank
+couple question will come back end ask somebody else
+next question [ner:person] [ner:organization]
+mr._[ner:person] may proceed
+[ner:person] hi gentleman
+actually s_[ner:person] sit_in [ner:person]
+congratulation quarter
+a_couple_of quick question with_regard_to fee_side
+nice improvement wealth_management_business term fee_income
+[ner:percent] growth quarter
+describe little bit drive also sort outlook go forward term business
+also insurance_line_item kind conversely see opposite see decline [ner:percent] quarter quarter pretty dramatic
+could talk little bit expectation near term far business
+will talk wealth_management let [ner:person] talk insurance
+term wealth_management a_couple_of thing go_on
+[ner:number] focus group shift term new business metropolitan [ner:location]
+open office [ner:date] downtown
+group work senator_influence crack business
+good business
+see continue
+add staff lease expire space [ner:date] will [ner:date] expect probably increase amount space probably put team together include commercial lender cash_management_person build little different type delivery_system [ner:date]
+a_lot_of_it_and_the_majority folk office will still relate wealth_management
+thing happen some_of older market folk older retire primarily able replace folk lower salary_level younger less experienced people
+also get brokerage_folk kind fully staff_up [ner:date] hub retail hub
+seem work well
+combination
+mean revenue_growth little bit ahead plan wealth_management_side business little stronger anticipate
+expense_side wonderful job manage expense degradation [ner:date] business believe
+think better model [ner:date] little different model [ner:date]
+overall net contribution exceed plan probably [ner:number] [ner:percent]
+yeah please way thing go
+[ner:person] great
+thank much
+will address question insurance
+decline look link_quarter correct
+hello
+hello
+next question still line mr._[ner:person]
+yes sir
+okay want address question insurance
+insurance actually compare [ner:date] [ner:date] [ner:date]
+slightly [ner:money] link_quarter_basis primarily [ner:number] factor
+[ner:ordinal] [ner:date] outstanding quarter insurance_agency bring a_couple_of large new account repeat [ner:date]
+[ner:date] actually also strong [ner:number] title_insurance_company_activity [ner:number] deal commercial title [ner:number] deal
+think factor [ner:date] extra strong [ner:date] normalize
+okay ready question
+next question [ner:person] [ner:person] [ner:location]
+good afternoon gentleman
+quick question related sort liquidity_ratio
+sense many liquid asset percentage earn asset would prefer see liquid asset
+ask regard obviously deliver [ner:date] want see kind baseline start add security whatnot back liquidity_management_purpose
+yeah
+[ner:person] utilize various liquidity_ratio economy_liquidity_ratio pretty much red flag
+far management_pool find somewhat limit
+like use dynamic model sort liquidity_gap look_out [ner:number] [ner:duration] anticipate happen way liquidity
+[ner:date] know [ner:date] run model tremendous loan_growth look_out [ner:date] model know start get little bit sweet
+time take a_couple_of different action work_out well liquidity cut back little bit upside cost_perspective related net interest_margin whenever add liquidity become expensive
+[ner:date] go purchase [ner:money] broker_cd
+also get little aggressive internally generate cd_program
+[ner:date] introduce savings_account call green_plan index [ner:organization]
+[ner:duration] add close [ner:money] account attractive
+liquidity_issue [ner:date] certainly address
+green_plan provide good core_low_cost_internal_fund also fit nicely shift see commercial loan go towards variable rate_loan
+thing would mention [ner:number] [ner:percent] new fund
+yeah
+shift thing cannibalize exist account
+probably close [ner:money] [ner:money] raise savings_account new fund outside bank
+well guess focus asset_side balance_sheet
+point want balance_sheet consist loan asset liability
+need source liquidity asset_side as_well
+guess question try keep liquid asset percentage total asset earn asset ratio
+realize somewhat simplistic rule thumb_approach even manage way
+integral part whole asset/liability_management
+mean something look [ner:set] ratio
+specific target [ner:date] treasurer let ask
+[ner:number] policy_limit use run rate like percentage loan letter credit a_kind_of asset specific target security per_se
+also look available borrowing_side
+share loan letter credit earn asset_ratio
+internal memo use like [ner:percent]
+okay
+[ner:number] last question
+[ner:date] ve little bit volatility excuse mortgage_servicing_rate
+guess [ner:duration] upswing [ner:date] downswing next memory may flaw
+hold_up [ner:date] think go hold_up go forward
+well know tie long term_interest_rate grow
+[ner:date] small minor adjustment valuation fact small guess allowance reserve set aside point interest_rate go_up would small recovery
+okay
+value [ner:set] [ner:set]
+[ner:set]
+okay
+mean put put_new_rate_on [ner:set] [ner:set]
+[ner:set] okay guess question
+thank
+gentleman question time
+question
+question thank participate [ner:date] conference_call
+certainly appreciate opportunity discuss financial result [ner:date] [ner:date] look forward talk all_of [ner:date]
+thank mr._[ner:person]
+caller_instruction
+[ner:person] ph [ner:person]
+let [ner:ordinal] start_off backlog
+notice end q3 last speak guy hope work_off approximately 36m backlog net addition [ner:date] look like work right around [ner:number]
+give kind sense expectation expect work_off q1
+importantly term project_timing large project work_off [ner:date]
+well tough say go happen [ner:date] term revenue basically because_of [ner:number] thing
+[ner:ordinal] [ner:date] slow [ner:duration]
+ability get material timely manner somewhat hamper mill
+revenue could expect [ner:date] will probably delay [ner:ordinal] [ner:date]
+some_of major project material will come towards [ner:date] definitely [ner:date]
+delay material really prevent increase revenue [ner:date] as_well_as weather condition much lack material
+slow_down work [ner:duration] [ner:duration] [ner:duration] rather_than normal [ner:number] [ner:duration] range
+okay [ner:date] assume delay material directly related steel memory serve little bit less_than [ner:money] worth steel still sit yard correct
+correct some_of work get go mill
+mean [ner:money] steel will help smallest shorter turnaround-type project larger project similar let say [ner:organization] announce course job
+see backlog go_up little
+material order mill
+okay say actually great segue [ner:ordinal] question
+term bidding_activity hear [ner:organization] also area [ner:location] landscape look [ner:date]
+remember last time speak anticipate get increase amount work international area also larger percentage deepwater-type product project excuse
+know [ner:organization] potentially push thing back bit scale_back budget affect bidding_climate
+well bidding_climate think go improve [ner:date] engineering_firm [ner:date] get busy
+talk several deepwater_project come probably [ner:ordinal] [ner:date] hope participate
+[ner:date] backlog far deepwater [ner:percent] backlog consider foreign project actually [ner:percent] backlog actually increase foreign backlog [ner:organization] work get
+look like foreign work prevalent marketplace at_least point time
+however see shelf_project deepwater_project [ner:location] come_out bid around [ner:date]
+relate [ner:location] early indication get term hurricane-related work come around know tail-end q1 q2
+well see
+hurricane-related work send crew offshore work [ner:ordinal] [ner:date]
+still work nearly much might think
+work [ner:date] really diving_and_pipeline_company
+far replace platform entire platform see point time
+rely hurricane_damage think whatever go minimal part [ner:date] work
+okay great
+thanks guy
+okay
+thank [ner:person]
+caller_instruction
+[ner:person] ph stone ph research
+short question margin [ner:date]
+seem historic almost historic low take_out [ner:date]
+think go improve go forward
+reason
+well know go improve
+bid higher margin sure hope improve higher level see [ner:date] guarantee
+yeah would like get margin higher [ner:date]
+increase workload manhour able hopefully possibly later towards [ner:date] [ner:date] historically better weather_condition work manhour
+okay specific reason like raw material something else
+like example [ner:ordinal] [ner:date] workload approximately manage best term margin
+well understand manhour normally [ner:ordinal] [ner:date]
+sometimes bonus play margin happen [ner:date] [ner:date] mean [ner:date] happen [ner:date]
+sometimes bonus may go early delivery deliver time incentive customer will give particular job
+normally would realize incentive right end project make sure meet delivery
+sometimes will see play will actually raise margin
+think see [ner:date]
+yeah probably thank
+thank much
+okay [ner:person]
+[ner:person] [ner:person]
+follow-up question think would jump_on
+could [ner:duration] [ner:person] [ner:person] let circle back steel_issue
+memory serve correctly recall steel_price [ner:percent] [ner:date] 03-type timeframe
+kind get little bit clarity term raw material buy_out mill much steel need like lower-grade-type steel
+guess try get sense much actual steel term volume obviously related lag_time need go_out purchase open market
+importantly try kind get sense available go stretch_out duration project
+well purchase_order neighborhood will give ballpark_figure
+basically larger project [ner:percent] project involve steel_purchase
+look larger project [ner:date] [ner:money] worth steel order steel_mill
+order will fill [ner:ordinal] partly [ner:date]
+order fill rather quickly [ner:date] able start increase manhour hope
+way order protect price
+price_risk particular order
+high-strength steel mild steel mix predominantly a_lot_of high-strength steel
+okay great
+actually remind another question
+housekeeping issue
+direct labor_[ner:duration] work [ner:date]
+[ner:date] yes
+[ner:date] [ner:number]
+okay
+[ner:date] [ner:person] reference [ner:number]
+okay
+another quick housekeeping question
+notice sg&a [ner:date]
+matter fact lowest point full [ner:date]
+appropriate type number run
+something 1m maybe [ner:number]
+[ner:person] range go fall
+mean know operation level
+[ner:person] directly relationship profitability
+sure
+okay will fluctuate sg&a anything
+sure sure
+understand
+go say great thing sg&a bit want mention might sore subject
+thanks guy
+okay
+thank [ner:person]
+inaudible multiple speaker [ner:person]
+[ner:person] [ner:person]
+quick question guess go back [ner:date] steel_delivery_issue
+something would affect bottom line delivery kind project early stage book profit yet
+well book profit need steel able put_manhour_in
+know work manhour without steel
+result [ner:duration] actually [ner:date] enough material_in-house able work people normal [ner:number] [ner:duration] work_[ner:duration]
+know inability work manhour realize earnings manhour remember percent complete
+recognize profit add value manhour
+right
+get steel start value-added work recognize earnings
+without steel_in-house number [ner:number] manhour therefore fix cost still profitability high would like see
+guess many manhour know affect
+hard say really
+could speculate [ner:date] look [ner:date] versus [ner:date] look know [ner:number] manhour difference work [ner:date] material in-house versus [ner:date] struggle get material timely basis
+broader question guess
+know manhour overall [ner:date] versus [ner:date] come
+would expect [ner:date] know [ner:date] flat
+well depend work pick_up
+well indirect way ask
+yeah always hope would
+yeah
+mean goal try get take work get reasonable margin
+go go ahead buy work know
+trade_off whether buy work know would rather let competitor take some_of cheaper work wait take little higher-priced work little later [ner:date]
+know whatever happen bidding_cycle go determine
+best area [ner:date] term bidding_activity
+international domestic
+well international think will probably see shift domestic hope know [ner:duration]
+optimistic [ner:location] go return
+well look capex_spending oil_and_gas_producer increase capex_spending overseas also [ner:location] would hope would relate project
+talk engineering_firm project draw board [ner:location] know wait see actually materialize
+know obviously way road encourage some_of deepwater_rig go back work gulf around know around world yeah seem pretty exciting
+know people really excite [ner:date] guess hopeful will relate deepwater_project would like large know top side build last know [ner:number] [ner:duration]
+would add backlog could see come_out at_least get competitor busy could pick_up project higher margin
+right
+[ner:number] [ner:number] last question
+constitution [ner:person] could give update progress
+quite well
+okay
+go quite well
+run ahead schedule move along quite well
+great
+thank much [ner:person] [ner:person]
+appreciate
+yeah
+[ner:person] ph red_rock_partners ph
+well listen apologize
+jump [ner:duration] late
+backlog know 82m [ner:number] m_manhour
+quite record know pretty decent backlog go [ner:date]
+[ner:date] number include everything get since [ner:date] as_well
+correct
+always report
+backlog [ner:date] additional work pick_up since
+okay
+general bidding know level bidding_activity say [ner:date] versus [ner:date]
+well bidding_activity little stronger [ner:date] see [ner:date] [ner:date] somewhat election_[ner:duration] notoriously election_[ner:duration] much happen far development especially [ner:location]
+see uptick
+engineering_firm busy busier [ner:date] bid project delivery later [ner:date] especially [ner:location] as_well_as international project
+dollar help guy maybe get opportunity international [ner:date]
+well think [ner:person] might foreign backlog [ner:date] 40m deep mean [ner:percent] backlog [ner:number]
+[ner:percent] [ner:percent] backlog foreign [ner:percent] backlog deepwater
+see shift towards foreign activity normally run maybe 20-something-percent backlog_work foreign
+majority [ner:organization]
+well [ner:number]
+actually [ner:number] project
+course give number normally
+right
+last indiscernible mean a_lot_of thought maybe a&p_-rsb-_-lsb-_ph_-rsb-_company busy try get production back some_of major repair would push_out some_of big decision would push_out
+mean maybe wishful thinking go help [ner:person] little bit probably little bit work really see maybe major know major issue some_of contract bid focus repair focus new project
+well think talk term dolphin know repair a_lot_of repair
+okay
+see offshore [ner:date] modification increase production see some_of project term dolphin see
+know hopefully will see maybe [ner:number] platform get production sub seed ph well another line increase production_equipment shut-in tie-in
+see hurricane_damage
+okay great
+thanks guy
+good job
+okay thank [ner:person]
+thank [ner:date]
+caller_instruction
+[ner:person] ph [ner:person] ph
+know quick question know theoretically term look business [ner:date]
+appear trend set improve certainly [ner:duration] [ner:duration] improve little bit as_of late
+look business [ner:date] bump against [ner:number] m_manhour 100m backlog [ner:date] know start approach point
+point know purview know want go term backlog [ner:date] fear lose little bit efficiency either need stretch staff
+word guess try figure_out utilization-wise start bump_up against need start see know margin really expand project decide make kind incremental add backlog
+yeah well know increase backlog cautious increase backlog go look project better margin know backlog go somewhat competitor take additional work
+think level go back_off
+see good project reasonable margin go go ahead take project know margin
+course labor available area [ner:date] could actually increase labor_force without much problem point time
+know may change shortly a_lot_of labor market
+pick_up labor last [ner:number] [ner:duration] specifically [ner:date] get ready some_of work come board [ner:date] [ner:date]
+really pick_up quite a_bit_of work
+also beef_up staff_position
+hire [ner:number] outstanding project_manager increase ability work work control work [ner:date]
+expand staff able handle higher workload come
+okay guy already pretty well prepare
+correct
+okay
+thanks
+okay
+okay
+conclude [ner:date] question-and-answer_session
+time would like turn_the_call_back_over mr._[ner:person] close comment
+okay want thank call_in will talk [ner:date]
+thank
+thank
+would like access replay [ner:date] conference may dial [ner:number] start [ner:number] [ner:time] [ner:date] [ner:time] [ner:date]
+please use passcode [ner:number]
+conclude [ner:date] conference_call
+thank participation
+operator_instruction
+[ner:person] [ner:organization]
+good morning
+wonder could give color
+[ner:person] think mention inventory partially drive some_of acquisition
+know bit sequentially could give sense [ner:person] might contribute inventory build year-over-year
+yes [ner:person] [ner:person]
+see slight increase inventory [ner:misc]
+launch [ner:misc] [ner:location] [ner:location] year-over-year basis see slight increase inventory_level
+more_than [ner:percent] increase drive [ner:number] acquisition
+[ner:person] [ner:percent] acquisition else would drive
+really [ner:number] piece major driver
+okay [ner:person] significant enough
+yes
+okay question term visibility
+learn [ner:person] miss [ner:location]
+well [ner:person] really really [ner:number] component
+biggest component plan call plan miss planned reduction sell-in
+a_lot_of analysis business [ner:date] frankly think much sell-in occur q1 [ner:date]
+highly seasonal business spend back [ner:duration] essence try balance_out retail inventory much sell-in
+least way run business much sell-in
+[ner:date] cut back intentionally biggest piece reduction year-over-year planning
+[ner:ordinal] component weak sale category_sale man woman shaver [ner:date] both_of category show decline_year-over-year_,_dollar_decline really a_couple_of reason behind
+[ner:number] mix-shift low price entrant category sub [ner:money] entrant heavily promote retailer trade dollar versus would look category historically
+[ner:number]
+[ner:ordinal] [ner:organization] mp3 heavily promote discount holiday_season view datum statistics yet view promotionally take some_of low-end category_growth away
+okay
+yet despite hit expansion margin quite strong [ner:location]
+yes strong
+reflection [ner:misc]
+mean go back [ner:duration] say [ner:person] go generate [ner:date] say [ner:money] synergy
+since update think number [ner:money]
+would impact geographic basis [ner:misc] business [ner:location] [ner:location] see flush p&l [ner:date]
+perfect
+question
+thanks much
+okay
+[ner:person] [ner:organization]
+technical_difficulty hey look like fund debt [ner:organization] extra [ner:money] leave
+plan [ner:date] acquisition [ner:date]
+see surplus really related revolver
+think rest debt term_debt bond right level finance refinance exist debt as_well_as [ner:organization]
+flexibility term reasonably good size revolver sit
+answer yes tell people [ner:number] key attribute [ner:organization] really like fact significant presence pet_category
+fragmented category
+[ner:number] want continue find roll-off opportunity acquisition_target keep little indiscernible continue pursue opportunity go forward
+okay great
+[ner:misc] battery_business see business_environment become lot rational
+mean [ner:organization] pretty decent [ner:location]
+look like [ner:organization] kind trajectory
+pricing_environment_trend start stabilize little bit
+yes mean [ner:person] go back versus [ner:duration] [ner:number] think see improved pricing_dynamics marketplace general
+evidence [ner:number] major competitor [ner:location] battery_margin operate margin [ner:organization] significantly improve
+[ner:date] see heighten promotional activity [ner:date] competitor
+always see promotional activity [ner:date] because_of holiday_selling
+right see kind volume_growth [ner:percent] [ner:location]
+yes see slight volume_growth sort flat slightly decline dollar_growth_great
+plus-2 minus-2 somewhere range
+got
+microlite surprise business turn quickly
+mean business reach inflection_point
+assume business will stay profitable point forward
+yes think certainly expect will stay profitable
+key component buy business under-capitalized stay afloat borrow money outrageous interest_rate
+well recapitalize business eliminate virtually all_of expensive debt incur
+good balance_sheet_move
+install fantastic management_team result change product_offering rationalize skus
+importantly raise average price [ner:organization] [ner:percent] marketplace price_increase stick entirety
+principle_competitor [ner:organization] use opportunity increase profitability raise price behind
+action take place frankly surprise fastly take hold
+surprise go make profitable
+expect pretty good fight retailer distributor wholesaler would say fight last long expect
+[ner:date] begin [ner:date] find run low product begin order normal pattern
+would suggest [ner:location] go drag [ner:misc] business go forward
+frankly think [ner:duration] go [ner:number] star_performer enormous market_share [ner:percent]
+numerical distribution high
+must-have brand replace [ner:organization] brand because_of dominance brand marketplace
+great
+[ner:number] last [ner:number] may
+[ner:location] think go start export battery back [ner:location]
+know add fair bit alkaline_capacity know long-term plan re-import
+go happen sooner rather_than later
+think go see amount movement product region
+whether [ner:location] [ner:location] [ner:location] really base particular business_issue opportunity might [ner:date]
+go see movement product begin [ner:date]
+will see throughout [ner:date]
+big opportunity [ner:date] bring line high speed double-a triple-a alkaline_line build [ner:date] install facility
+still sort [ner:duration] away_from timeframe go see ten hundred million_of battery export versus start
+great thanks
+mean go take capacity out_of [ner:person]
+
+mean [ner:location] go growth_vehicle alkaline_capacity need [ner:date]
+large plant [ner:location] large plant [ner:location] [ner:location]
+plant run near capacity alkaline grow around world [ner:date] capacity_need go come out_of [ner:location]
+great
+thanks much
+[ner:person] [ner:organization]
+good morning gentleman
+[ner:person] may address part conclude market_share_issue related remington_[ner:location]
+biggest component [ner:misc] [ner:location] man shave
+far sort whole [ner:money]
+[ner:money] category okay
+market_share_issue
+fact share slightly improve [ner:date] highest man shave share history [ner:person]
+okay
+woman category much smaller sort [ner:money] versus [ner:number] see share_loss woman category [ner:number] market
+several low-priced offering come marketplace price_point [ner:person] historically sell product probably want sell product take shift mix take share away_from result
+still try analyze movement action line-up adjustment need go [ner:date]
+finally [ner:location] personal care business grow [ner:location]
+grow [ner:percent] [ner:location] [ner:date]
+small business
+fundamentally would say shift material term market_share
+shift international moment
+confident sustainability growth [ner:location] [ner:location] relate [ner:person]
+conclude part success thus far simply fill pipeline prior especially robust
+think probably little bit
+short answer assume continued significant growth [ner:location] internationally roll_out geography
+[ner:location] biggest piece growth [ner:location] grow dramatically [ner:location] [ner:date] biggest piece relate personal care_business [ner:location] fire
+launch wet_[ner:number] product could keep stock
+heavily advertise tv [ner:location] fantastic success
+see triple effect launch [ner:misc] continent [ner:date] yet come
+[ner:date] [ner:number] go see continued growth out_of [ner:misc] [ner:location] because_of geographic expansion particularly shave man shave business well-developed prior acquisition
+[ner:location] test_market [ner:location] [ner:date] [ner:misc] significant success
+learning_experience
+know learn ship enough product market [ner:date] [ner:ordinal] sell out_of [ner:misc] retailer sell product
+learn something get ready [ner:date] launch [ner:misc] [ner:location] area [ner:location] area [ner:location]
+rollout albeit will smaller business_model [ner:location] rollout [ner:misc] [ner:location] really begin
+[ner:number]
+[ner:person] could drill_down little term battery_business share we_alkaline zinc_carbon large-pack product
+internal dynamics [ner:date]
+unit_shipment alkaline slightly
+dollar_sale alkaline_excuse i_dollar_unit_sale alkaline slightly
+unit_dollar_sale alkaline
+negative pricing [ner:number] [ner:percent] [ner:date]
+combination movement bigger pack_size something occur long time
+as_well_as fundamental shift higher-priced alkaline lower-priced alkaline heavy duty
+heavy duty grow [ner:date] low-end shopper totally value_shopper mass_discount dollar_store buy heavy duty zinc_carbon_product
+resurrection zinc_carbon fashion
+yes would say short-term
+personally think differ view personally think sort short-term resurrection
+retailer heavily promote specific item
+long-term trend [ner:misc] marketplace continue convert alkaline
+way [ner:number] [ner:percent] convert [ner:date] see trend zinc_carbon go [ner:percent] business [ner:date]
+maybe go grow extra [ner:number] [ner:percent] short term
+long-term trend
+long term_trend [ner:location] convert alkaline actually accelerate conversion alkaline [ner:location] [ner:location] [ner:location] know still almost totally zinc_carbon_market
+zinc_carbon represent [ner:number] out_of every [ner:number] battery sell world general battery_segment [ner:date]
+[ner:location] develop
+[ner:person] [ner:number] question
+probably miss could give battery_revenue [ner:misc] [ner:date]
+yes [ner:person]
+hang [ner:duration]
+[ner:misc] [ner:money] [ner:number]
+thank
+okay thanks [ner:person]
+[ner:person] [ner:organization]
+thanks good morning
+go back cost_savings [ner:duration]
+could tell [ner:date] total [ner:misc]
+sort give idea break_out geographically
+yes [ner:person] really impossible really identify [ner:person] mention see [ner:money] annualize estimate
+would say [ner:date] probably realize [ner:money] [ner:money]
+net year-over-year will see [ner:money] [ner:money] extra [ner:date]
+really quantify geography specific line_item
+really [ner:person] try
+business detailed plan get synergy execute program track
+frankly something else
+[ner:date] something else
+yes [ner:date] finish integration essentially totally new business_model new functional structure try go back track exactly various component
+end_up new integrate business different cost_structure go forward allow improve margin
+okay
+term [ner:misc] shave issue
+wonder know say still analyze go_on sound like maybe [ner:number] issue could line blur little bit new sort power_''_product wet shave category
+wonder risk product really go start compete product
+would say mean view would long-term growth
+emotionally drive shift will see occur fundamental change consumer
+get go back consumer_behavior
+either wet shaver dry shaver
+[ner:location] [ner:number] market-place wet shave
+reverse [ner:location]
+change
+term [ner:date] season like gift-giving big deal least [ner:organization] mp3 promote product price_point think make nice stock stuffer a_lot_of people stocking [ner:location]
+think promotional strategy may short promotional shift certainly long-term fundamental category_shift dry wet shave
+would say
+okay sense straight inventory_level point
+mean issue clear
+sort [ner:misc] industry-wide issue
+view industry industry seasonal industry face challenge try figure_out right business_model shipment
+want try reach inflection_point cost yourself_sale want big return_pipeline come way
+make conscious decision [ner:misc] specific make conscious decision cut_that_back
+certainly enter [ner:date] much better shape retail inventory_standpoint [ner:date]
+sort plan move part
+unhappy fight high inventory much [ner:date] [ner:date] deal return thing around particularly like
+know say ourself good business_move
+uhm_hum
+finally topic some_of new product advertising marketing_support go [ner:date] incremental kind result happen [ner:date]
+something plan fund budgeting_process go eat [ner:misc] cost_savings
+completely plan go back [ner:duration]
+completely plan review discuss retail customer surprise
+will fundamental affect way run business
+fact [ner:date] in_spite_of reduce inventory specifically spend money [ner:misc] year-over-year ever
+okay good thanks
+[ner:number] final quick [ner:number]
+inventory primarily drive decline cash_flow operation
+mean [ner:person] mention mean hit expec cash_flow hit expectation [ner:date]
+inventory see go_up slightly offset receivable decline
+anticipate increase [ner:misc] because_of growth_[ner:location] [ner:location]
+plus mention [ner:location]
+pretty much hit expectation [ner:date]
+slightly exceed internal
+okay look big shift cash generate rest [ner:date]
+watch [ner:date]
+yes watch [ner:date]
+good
+sorry
+yes [ner:date] good multiple speaker q2
+okay thank
+[ner:person] [ner:organization]
+good morning
+hey connie
+could comment little bit gross margin give breakdown negative mix acquisition decline
+detail connie
+[ner:number] thing talk comment reset standard [ner:date]
+think everybody aware see commodity_and_material_price_increase flow year-over-year standard
+tend offset course [ner:date] a_lot_of cost-reduction initiative
+part margin_compression result new standard go fiscal [ner:date] expect cost-reduction thing kick_in [ner:date] will see will able offset impact margin_structure
+standard mean
+amount particular product amount charge cost sale
+manufacturing_cost carry product inventory sell charge cost sale
+okay
+look gross margin go forward [ner:date] one-time decline decline rest [ner:date] get little bit easier quarter
+see improvement [ner:duration] gross profit_margin
+mean will less
+will overall will slightly [ner:date] because_of [ner:location] microlite
+consecutive quarter_basis see growth gross profit_margin q2 q1
+will year-over [ner:duration] q2
+yes slightly yes
+[ner:location] microlite operate low gross margin
+relatively small still impact corporate composite average
+okay q2_gross_margin decline year-over-year [ner:ordinal] half flat slightly
+yes model [ner:date] probably go somewhere around [ner:number] basis_point year-over-year basis_decline
+technical difficulty
+pretty big decline
+model know anybody else
+okay thanks
+[ner:person] [ner:organization]
+guy try get underlying impact margin_line cost_savings
+tell dollar_basis commodity_inflation_impact [ner:date]
+[ner:date]
+tell [ner:date] project battery_part business [ner:money] see year-over-year increase
+[ner:date] project cost-reduction initiative [ner:money] so_that [ner:date] will offset impact business
+specific breakout [ner:date]
+get
+[ner:misc] decline [ner:location] much relate change shipment_strategy
+half significant piece
+okay category still single-digits double-digit estimation
+woman category
+number real firm [ner:date]
+yes sure
+woman category double-digits small category
+still important focus
+man category technical difficulty
+could give little detail dynamics shipment know want beat thing death talk lot mean will retailer general request stuff channel essentially guy basically pull back get flack
+
+mean go
+seasonal category people always trouble try define exactly right consumer_takeaway likely
+a_lot_of forecasting thing like go analysis
+say [ner:number] bigger problem seasonal company seasonal category
+[ner:date] think make good judgment base_on [ner:person] historic sell-in [ner:date] sell-in key retailer
+terrific sale_season [ner:date] drive market_share highest level history
+work
+still end_up much inventory come back way
+determine [ner:date] better job manage
+
+create anything comp_issue [ner:duration]
+will year-over-year return meaningful impact business
+think will meaningful impact comp_year-end
+[ner:number] [ner:number]
+obviously push towards zinc_carbon_battery lately participate_in
+mean gain shelf_space zinc_carbon expense alkaline anywhere
+significant shift [ner:number] major competitor term distribution [ner:date]
+significant shift alkaline zinc_carbon_business
+know technical difficulty zinc_carbon really growth occur zinc_carbon business benefit as_well_as [ner:number] competitor business drive discount_and_dollar_store
+okay thanks
+[ner:person] [ner:organization]
+verify something get confuse little bit discussion gross margin [ner:date]
+mention gross margin will somewhat [ner:date]
+[ner:ordinal] obviously exclude [ner:organization] right
+purely correct
+right
+discussion core_business
+acquisition take place yet
+right
+none really [ner:ordinal] part gross margin year-over-year back half versus [ner:date]
+[ner:date] slightly year-over-year basis
+okay
+back-half improvement year-over-year
+indiscernible [ner:person] sort [ner:number] basis_point [ner:date]
+fundamental shift occur margin inclusion [ner:location] microlite margin overall corporate margin okay
+roll standard [ner:person] try explain roll standard beginning fiscal [ner:duration] load plan anticipate increase price commodity standard roll_out margin
+go [ner:date] generate cost_reduction favorable variance flow p&l
+okay
+a_lot_of favorable variance occur [ner:date] inventory give credit variance inventory actually flow_out revenue
+know get far technical would suggest [ner:date] essence reduce because_of
+enhance go [ner:date] roll_out cost_reduction
+okay
+make perfect sense
+probably mixed benefit hopefully [ner:misc] sell back-half [ner:date]
+right
+right
+yes product_mix_improvement
+right
+housekeeping cash_balance [ner:date] please
+multiple speaker [ner:money]
+[ner:number]
+yes
+[ner:date] know want talk much detail [ner:organization] big picture_perspective plan major integration course [ner:duration]
+give peak_season [ner:organization] want leave alone [ner:date] thing slow_down start [ner:date]
+right
+go think go virtually nothing business [ner:organization] peak selling_season would june/july okay
+activity will a_lot_of planning will a_lot_of integration_planning [ner:organization] as_well_as so_that know want later
+will busily work purchase initiative global purchasing_strategy enjoy quicker
+will also work it_group system_integration financial system_integration ultimately [ner:organization] will take place
+will take place key season
+okay
+term impact fiscal [ner:date] deal will accretive will slightly accretive fiscal [ner:date]
+synergy really go flow deal [ner:date] [ner:date] [ner:duration] come
+a_lot_of implementation distribution_-lrb-_ph_-rrb-_will_also_be_[ner:date] [ner:date]
+yes will [ner:date] [ner:date]
+right
+will a_lot_of work
+last question give timeframe spend [ner:organization] know go provide a_lot_of detail [ner:date] overall view still bar acquisition way see business go combine planning still see close [ner:date] de-leveraging bar acquisition full pro_forma_basis [ner:date]
+yes new projection see [ner:misc] take_off [ner:number] whole turn leverage [ner:duration] ownership business
+projection let caution expectation will able [ner:organization]
+great
+thank
+mr._[ner:person] time show [ner:duration] remain a_total_of [ner:number] participant queue
+well let take question
+thank
+[ner:person] [ner:organization]
+hi good morning
+a_couple_of quick question
+give sense [ner:organization] [ner:date]
+really designate [ner:organization] versus [ner:misc] versus [ner:organization] anymore since integrate [ner:misc] [ner:location]
+think really want take look [ner:organization] would take look [ner:location] result
+yes
+[ner:misc] result [ner:location] also
+okay also issue standard quite understand exactly meaning
+know talk variance shift term move anything out_of sg&a cog
+
+
+normal process [ner:set] adjust standard product
+yes think [ner:duration] see cost_improvement type thing basically sit inventory roll_that_product_out normal sale_channel
+say see good year-over-year cost_improvement [ner:date] sit inventory will get basically wash [ner:duration]
+load all_of bad news even project bad news might think might occur throughout [ner:date] standard cost put none benefit already identify far outweigh bad news load will generate [ner:date]
+will flow_out [ner:duration] inventory_flow
+okay could ask couple quick
+typical standard cost system
+yes
+make little bit sense
+ask couple quick housekeeping cash tax interest [ner:date]
+interest [ner:money] interest cash_,_tax_number low
+okay thank
+[ner:person] [ner:organization]
+good morning
+recap say expect raw material_cost rise [ner:money] [ner:date]
+
+let go back
+let go back
+multiple speaker cost go many material manufacturer use [ner:date]
+[ner:date] see cost_increase
+project standard cost [ner:date] roll higher cost standard
+[ner:money] worldwide battery_business
+part culture continuously look way improve efficiency reduce cost
+whole series initiative lay_out [ner:date] already benefit will kick later [ner:date] will total [ner:money] cost_reduction
+right
+net net fiscal [ner:date] actually will see manufacturing_perspective lower cost
+get
+raw material_side [ner:date] hedge lose stock_market
+see belief category peak occur [ner:date] actually see moderation level off_of cost_increase
+see [ner:date] sit exposure business
+time stock_market
+place zinc
+commodity use much battery_manufacturing
+hedge protect
+get
+thank
+[ner:person] [ner:organization]
+[ner:person]
+hi guy [ner:person]
+sure tip hand could give sort pro_forma apple apple organic kind constant currency_sale [ner:date]
+[ner:date] sorry
+think mention euro probably significant piece contribute [ner:money] year-over-year sale_increase
+okay
+would use number
+thank
+also acquisition_front a_lot_of discussion
+know really talk thing detail say whether_or_not sort poke_around something [ner:date]
+something potentially feel imminent
+say
+close acquisition [ner:ordinal]
+well comment helpful like topic_dujour
+right well will remain topic_dujour
+know get hand full close acquisition
+yes
+honest forthright announce acquisition investor_meeting investor_call stockholder_meeting bank_meeting
+understood
+will continue look thing interest
+interest pet_category
+think rollup_opportunity could exist
+a_sort_of like-size acquisition like [ner:organization] know plan marketplace
+get hand full
+helpful
+thanks guy
+[ner:person] [ner:organization]
+hi inaudible question highly accented language
+give idea battery_division percent sale come heavy duty_battery versus alkaline_battery
+also idea price margin_differential [ner:number]
+vary tremendously region country [ner:date]
+go [ner:location] know probably [ner:number] sale zinc_carbon versus alkaline because_of nature market
+[ner:location] [ner:percent] market alkaline
+think less_than [ner:percent] zinc_carbon sale probably model pretty closely
+term revenue alkaline_battery will sell depend pack_size etcetera etcetera average may [ner:number] zinc_carbon sell obviously amount margin_dollar get greater alkaline_battery zinc_carbon_battery because_of pricing_dynamic
+manufacturer like sell alkaline
+zinc_carbon low price_point_product fit certain part world think right kind battery sell [ner:location]
+actually out_of total battery_sale total general battery_sale would round cell_battery around world [ner:money] [ner:date] [ner:money] alkaline
+technical difficulty [ner:number] general battery_business
+thank
+
+operator take [ner:number] question
+think [ner:date] [ner:duration] will close_it_up
+follow-up [ner:person] [ner:location]
+okay sorry [ner:person] quickly
+probably mention could comment eps comfort range [ner:date]
+comment [ner:date]
+try best get away_from specific [ner:set] guidance
+know [ner:date] big new [ner:misc] give guidance [ner:date] really guidance give quarter indiscernible
+okay thank
+yes
+okay
+well thanks
+appreciate time continue interest [ner:organization] look forward see many [ner:date] [ner:set] investor_conference will lay_out much detail [ner:organization] early integration_plan particularly area cost_savings cash_cost etcetera
+thanks great [ner:duration]
+conclude [ner:date] [ner:organization] earnings_conference_call
+many [ner:date] disconnect
+operator_instruction [ner:person]
+[ner:number] question
+apologize mention could walk operate margin pro_forma_operate_margin deteriorated sequentially optoelectronics [ner:organization] though [ner:number] business sequentially
+hello hear
+say [ner:person]
+sorry
+optoelectronics_and_[ner:organization] sequentially yet pro_forma_operate_margin decrease somewhat
+talk segment hurt margin sequentially
+yes guess look [ner:person] [ner:organization] perspective sequentially operate margin pretty significantly
+also look sort [ner:number] [ner:number]
+yes
+look like [ner:organization] go little bit sequentially
+think go see spend [ner:money] r&d [ner:date]
+start ramp r&d_increase [ner:date] [ner:date] [ner:date]
+start experience some_of higher r&d_spending technical difficulty
+okay thank
+[ner:ordinal] question talk flash cell_phone_camera [ner:duration] half [ner:date]
+know design couple_handset already
+predicate handset_ship volume new design_win
+[ner:person] think predicate volume_growth
+fairly large volume_base
+drive adoption higher-resolution ccd_imager cmo_imager phone underway [ner:date]
+expect see benefit [ner:ordinal] half time get indiscernible type volume_measurement
+design broad range potential customer
+couple significantly
+think begin see volume
+okay thank much
+[ner:person]
+prepared remark mention see improve demand liquid handling high-throughput screening drug_discovery
+could elaborate
+customer
+quote_activity
+start see order
+comment [ner:person] fact look growth q3 year-over-year versus q4 actually contraction see q3 [ner:number] business improve relative q3
+would say probably significant improvement see liquid handling sequentially business would say [ner:percent]
+would say new product start get_out market
+think believe may pent-up demand people decide spend q4
+would say significant [ner:number]
+would say case reagent drug_discovery concerted effort try get_back market_share believe lose earlier [ner:date] start see
+probably sequentially [ner:percent] [ner:date]
+drug_discovery high throughput_screening think see really nice growth particularly envision_productline actually a_record_shipment_number_of envisions would say modest price_high_throughput_screening_instrument
+think continue see nice growth hopefully continue see [ner:date]
+know touch [ner:person] [ner:date] [ner:number] additional revenue_growth think could get acquisition include eps_forecast [ner:date] correct
+
+okay great
+thank
+operator_instruction [ner:person] [ner:person]
+growth_rate molecular diagnostic_business
+know say electrodiagnostic [ner:person] small segment_line
+really break_it_out
+guess describe diagnostic_business general think [ner:number]
+okay
+would say genetic screening_business
+think [ner:person] give number
+[ner:percent] [ner:person]
+land large contract state [ner:location]
+kick
+state [ner:location] take [ner:duration] get laboratory fully run go volume_testing
+expect [ner:date]
+optimistic particular state_legislation initiative [ner:person]
+know
+optimistic state market
+many state go public discussion sensitive stage
+like comment particular state
+would say stand back marketplace strong momentum move everybody 30-test standard care
+mention earlier [ner:percent] state_test [ner:number] less
+see ramp_up quickly across wide range state
+expect typical level seasonality analytical instrument_side business big sequential slowdown q1
+business strongest quarter always [ner:date] seasonally [ner:ordinal] strongest quarter [ner:ordinal] [ner:ordinal] [ner:ordinal] weakest [ner:date]
+see still continue
+yes
+think sort rhythm
+think rhythm marketplace
+part budget_release [ner:date] always come [ner:date]
+tone as_well_on [ner:organization]
+change order_flow [ner:date]
+also thought [ner:misc] market [ner:person]
+think see much change [ner:person] go
+overall would say [ner:ordinal] see a_lot_of change [ner:organization] [ner:number] way another
+expectation general market_environment economy continue temper recovery overall help segment
+within biopharmaceutical think really drive new product_introduction
+think biotech academic research_market continue move along fairly consistently pharmaceutical company really midst transition away_from big blockbuster_model specialize medicine_model
+go restructure go_on industry period time
+think therefore really drive around identify right growth_segment feed new product
+think really recovery_mechanism segment think everything else get little bit tailwind economic recovery
+okay thanks
+[ner:person] [ner:person]
+actually [ner:person] [ner:person]
+question go back neonatal screening_market
+[ner:number] competitor [ner:date] also speak optimism market
+wonder could comment competitive landscape capture growth neonatal screening
+
+waters
+actually waters partner go marketplace
+agree optimism
+look [ner:location] [ner:location] conjunction waters
+supply tandem mass_spectrometer supply complete system
+use tandem mass_spectrometer_instrument system a_number_of new program go state
+think say parallel use instrumentation a_number_of installation
+okay
+secondly catch guidance interest_expense_line [ner:date]
+could recap
+interest forecast [ner:number]
+would [ner:number] level [ner:date]
+okay thank
+operator_instruction [ner:person]
+[ner:organization]
+congratulation [ner:date]
+a_couple_of quick question
+[ner:ordinal] regard some_of fastest-growing market see [ner:duration] [ner:location]
+comment growth_rate market
+see change
+mention earlier see [ner:location] [ner:percent] organically q4
+little misleading [ner:number] thing impact photoflash business fairly significantly
+think pull_that_out would grow [ner:location] probably high single low double digit
+think go forward think fairly optimistic
+look specifically [ner:location] [ner:location] [ner:number] country spike_up grow sort mid [ner:percent] [ner:date]
+grant still off_of relatively low base still see nice growth a_number_of area within [ner:location]
+okay thanks
+shift gear regard [ner:date] cash_flow intention continue pay_down debt
+some_of use might free cash_flow [ner:date]
+get point much debt pay_down
+mention balance term_loan [ner:number]
+beyond would subordinated note may know trade quite well market
+would suspect will buy
+therefore think priority really shift business_development acquisition_side
+say [ner:date] think a_number_of opportunity would like make either productline extension technology_add-on
+get number pipeline hopefully get conclude [ner:date]
+okay thanks
+last question regard digital flat-panel display [ner:misc] still pretty strong
+talk briefly competitive advantage may particular product drive manufacturer product_area
+largest marketplace industry-leading volume think industry-leading product
+advantage will recall product codevelop partner [ner:organization] [ner:duration] [ner:date] really
+significant presence will call manufacturer glass glass_panel in_addition_to complete detector
+fully integrate supply_chain
+kind unique respect marketplace
+fully integrate supply_chain take complete detector_level significant volume
+exclusive provider [ner:organization] provide a_number_of folk as_well
+look a_variety_of technical measure term frame per [ner:ordinal] speed sensitivity_measure think product good
+thanks much
+[ner:person] [ner:organization]
+want ask little bit tax happen [ner:date] could give sense expect [ner:date] would go slowly explanation tax_rate [ner:date] would appreciate
+thing look might affect tax_rate [ner:number] way go [ner:date] please
+think tax_area a_lot_of good thing technical difficulty [ner:duration]
+[ner:ordinal] go [ner:date] lower rate [ner:date] largely drive better mix income geographically quite frankly profitable
+become profitable foreign net operating_loss overseas therefore improve tax_rate
+go think go sort [ner:number]
+think get midyear feel closer [ner:number] maybe [ner:number]
+q4 favorable resolution dispute [ner:organization] business sell number [ner:date]
+result able reverse reserve set_up book back number [ner:date]
+time sure aware pass new law allow corporation [ner:date] repatriate [ner:number] time foreign profit reduce rate
+instead_of pay [ner:percent] [ner:date] bring_it_back [ner:number]
+make decision point repatriate cash overseas
+think [ner:percent] provide cost [ner:date] as_well
+[ner:money] less benefit receive settlement [ner:organization]
+therefore impact reduce rate [ner:date] something closer [ner:percent]
+[ner:date] tax_rate will [ner:number]
+material effect full-year tax_rate provide [ner:money] benefit q4
+go forward think because_of combination income as_well_as benefit bring_the_cash_back reduce rate think continue put downward pressure tax_rate
+go [ner:date] fairly optimistic highest will [ner:number]
+think opportunity maybe get [ner:number]
+will see thing go enter [ner:date]
+like say think a_number_of positive thing tax_side continue look try drive rate
+could follow-up a_couple_of question term growth_rate_scenario
+give growth_rate instrument within las
+consumable say [ner:percent] normally consumable reagent category refer
+[ner:percent] give specific hts drug_discovery_reagent
+reagent across las growth_rate [ner:percent]
+instruments [ner:percent] mention service [ner:number]
+get las_growth little [ner:percent]
+got
+last quick thing digital imaging percentage opto
+give number
+think give [ner:percent] roughly
+thank
+operator_instruction [ner:person] [ner:organization]
+wonder give growth might difference [ner:location] [ner:location]
+see difference pattern within [ner:number] economy geography guess
+will ask [ner:person] comment well would say economic recovery_standpoint think [ner:location] lag [ner:location] think sort depend business look
+maybe could talk maybe industrial biopharma broadly
+would say relatively think las_business see stronger growth [ner:location] [ner:location] [ner:date]
+look [ner:organization] [ner:misc] heavily dominate oem base [ner:location] course continue see strong growth [ner:location]
+[ner:person] across corporation mention [ner:location] grow much stronger organic basis [ner:location] [ner:location]
+however look within business [ner:person] mention [ner:location] fastest-growing [ner:location] [ner:ordinal] [ner:location] [ner:ordinal]
+case opto fluid clearly [ner:location] fastest-growing significant measure
+mention particularly opto because_of decrease see photoflash actually slightly [ner:date]
+okay
+great
+thank much
+[ner:person] [ner:organization]
+[ner:person] [ner:ordinal] question many [ner:duration] additionally [ner:date] [ner:date]
+[ner:number] business_[ner:duration]
+give sense work [ner:date] close [ner:date] [ner:ordinal]
+[ner:date] close [ner:date] [ner:ordinal]
+[ner:number] business_[ner:duration] want point_out [ner:duration] talk basically holidays
+think holiday
+think material_impact
+fact go back test
+really minimal impact product
+reason impact service service_business contractual
+amortize sort straight-line number [ner:duration]
+fact [ner:duration] provide additional revenue
+mention think less_than [ner:percent] revenue
+fact case las even affect percentage_growth still round [ner:percent] even adjust service_revenue
+fairly minor impact want make sure people aware couple extra [ner:date]
+make sense
+respect gross margin outlook [ner:number] basis_point gross margin_expansion besides absence some_of restructuring_expense [ner:date] close [ner:location] [ner:location] facility else lead type gross margin_expansion
+ph [ner:duration] narrower gross margin
+would say [ner:number] thing
+[ner:ordinal] point mention cost [ner:date] will repeat [ner:date]
+think [ner:ordinal] aspect growth let say [ner:percent] organic generate variable cost_basis improve gross margin
+think [ner:ordinal] aspect look expect grow [ner:date] whether genetic screening imaging consumer_electronics tendency higher-margin business
+think growth work_out way expect [ner:date] [ner:date] actually think will favorable mix gross margin_line
+okay
+thanks
+[ner:person]
+look a_couple_of growth_rate las_division growth_rate really accelerate q4
+example service_business pick_up
+think gain share
+look genetic screening thing happen
+think some_of state get board [ner:number] test could lead revise intermediate-term growth_rate business [ner:number]
+think take service genetic screening feel good competitive position
+tend little bit lumpiness particularly genetic screening base timing order forth
+states move tandem mass_spec_arena big impact [ner:date]
+really a_[ner:date] driver
+would say remain cautiously optimistic business will turn back [ner:person]
+think go change forecast point
+think [ner:person] point_out feel great momentum see q2 q4 growth_rate give [ner:date] probably little early start think take_we_forecast_up
+momentum move right direction feel [ner:person] mention good competitive situation
+little tough early people come_out number really decide whether take share yet
+okay thank
+appear question time
+will turn conference back [ner:person] close additional comment
+thanks everyone question
+feel good progress [ner:date] optimistic prospects [ner:date]
+go [ner:date] strong organization efficient operation strong balance_sheet clear focus growth_platform
+mention increase investment r&d [ner:percent] accelerate innovation growth attractive opportunity
+thanks time [ner:date] interest [ner:organization]
+call adjourn
+great [ner:duration]
+thank everyone
+conclude [ner:date] conference
+thank participation
+on_behalf_of [ner:date] speaker would like wish everyone great [ner:duration]
+operator_instruction [ner:person]
+[ner:organization]
+could give capex_plan [ner:date] please
+think will hand_over [ner:person]
+good afternoon side as_well
+[ner:date] total capex will exceed [ner:number]
+[ner:money] rollover ph [ner:date] [ner:date] plan use less amount
+sorry say more_than [ner:number] [ner:date] say something
+say total capex [ner:date] will [ner:number] out_of [ner:number] [ner:number] rollover [ner:date] [ner:date]
+see
+[ner:date] say still [ner:number] [ner:number] minus
+promise use more_than [ner:money] see overall situation improve
+okay thank
+[ner:person]
+[ner:organization]
+would like ask question graphic paper specialty_business
+say loss still big mean even add back exceptional
+question really paper_machine really need close unprofitable
+[ner:number] thing cause pretty big loss moment operative efficiency cost_level forth good level indiscernible operation [ner:location]
+announce [ner:date] pretty big restructuring_program operation indiscernible reflex ph mail ph
+[ner:number] reason
+also cleaning house_effect [ner:date] business_area big thing
+need improve profitability coated fine papers
+need improve cost_efficiency pretty much
+also utilize capacity better way
+still certain mill operate totally unsatisfactory operating_ratio
+need pretty extensive cost_save_measure also increase revenue
+cost-cutting measure take think mill give something like [ner:number] maybe [ner:percent] [ner:duration] will achieve cost capital
+yes definitely target
+mill like mention plan really get back reasonable profitability_level need major cost-saving major also increase revenue indiscernible
+concrete plan make happen
+term [ner:number] cost-cutting plan much relate market_improvement much relate actual reduction cost
+[ner:number] main part something pure cost_thing cost_type thing
+pretty_little relate market_situation operating_rate
+expect amount cost take_out [ner:date] sort run_rate would see [ner:date]
+extremely difficult estimate [ner:date] indiscernible cash_flow_effect [ner:date] internal target value measure will complete [ner:date] half [ner:number] target
+thanks much
+value measure
+thanks much indeed
+[ner:person]
+[ner:organization]
+question regard cost_savings_program as_well
+much extra cost need take [ner:date] in_order achieve full [ner:number]
+certainly will [ner:number] time_cost relate program clear number give
+speak many ten_of million need make happen
+certainly will cost_reserve make new program happen
+publish some_of new program will publish ready publish
+remind extraordinary item nonrecurr item book amount [ner:number] include indiscernible [ner:misc] will actually benefit will receive [ner:date] cost already reserve [ner:date] book
+okay thank
+[ner:person]
+[ner:organization]
+question graphic division result volume high delivery high sort growth record_delivery low operating_rate look like even bigger discrepancy usually [ner:date] typically mean destocking
+happen
+could explain difference big low high inventory moment division
+take year-end inventory_situation magazine_papers coated fine papers normal level
+okay
+particular reason achievement high
+related because_of ongoing price_increase explain
+sort export
+think perhaps stock effect because_of price_increase see major major effect because_of kind reason
+okay
+maybe final question theme differ view accord_to peer suggest think coated fine inventory fairly high might make difficult raise price coated fine papers
+seem little bit optimistic front
+situation know get price_increase
+mention [ner:percent] will achieve [ner:date] compare_to situation_quarter_number [ner:number] [ner:date]
+probably will start discuss new round [ner:date]
+accurate information
+clear need plan let see proceed
+okay
+final question carton_deliveries steady growth volume
+see continue growth continue will volume stabilize
+also quality_mix think must change [ner:date] price_mix output
+yes little bit_exceptional_[ner:date]
+expect see kind growth_figure [ner:date] compare_to [ner:date]
+growth expect happen sale_volume indiscernible boxboard
+major change far sale_mix concerned regard different quality
+thank much
+[ner:person]
+[ner:organization]
+wonder clarify cost_savings say report increase estimate cost_savings still [ner:number]
+mean will [ner:date] come quicker anticipate
+right
+notice right sell share present corporate story [ner:date] message will achieve [ner:number] [ner:date]
+[ner:date] increase target [ner:number] so_that achieve [ner:number] [ner:date] still [ner:number] target [ner:date]
+okay great
+basically [ner:number] [ner:date] whole savings
+sorry
+basically [ner:number] [ner:date] total cost_savings expect multiple speaker
+take consideration_[ner:date] [ner:date]
+yes
+full impact [ner:ordinal] basically [ner:date] full [ner:duration]
+exactly
+follow_up [ner:person] question competitor announce result [ner:date] talk coated fine paper_price basically stable uncoated pressure talk price be_up competitor also say bit earlier [ner:date]
+could shed light say indiscernible sign contract already still sort estimate price_development
+big extent fact
+know go happen
+agreement will get price_increase
+estimate [ner:date]
+say [ner:percent] [ner:percent] q1 versus end q4 average q1 versus average q4
+end end
+final question paperboard
+talk [ner:percent] higher price roughly share paperboard_volume would affect
+whole sale_volume
+yes average change whole division_volume
+certain agreement certain part business totally fix price [ner:date] [ner:date] part price_increase bigger forth
+close_to [ner:percent] whole mix folding boxboard_product
+[ner:number] final question attain positive result [ner:date] much price_hike need [ner:percent] coated fine paper [ner:percent] paperboard
+need
+grade
+course mean also office_paper_price get least stable situation
+thank much
+[ner:person]
+indiscernible
+[ner:date] [ner:duration] major producer look get_they_coated_wood_free_price_up
+succeed way
+start process end [ner:date] meet pretty tough situation
+get little bit [ner:date] indiscernible main effect earlier mention increase will come will go [ner:date]
+[ner:date]
+would
+intention much higher announce [ner:date] onward aim increase price [ner:percent] [ner:date] great success
+[ner:date] look basically [ner:date] make announcement say look increase coated uncoated woodfree_price [ner:date] [ner:percent]
+look
+look promising
+[ner:date] get percentage [ner:date] percentage less disappear
+aim really stabilize situation part course major need all_of break trend
+understand uncoated woodfree_price even stabilize drop [ner:duration]
+success whatsoever coated woodfree_side
+could manage get_you_price_up [ner:number] [ner:number] [ner:money] much success either
+yes like say compare_to [ner:date] [ner:date] will get average [ner:location] [ner:number] close [ner:percent]
+sorry coated [ner:percent] coated woodfree
+uncoated sign stability think [ner:date] look unlikely well [ner:date]
+almost impossible estimate
+main target [ner:date] stabilize situation everything could begin price increase process
+hopefully [ner:date] [ner:date]
+hello
+question would regard [ner:person] plan [ner:organization]
+plan keep [ner:organization] long term
+something look selloff [ner:date]
+yes plan keep [ner:organization] start program improve quality so_that competitiveness [ner:date] would better [ner:date]
+pretty much question
+thank much
+thanks
+[ner:organization]
+question merchant_division
+check average [ner:misc] longer time_period close_to [ner:number] [ner:date] adjust non-recurring item ebit excess [ner:number]
+wonder could shed light business perform [ner:date] expect [ner:duration] ahead
+thank
+pretty much business usual map_margin [ner:date]
+nothing special happen
+short history map guy able improve cost_efficiency part m-real_group
+like notice [ner:date] publish new restructuring_program concern especially operation [ner:location] still problem_unit process go_on
+aim improve operational efficiency map_merchants
+main question whether anything_special_worth mention [ner:date]
+pretty much business usual
+profitability_level map
+sort seasonality aware [ner:date] move [ner:date] actually expect good result move [ner:ordinal] [ner:date]
+course [ner:date] good [ner:duration] like [ner:date] [ner:date] least half [ner:date]
+[ner:date] affect also paper_merchanting
+see major change compare quarter_number [ner:number] quarter_number [ner:number]
+perhaps little bit weak average quarter [ner:number] major change
+talk generally restructuring_cost could also include [ner:organization] [ner:date]
+talk [ner:duration]
+
+kind thought kind plan would publish major new restructuring_program map affect cost
+go_on [ner:location] reserve eur5 [ner:number] purpose book [ner:date]
+[ner:number] final question
+operation_line [ner:misc] could give guidance expect go forward
+vary quite significantly [ner:duration] [ner:date]
+operation actually typical pattern tend change [ner:date] another
+think take average figure think average see [ner:date] relatively close see [ner:date]
+think structural change
+structural change far operation concern get net income come forest_asset
+profitability_effect transaction will [ner:number]
+get net income sale forest get instead_of positive effect net financial item so_that profitability_effect will [ner:number]
+excellent thank
+[ner:person]
+[ner:organization] question
+[ner:ordinal] tax_rate [ner:date] [ner:date] exclude goodwill_amortization use
+include actually disregard certain small tax-free income relatively good rate use [ner:percent]
+okay
+mention [ner:date] reduce [ner:organization] plan quite interesting almost couple [ner:number] combined [ner:duration] period
+reflection desire maximize cash_flow pay_down debt farther reflection compare_to [ner:number] [ner:date] outlook weaker
+reflect change far estimation [ner:date] concern
+kind overall consideration good level next come [ner:duration]
+like [ner:person] tell [ner:date] will close_to [ner:number] [ner:date] plan go ahead also level
+basically [ner:date] charge course conjunction ifrs_view turn_around company less cash spend sort view
+want comment much basically need consider appropriate kind purpose
+policy like tell really critical pick_up different project far capex concern
+really concentrate short payback_type project
+main reason
+okay [ner:number] final question
+[ner:number] dividend_policy
+[ner:date] establish [ner:money]
+view stable dividend go forward would dividend_level sort will decide raise earnings go_up
+yes
+raise earnings go yes
+yes kind take position stable level course
+earnings get better course intention propose better dividend
+everything comment
+fair enough
+finally incentive_program could say anything sort trigger_point
+related [ner:misc] return capital_employ_target
+kind target [ner:number] share award management
+kind level need reach target [ner:date] specifically
+go detail get full package share [ner:date] available need pretty pretty big improvement profit
+would clearly clearly positive pretax profit major improvement also far return capital employ concern
+target_level pretty high maximize share_amount come
+ambition_level high
+excellent thank
+[ner:organization]
+listen call talk restructure asset everywhere everything graphic side [ner:organization]
+much investment need spend marchine_park ph good shape competitive would please
+long-term process
+totally impossible answer short sentence need get basis much greater shape moment
+pretty happy level [ner:duration]
+hear indiscernible obviously rebuild a_number_of machine say [ner:number] machine [ner:date]
+rebuild machine way anyway costly i.e. actually hit p&l
+expect see come kind rebuild will actually substantial negative effect p&l
+capex mainly type debottleneck make different kind smaller change improve efficiency quality forth
+pretty much potential kind thing
+also little bit utilize better [ner:date] framework increase little bit capacity pretty many_of kind idea risk_level pretty low return_opportunity pretty good
+major rebuild plan [ner:duration]
+regard capacity_utilization obviously continue quite substantially behind competitor status relatively older machine_park would make good sense actually shut_down old machine refocus cash really need operate efficient machine higher rate
+yes
+true [ner:date] somewhat lower operating_rate competitor [ner:date] big difference
+expect quite good operating_rate also [ner:date]
+follow-up question
+[ner:date] start
+see sign consumer_stock towards [ner:date]
+order_book weaker [ner:date] ordering strong
+could comment would interesting
+perhaps take [ner:date] situation order_book_situation bit bit weaker strongest [ner:duration] [ner:date]
+kind change whole picture
+good level still
+compare period [ner:date]
+much better
+interesting
+[ner:date] finally say expect still show small loss lose [ner:number] clean basis comparatively high cost_quarter [ner:date] tend good [ner:ordinal] somewhat higher price
+make believe will loss [ner:date] oppose small positive
+overall price_situation especially currency_situation
+[ner:location] weak level pretty much dollar base business
+cost-saving process take time seeable p&l
+thank
+[ner:person]
+[ner:organization]
+question actually ask last maybe could extend bit
+dollar stabilize even strengthen bit [ner:date] expect [ner:percent] expect mean goodwill_amortization would p&l
+cost will go_up q1 know
+[ner:ordinal] question
+question regard folding boxboard_price see tick_up bit graph q4
+mix_issue market_price go towards [ner:date]
+yes take overall cost_situation_q4 compare_to q1 major change negative direction
+see major increase cost come latex_price oil_derivative_product use paper_product wood_price major change
+little bit_freight_price perhaps higher [ner:date] [ner:number]
+pretty accurate calculate profitability far price concern
+like set price_level will higher end q1 compare_to situation end q4
+average price_q4-q1 will big difference
+go paperboard paperboard expect think sale_structure folding boxboard_product will major change_q1 compare_to q4
+perhaps get little bit positive affect final closing book paperboard_business
+reserve little bit kind sale_cost
+[ner:date] little bit need so_that revert little bit kind thing q1_q4 effect minor [ner:number]
+[ner:number] additional thing consider q1_result currency hedge impact
+remember successful period q4 income derivative relatively good
+closing_rate dollar high mean actually q1 will gain hedging_instrument
+okay understand
+thank
+[ner:person]
+good afternoon [ner:organization]
+[ner:number] question
+want come back capex make sure right guidance
+say go spend [ner:money] [ner:date] [ner:money] [ner:date]
+change prior guidance
+perhaps little bit little bit worrying estimation
+summertime say [ner:date] need [ner:money] think perhaps need [ner:date]
+[ner:date] change message exactly like mr._[ner:person] tell [ner:date] [ner:number] amount [ner:date]
+history message regard capex_amount
+right
+okay thank much
+[ner:ordinal] bond_amortization due [ner:date] [ner:date]
+give update come due
+repeat question please
+look bond_long-term_debt_amortization [ner:duration] update will appear [ner:set] report come_out please
+actually start undrawn credit_facility actually renew [ner:number] facility replace [ner:number]
+sense pressure
+long-term debt_side totally [ner:date] [ner:date] [ner:number] together
+okay
+earnings cash_flow improve look like capex will depreciation
+will pay_down debt_amortization perhaps service dividend guess worst-case scenario
+would envision business_divestiture
+list far divestiture concern carton_part carton say plant [ner:number] carton_plant
+major thing still divestment_list actual situation study market_situation whether demand kind asset
+otherwise divestiture will comprise smaller thing
+course clean house seek opportunity divest kind noncore nonproductive asset
+major single thing in_addition_to carton_plant
+could ask follow-up
+[ner:organization] [ner:location] talk pulp_mill [ner:location]
+move forward would need contribute capital expansion
+perhaps good repeat message regard participation [ner:location]
+study positive way opportunity consider positive way capability moment go project
+also strategic point view intention increase exposure market_pulp participate interesting project need pre_-lrb-_ph_-rrb-_some_pulp_capacity also make room balance_sheet type big project
+consolidate [ner:organization] company possibly make project real get consolidation big part project balance_sheet indebtedness_ratio would risk so_that strategy regard [ner:location]
+okay thank
+[ner:person] ph
+[ner:organization]
+wonder cost_inflation_side expect percentage_increase overall cost_base [ner:date] give higher energy_chemical transport_cost
+cost_savings_program
+talk basic chemical like pigment example long-term contract mean maximum thinkable increase price more_than [ner:percent]
+energy_side clear energy_price will go stage rain_most_[ner:set] [ner:location]
+respect also think safe side
+mr._[ner:person] already tell talk oil-based chemical like latex price_trend [ner:date] downwards upward [ner:date]
+percentage [ner:date] whole look [ner:number] [ner:percent]
+think average more_than [ner:percent] exclude labor_negotiation still open
+typical increase labor
+[ner:date] talk [ner:misc] side labor_negotiation part operation already sign contract normally [ner:number] [ner:percent] also sign contract overall cost [ner:number]
+wonder capex_side thing work price start move upward prepare finance capex plan increase debt
+target
+target clearly example [ner:date] development net debt_amount target really increase absolute amount
+would hold_back some_of project free cash_flow come operation
+yes certain opportunity also speak operate networking_capital forth finance profitable thing
+finally uncoated fine paper_market wonder challenging price fall need happen get market turnaround
+course kind pretty healthy demand development need [ner:number] major thing need as_well
+[ner:number] will help lot kind development [ner:number] pulp_price will go_up
+market_pulp_price go upward course help kind process
+also important especially speak [ner:misc] market [ner:location] appreciate value [ner:date] level support especially uncoated fine paper_price_increase_process
+thank
+operator_instruction [ner:person]
+could say depreciation [ner:date] roughly [ner:date] please
+goodwill_depreciation [ner:set] basis [ner:date] [ner:number] little bit more_than [ner:number]
+quite figure actually nothing_nothing abnormal q4 basically [ner:number] q4
+thank
+[ner:person]
+talk divest carton_plant
+could indicate kind proceeds would give
+study opportunity whether feasible sell carton_plant
+speak possible amount money could get kind divestment difficult want phase give guidance market
+could indicate much revenue [ner:date] plant
+remember correctly somewhere level [ner:number] turnover come [ner:number] carton_company
+okay
+thank
+operator_instruction thank much
+appear question
+operator_instruction
+[ner:ordinal] question come [ner:person] [ner:organization]
+thanks
+wonder could talk change might see [ner:location] change management hammond_property
+might see differently market
+[ner:person] see much difference difficult market give tax_situation
+continue competitive because_of high tax_rate [ner:location] frankly able normal marketing_program think would generate revenue profitability property as_well_as property [ner:location]
+outside_of change management [ner:location] [ner:location] see change property marketing_anything like
+know [ner:person] actually get [ner:number] people room everybody shake head include senior operations_person
+
+okay great
+sound good
+thanks
+next question come [ner:person] [ner:organization]
+good morning talk [ner:location] thought upcome [ner:date] tax
+somehow know question go come_up
+good answer
+laughter
+interesting obviously try evaluate constantly state talk [ner:date] everybody company focus sort shake head say matter governor go
+make comment talk specifically gaming think will hot issue go forward really handicap
+okay
+[ner:person] capital_expenditure [ner:date] [ner:date]
+maybe outlook [ner:date]
+yes
+[ner:date] capex [ner:money] [ner:date]
+outlook [ner:date]
+talk [ner:date]
+like say agree give guidance although would say generally go maintain cap maintenance_capital_program pretty much par [ner:date]
+[ner:location] move along schedule talk [ner:date] garage expect open sometime [ner:date] hotel kind [ner:date]
+capital hotel would [ner:date]
+gotcha
+okay
+lastly nonoperating_cost [ner:number] merger offset cost income_statement
+cost
+tax_piece income_tax_expense_line
+rest sg&a
+okay
+
+corporate expense
+[ner:money] deductibility [ner:location] income_tax
+income_tax yes
+okay great
+thanks
+next question come [ner:person] [ner:organization]
+hey guy
+[ner:person] could clarify miss [ner:location] capex
+say could [ner:number] without [ner:money] credit
+say exactly
+[ner:person] indicate earlier alternative look anticipate project_cost range [ner:number] [ner:money] subsidy
+focus [ner:date] project somewhat bigger include new boat additional parking
+give specifics capital time still work some_of project_scope as_well_as work [ner:organization] [ner:organization] [ner:organization] will guidance throughout [ner:date]
+help [ner:person]
+response line sir
+think disconnect
+next question come [ner:person] [ner:organization]
+hi guy
+actually [ner:person] out_of [ner:location]
+
+quick question
+expect disruption [ner:location] hotel_expansion
+well go project [ner:date] [ner:date] [ner:date] [ner:date] disruption [ner:percent] revenue
+anticipate much lower because_of phasing
+could disruption
+believe will significant
+great
+also see corporate little bit higher [ner:date] expect
+lot due_to merger
+lot yes
+okay
+good
+pretty much
+thanks much
+next question come [ner:location] [ner:person]
+hi thanks
+[ner:person] capitalized interest_number [ner:date]
+rest question answer
+thanks
+yes nothing [ner:date]
+okay great
+thanks
+operator_instruction
+next question come [ner:person] telegraph
+yes explain layman person involve financial market tax_situation [ner:location] affect operation [ner:location] particularly [ner:person]
+whether tax_situation affect viability operation
+let briefly comment would happy talk detail since think people line understand
+right
+[ner:duration] half ago [ner:location] increase tax_rate make less profitable [ner:location] as_well_as competitor
+think best way operate take a_series_of operational change include reduce number [ner:duration] change mix gain as_well_as market
+factor result net lower profitability really drive higher tax_rate mitigation action take
+look forward industry [ner:location] bring tax back line certainly state think would result win-win situation
+would happy call talk
+okay thanks
+please
+next question come [ner:person] [ner:organization]
+yes thank
+sorry miss earlier spend maintenance_capex [ner:date]
+break_it_down piece related ticket-in/ticket-out
+total maintenance_capital [ner:date] [ner:money]
+general probably range [ner:number] [ner:money] slot slot-related project
+include game also redemption_kiosk thing like related tito
+tito
+right
+therefore would expect spend useful life much greater [ner:duration]
+yes
+yes
+laughter
+okay
+difference [ner:number]
+approximately yes
+upkeep property
+sure
+thing like
+believe say earlier release think will close_to [ner:percent] want [ner:date]
+essentially [ner:percent] [ner:date] exception [ner:organization]
+okay
+would expect spend rate [ner:number] slot slots-related activity [ner:date] would [ner:date] would different
+slightly continue spend capital keep game fresh
+okay
+find best way generate revenue profitability
+would likely lower go forward almost [ner:percent]
+always spend money slot_profit
+typically always replace approximately [ner:percent] game [ner:set]
+okay
+super
+thank
+time question
+thank join
+management will [ner:date] additional question please call
+thank
+conclude [ner:date] [ner:organization]
+may [ner:date] disconnect
+operator_instruction [ner:ordinal] question come line [ner:person] [ner:organization]
+[ner:person] question separation
+mention complexity may delay timing
+question
+still feel confident structure transaction term dividend capital business
+see delay administrative complexity
+[ner:person] nothing_change term expectation timing
+timing use word_[ner:duration] use word_quarter
+complex transaction
+work closely regulator
+a_lot_of information impart
+work diligently provide information fast humanly possible large volume information analysis go_on
+result expect delay initial thought make many [ner:date] many [ner:date] term expectation around timing
+[ner:date] get transaction see complexity associate see occur term amount work get make sure everything detail appropriately analyze appropriately
+okay
+helpful
+question expense make sure head wrap around
+[ner:person] understand flow strategic expense remainco would imply still another [ner:money] leave balance [ner:date] would come operating corporate
+[ner:ordinal] question expense
+also [ner:person] want get sense much kind annualize [ner:money] increase expense [ner:date] embed 1q_result
+answer [ner:ordinal] question yes
+would expect [ner:date]
+could share [ner:ordinal] question
+quite get
+yes
+form [ner:number] indicate [ner:person] expect go_up [ner:money] [ner:date] versus [ner:date] level
+want understand much planned increase embed 1q_number
+small amount
+indication much 1q_number
+probably [ner:money] q1
+[ner:money] annualize basis
+[ner:money] [ner:date]
+[ner:money] [ner:set]
+[ner:date] build like [ner:money] [ner:set] run_rate
+yes
+yes
+yes
+okay
+little half
+next question come line [ner:person] [ner:organization]
+[ner:ordinal] question regard change make derivative_program expect impact ongoing benefit some_of low interest_rate_hedge would come would come operating_earnings
+material change benefit get hedge
+course rate higher [ner:date] get less benefit still essentially
+okay
+material_change interested interest_rate move
+secondly come [ner:date] guide [ner:money] corporate loss exclude expense_initiative_cost
+outlook_change [ner:date] lower consolidated tax_rate_outlook
+yes
+expect still within range expect lower tax_rate [ner:date] [ner:date]
+next question come line [ner:person] [ner:organization]
+[ner:ordinal] question derivative loss
+obviously derivative loss decline significantly 4q still relatively large
+little surprised loss interest_rate
+rate generally flat lower depend part curve look
+wonder cause
+related sale some_of hedge position something else
+gaap_loss hedge hedge program affect whether effect stat_capital
+thing go_on [ner:person]
+[ner:ordinal] although [ner:duration] treasury drop little almost flat quarter-to-quarter swap_rate little bit
+noise
+asymmetrical noneconomic get [ner:organization]
+will also strong equity_market [ner:date] get [ner:organization] as_well
+also point_out hedge ineffectiveness [ner:date] impact total [ner:organization]
+term change implement assume change swap swaption discuss correct
+discuss some_of change make
+whether change size hedge_program whether make bigger smaller
+actually a_variety_of thing
+able get statutory hedge_accounting type derivative change technique structure
+move different instrument like accomplish primary goal make stat_capital remainco less sensitive change interest_rate
+see number breakout remainco sensitivity across board
+term equity relatively insensitive
+mean always movement
+every time look result [ner:date] lot go_on [ner:duration] derivative as_well_as variable annuity
+time_decay derivative
+age portfolio
+basis_risk know va_hedge_ineffectiveness
+get group together
+sensitivity go
+minimize always will always movement due all_of factor
+okay
+lastly mention strong sale [ner:location] [ner:location] think [ner:percent]
+extent view sort turn sale since result pretty weak [ner:duration] versus maybe front-selling related discount_rate_change go effect [ner:date] [ner:date]
+let try
+[ner:person]
+[ner:location] [ner:percent] year-on-year drive primarily foreign currency_life_sale_growth [ner:percent]
+know make shift end_market probably [ner:date] [ner:date] [ner:date]
+also strong growth [ner:location] [ner:percent]
+foreign currency_business [ner:date] make_up [ner:percent] total life_sale think fairly consistent mix go forward a_number_of competitor pool life_product change pricing follow reserve_discount_rate_change see customer agency push much towards foreign currency_life_product well position provide give breadth distribution get
+see fairly consistent theme
+probably benefit around inaudible sale_pre-repricing product reprice [ner:date]
+know follow reserve_discount_rate sort financial [ner:duration] will expect sale sector fall_off [ner:date]
+overall comfortable term [ner:location]
+early sort list guidance sector moment
+next question come line [ner:person] [ner:misc]
+group_benefits talk competitive environment
+see best opportunity
+give relatively strong industry result [ner:duration] see uptick price_competition
+[ner:person]
+[ner:ordinal] want say pleased group_sale result [ner:date]
+competitive market
+know always competitive
+say would say life disability rational
+see little bit intense competition dental especially downmarket overall feel comfortable market
+probably see strong growth strong persistency
+able get renewal_action overall rational market
+get
+[ner:number] thing clarify pace buyback expect slow receive dividend_payment [ner:person]
+assume [ner:money] contingent transaction approve
+also restriction market around time transaction
+anticipate change program put place
+exist cash_reserve earnings believe track program complete [ner:date]
+next question come line [ner:person] [ner:organization]
+follow_up [ner:person] question around share_repurchase
+understand kind bright line_test [ner:organization] could fall [ner:percent] sound like whatever happen hedge loss [ner:date] bring close_to
+[ner:percent] apply statutory entity relate remainco
+all_of [ner:date] [ner:organization]
+well [ner:organization] measure [ner:date] [ner:duration]
+confident long-term projection
+always know a_lot_of plus minus restructuring unwind reinsurance_transaction see piece move back forth
+brighthouse_tentative_[ner:organization] debt_infusion yet
+lot move piece look take account strongly capitalize across board business
+okay
+would great
+[ner:organization] result stronger normalize basis would think
+mean broadly speak think quarter see favorable equity_market_performance [ner:organization] will runoff quickly guide
+well block vas [ner:organization]
+favorable equity_market better fee ongoing basis will continue [ner:number] factor
+next question come line [ner:person] [ner:location]
+question group_insurance_business
+[ner:person] long time since remember sort start_off conference_call talk highlight business
+give size scale particularly large case_market anything beyond economy scale think could gain large acquisition within business_line
+relatedly think see success particularly jumbo case_market
+competition decline
+get bit aggressive
+[ner:person] as_for [ner:ordinal] part question always look opportunity marketplace
+group_business [ner:number] favorable view go forward strong part company many [ner:duration]
+opportunity marketplace make accretive acquisition certainly go quite interested look
+[ner:person] want take [ner:ordinal] part question
+sure
+term invest group_insurance think see benefit investment growth
+example invest voluntary benefit_platform
+see large group as_well_as medium-size group really gravitate toward carrier core_benefit_program offer voluntary benefit employee toward carrier like [ner:organization] position
+talk historically benefit example exchange
+case nonmedical carrier health_exchange
+think go forward place really put investment ability ensure employee_record secure
+a_lot_of work security_platform
+helpful market look bring_on new [ner:organization] disability_business as_well
+[ner:person] fair say talk really strong growth sale jumbo case_market good chunk actually voluntary employer pay
+actually
+would say strong sale_quarter market double-digit growth jumbo market
+high single-digit growth regional market know small market actually seasonally [ner:date] focus
+even strong growth
+growth core_business voluntary business
+voluntary business double digit sale_perspective
+overall strong sale_quarter group
+question [ner:person] change hedging_strategy implement [ner:person] remainco
+give sense as_to duration program put place [ner:date]
+often some_of hedge need roll
+try understand new instrument compare some_of older hedge
+sure even still extend [ner:date]
+remainco duration basically longer-term hedge mainly
+[ner:person] like [ner:number] [ner:duration] type_restructuring hedge
+make significant progress get hedging [ner:date]
+think [ner:date] sensitivity point_out look form [ner:number] [ner:date] publish sensitivity [ner:organization] as_well_as ulsg see stat [ner:organization] special sensitivity go forward
+understand disclosure
+try understand duration maybe risk roll
+[ner:person] [ner:duration]
+next question come line [ner:person] [ner:organization]
+want start stat_capital
+guess [ner:money] year-end despite take_any_dividend_out
+[ner:person] walk mechanic term capital
+[ner:money] [ner:money]
+say [ner:organization]
+restructuring cause less sensitivity reserve
+total cte95 really hedge strategy still buffer take account transaction will happen
+pro_forma_basis as_of [ner:date] see partway restructuring step happen
+see sort low point say script significantly [ner:date]
+would whole series transaction happen get
+give sort pro_forma_view expect like [ner:number] [ner:number] [ner:organization] as_if happen as_of [ner:date]
+okay
+another question update form [ner:number]
+[ner:number] change debt-to-capital [ner:person] [ner:date] go [ner:percent] cte95_buffer go guess around [ner:money]
+discuss [ner:number] drive [ner:number] change
+[ner:ordinal] form [ner:number] calculation value as_well_as core_assumption projection as_of [ner:date]
+update form [ner:number] as_of [ner:date] thing change lot [ner:date] [ner:date]
+a_series_of change think [ner:person] will dynamic company manage business reason
+still strongly capitalized will provide good value time shareholder
+okay
+[ner:number] last clarification_question could [ner:percent] roe_target [ner:person] guidance sort out_of gate
+longer-term expectation
+think happen [ner:location] next little type range because_of kind gaap_work key focus build_up time reduce hedging_cost start get cash out_of company
+key focus run mainly statutory basis
+final question [ner:date] come line [ner:person] [ner:organization]
+follow_up [ner:person] question regard kind appetite group_market_acquisition
+give capital_position like size transaction will comfortable without kind seek external capital
+[ner:person] well [ner:ordinal] certainly will capital reserve acquisition
+please remember acquisition larger size like [ner:organization] deal back [ner:date] [ner:organization] [ner:date]
+would access capital_market fund necessary beyond hold hold company important reiterate philosophy acquisition
+make sense strategically term plan company go forward direction business want
+[ner:ordinal] accretive shareholder create shareholder_value
+earn cost capital point time acquisition_opportunity will look capital_market would cost raise capital kind return would expect acquisition include synergy make determination term willing pay business
+get
+housekeeping question update regard dividend_stopper debt_cost [ner:date]
+well believe will factor go forward
+step take need adjust
+something plan need execute
+time question
+will [ner:date] turn call back mr._[ner:person]
+thank everybody will talk throughout [ner:date]
+goodbye
+ladies gentleman conference will available replay [ner:time] [ner:organization] [ner:date] [ner:date]
+may access [ner:organization] time dial [ner:number] -lrb-800-rrb-475-6701 enter access_code [ner:number]
+international participant dial -lrb-320-rrb-365-3844
+conclude conference [ner:date]
+thank participation use [ner:organization]
+may [ner:date] disconnect
+operator_instruction [ner:ordinal] question come line [ner:person] [ner:organization]
+maybe guidance_front sound like [ner:money] beat [ner:date] really reason guy raise low end
+mean core see assumption change guidance
+anything behind [ner:money] beat relative expectation
+well relative expectation talk think [ner:date] accelerate vesting would roughly [ner:money] share wind_up [ner:money] share [ner:money]
+actually round probably like little [ner:money] share differential
+part operation part income
+okay
+nothing significant enough push either occupancy_assumption same-store
+juncture
+mean think mean same-store report kind middle range
+think still comfortable range update
+little [ner:date]
+something will continue evaluate go [ner:date]
+overall look [ner:date] range [ner:date] come_out feel comfortable increase bottom end range [ner:money]
+maybe will add little
+look core exceed core rent_performance guide [ner:date]
+rent good [ner:date]
+strong volume [ner:date]
+terrific
+a_bit_of uptick occupancy relatively candidly consistent think would happen [ner:date]
+[ner:person] walk_you_through mean anomaly [ner:set] sometimes favor sometimes
+[ner:number] thing would maybe higher end range
+let let little bit [ner:date] go will decide whether want revise assumption core
+clearly comfortable feeling [ner:date] better [ner:date] in_than think go term revise_the_low_end_up
+fair
+guess [ner:number] thing see peer guy pretty good retention_rate occupancy [ner:date] even though push rate harder
+curious conversation guy [ner:date] amount pushback get tenant rent increase versus maybe ability push even harder [ner:date] go_on maintain occupancy
+yes
+yes great question
+fact recall [ner:date] think [ner:percent] retention forget [ner:percent] [ner:percent] rent_increase
+like sort perfect right
+keep good customer charge whole lot
+sort work
+answer many_of market customer a_lot_of option
+get always like talk big number market big vacancy_rate much end granular
+real question [ner:number] square-foot customer lease come option renew place move
+many [ner:number] square-foot space submarket
+none
+[ner:number] [ner:number]
+quite want plus cost move
+would say almost across board conversation would prefer see rent go clearly understand market kind play_out
+yes
+okay
+helpful
+[ner:number] clarification
+new supp way look good
+curious page [ner:number] [ner:number] same-store versus fully stabilize exclude fully kind give color fully stabilize really reflect
+fully stabilize intend incorporate same-store plus property would shell-complete as_of [ner:number] [ner:date] would subsequently stabilize
+look reconciliation back definition could see breakout same-store add adjustment fully stabilize property would stabilize since [ner:date]
+something intend continue update go [ner:date] evaluate new property stabilize go throughout [ner:date]
+next question come line [ner:person] [ner:organization]
+[ner:person] thanks guy thanks commentary transaction_market
+a_couple_of question relate
+guy stand [ner:money] [ner:money] disposition guidance
+[ner:duration] [ner:number] mention a_lot_of class_b_product market
+make less inclined add product sale_pool
+good question think lot [ner:date] market
+will take crack [ner:person] want add
+still comfortable [ner:money] [ner:money]
+recall quite batch funding concept get development_pipeline go pay
+create capital_need
+acquisition_target would like see could
+extent acquisition_number create variability disposition_side
+think would see would dispose probably would tend think somewhat bias decent amount would office
+still office_product think will make sense dispose
+well could industrial product mix point b_market strong might create give opportunity little sort fine-tuning portfolio around edge take asset sort sit kind alone submarket kind rationalize portfolio
+will probably see mix would tend say would bias little bit office_side industrial side
+fair [ner:person]
+yes think
+yes
+[ner:person] maybe specific [ner:number] guidance
+much see lease-term_fee rest [ner:date]
+[ner:date] around [ner:money]
+think [ner:number] [ner:duration] [ner:money] [ner:duration] go forward far run_rate
+next question come line [ner:person] [ner:organization]
+[ner:person] [ner:person] go back comment some_of onetime less-than-normally recur item influence same-store noi result industrial [ner:date] expect evident 2q go rest [ner:date]
+maybe get so_that [ner:percent] same-store noi_growth_run_rate industrial
+well mean think talk
+mean give fact look same-store [ner:duration] increment always go anomalous item
+particular quarter even though [ner:location] example [ner:percent] industrial portfolio significant move exchange_rate think like [ner:money] dollar [ner:date]
+recall drop_off pretty significantly [ner:date] [ner:date]
+impact
+happen couple item go direction [ner:date]
+something would anticipate will continue
+will probably see some_of [ner:location] [ner:date] less pronounced average would come [ner:date] [ner:date]
+maybe broader picture
+look lease_expiration_schedule industrial portfolio generally speak [ner:percent] come due exclude [ner:date] way given [ner:duration]
+part challenge enough rolling portfolio
+even though spread [ner:percent] hit enough lease get growth post growth [ner:percent] growth
+fair comment
+think get [ner:number] big ingredient much affect
+roll
+[ner:ordinal] ingredient obvious stand occupancy
+degree empty space affect
+actually like [ner:percent] sign basis industrial portfolio
+even though [ner:percent] think something [ner:date] commence basis
+term leave speak already [ner:percent]
+get [ner:percent] get [ner:percent] rolling get [ner:percent] affect
+affect rent range [ner:percent] [ner:percent] great quarter [ner:percent]
+even keep post would terrific would love math see get a_couple_of point move occupancy will get little bit
+think perspective feel terrific
+mean candidly portfolio exactly stay well occupy throw_off good rent development great think right [ner:number] factor
+next question come line [ner:person] capital [ner:number]
+guess [ner:ordinal] sorry miss know allude prepared remark wonder could provide little bit detail [ner:location] go_on
+mean far income
+yes
+income as_well_as homeland_site aggregate
+yes
+take crack
+get [ner:location] basically [ner:number] bucket
+[ner:number] bucket stabilize real estate king_[ner:person] jv
+see list get little column back jv_table
+get [ner:percent]
+significantly material want take [ner:percent]
+[ner:number] bucket right
+[ner:duration] bucket fact [ner:date] shed_business industrial business
+a_series_of warehouse acquire [ner:location] great
+see nice rent increase every time roll
+also [ner:date] yes [ner:date] commence [ner:ordinal] [ner:location]
+will see try grow portfolio dissimilar [ner:location] think near term way grow build
+surprise would see try build building
+[ner:ordinal] bucket love
+[ner:ordinal] bucket activity basically get planning_consent land_approval fact impactful way make significant dollar [ner:location]
+note kings_[ner:person]
+residential side get approval land [ner:location] acquire build home
+partner [ner:organization] transaction
+pay proceeds get split
+think [ner:date] sale like north gbp [ner:number] acre might even close_to gbp [ner:number] [ner:person] yes recollection
+pretty handsome number even get half
+way pay infrastructure stuff happen
+place happen place like [ner:location]
+[ner:location] go_out partner
+able get large track approve become home [ner:organization]
+become home [ner:organization] build world_headquarters
+home [ner:organization]
+[ner:date] construct to-own basis sign lease presell building company call abcam
+[ner:organization] [ner:organization] guess ought say acquire some_of land also
+happen place look happen land_sale_profit_recognition come slightly lumpy way
+little bit accounting little bit revenue_recognition depend transpire
+look production_line expertise capacity post [ner:money] translate dollar out_of [ner:location] [ner:set] [ner:date] [ner:duration]
+view [ner:number] [ner:number] prong core_business
+little bit office [ner:location] grow shed_business land_entitlement_land_profit_business
+get
+helpful
+think mention [ner:money] expect within guidance
+wonder remainder [ner:date] else pencil
+well think amount income will continue project remainder [ner:date]
+will significant
+start trail_off little bit go rest [ner:date]
+also rkl_project talk think expect much anything project [ner:date]
+get
+helpful
+separately know guy talk bit [ner:number] known office_move-out [ner:date] impact occupancy
+anything else expect remainder [ner:date] know point think map [ner:misc] remainder [ner:date]
+term sort typical occupancy_bump sort kind thing
+yes
+could go happen
+[ner:percent] sign could situation get [ner:number] square-foot expiration industrial asset [ner:duration]
+re-lease time little bit teamwork something put_the_rack_in commence [ner:date] get dip_effect
+term anything go sort get vacant sit long-term drag aware anything
+could little mean build-to-suit company move build-to-suit go leave behind space
+every [ner:number] space company move
+may move exact date move could say sort gap nothing big material affect flow
+next question come line [ner:person] [ner:organization]
+[ner:ordinal] build-to-suit execute [ner:date] [ner:location] cost_basis seem somewhat high
+explain mechanic deal yield
+yes
+customer would prefer remain nameless go respect on_behalf_of customer
+think [ner:person] [ner:duration] deal
+yes
+[ner:duration] deal
+somebody logistics_part business except take thing come go_out
+little bit nature facility
+would say handsome yield
+think double digit recall low double digit [ner:person]
+okay
+would like deal
+okay
+bad
+double okay
+helpful note
+accounting_standpoint translate [ner:organization] spread cash_basis [ner:percent]
+[ner:percent]
+[ner:percent] cash
+final question jump back queue
+look like [ner:ordinal] [ner:location]
+explain investment strategic rationale deal
+mean certainly outside_of core_market
+southern_[ner:location] fundamental certainly healthy also super competitive ample amount supply [ner:location]
+explain rationale thought invest market go forward would good hear perspective
+[ner:person] slowly grow probably little [ner:number] square foot [ner:date]
+opportunity present buy entitle piece land
+[ner:location]
+building [ner:number] square foot
+comfortable deal_size active [ner:date]
+put ground buy ground think [ner:date] put production [ner:date]
+think will selectively try would agree expensive play_out
+would love grow asset_base selectively try prudently try add investment_base
+next question come line [ner:person] jpmorgan
+couple_office_question
+[ner:ordinal] notable change office_demand across portfolio market say [ner:date]
+office_demand
+would say office_demand [ner:location] consistent
+submarket always little bit variability
+probably somewhat prospects market [ner:date]
+think think opening_comment talk little bit sort general environment positive optimism pro-business world think people execute against
+see [ner:location] sure
+[ner:location]
+think originally [ner:person] like [ner:duration] buildout
+last building construction within less_than [ner:number] [ner:number] maybe
+people really sort will use term sort consume product pretty rapidly so_that think still good prospect_activity
+[ner:location] think little bit little bit wait see
+mean obviously lot go_on [ner:location] [ner:date] shake_out yet little bit know
+fact manifest [ner:organization] go long-term
+huge player market
+get clearly sense maybe defense_and_security_firm might growth_space
+[ner:location] decent tech_activity
+always place organization need lobby pay_attention happen [ner:location] seem like active time pay attention happen [ner:location]
+think also little bit wait see
+would put little bit less robust
+say soft
+say less robust [ner:number] mention
+okay
+[ner:number] last question
+look wholly market
+[ner:number] market office_side
+take guess [ner:duration] [ner:date] think number similar
+smaller
+potentially even
+will smaller
+simple answer
+yes part would like transparent get
+tell example [ner:location] single well actually [ner:number] asset
+guess [ner:number] work contract [ner:person]
+correct
+[ner:number] contract sell asset large facility 40-acre right
+approximately
+approximately 40-acre site literally go put new transit_station part new mass_transit_line
+hold property believe bigger redevelopment talk liberty could somebody else might well get up-zoned
+sell part disposition [ner:location]
+sort bulk sit
+[ner:location] thing a_couple_of asset move some_of flex
+yes mean a_couple_of asset may stay long-term
+[ner:location] single building get lease would office_market [ner:location]
+will shrink
+will less market
+asset various reason need get lease_up redevelopment play_out will
+next question come line [ner:person] [ner:person]
+[ner:person]
+question
+subject shrink go great explanation good explanation [ner:location] go great explanation [ner:location] question ask really worth go forward keep
+[ner:number] question
+[ner:ordinal] question [ner:person] great job [ner:organization]
+much fix cap_rate expect full disclosure [ner:organization] bump_up people [ner:organization] per share analysis
+[ner:ordinal] guess sure office_world happen see demonstrative trend towards turnkey_tenant_improvement pay move cost buy_up rental rate capital
+relatively unique position [ner:number] office_industrial_reit leave
+see trend towards excessive capital_cost buy_up rental rate industrial business
+okay
+will [ner:ordinal] yes will [ner:ordinal] [ner:ordinal] will turn_it_over [ner:person] [ner:organization]
+[ner:person]
+[ner:location]
+right mean lay_it_out go repeat sort see
+think number [ner:number] industrial side actually complicate extension industrial side
+fact [ner:number] customer within domestic portfolio
+actually run customer
+think synergistic
+think problem
+think reason land_development_issue
+supply-constrained market almost supply-constrained country
+healthy-type market like think provide growth
+land_development_part business entitlement_and_planning_consent something learn
+positive reputation
+team
+never really send capital side
+fact send indicate send return back
+think make a_lot_of sense leverage get return get handsome strong
+think something get candidly [ner:person] kind expertise activity execute think difficult monetize
+monetize building land really capability
+think really good plan keep portfolio
+question turnkey_industrial interesting question
+right
+part happen know happen construction_cost go ti become expensive become little bit shock sometimes customer look
+would say industrial side though generally customer fairly minimal look term core look office break_room restroom et_cetera
+customer come start expand [ner:date] start talk could give could help put mezz
+could help put_in word part business_operation view consistent intrinsic value asset
+candidly go able rent necessarily next time around
+basically stop
+
+generally kind work_out generally people take ti kind base_package speak
+invest forward
+[ner:person]
+yes
+[ner:person] might see little someone merchant-build mentality
+high-credit tenant come need mezzanine_space testing thing somebody might willing finance within lease know will turn around flip building get much higher rental face_rental_rate get cap
+mean marketplace
+[ner:person] want talk nav_question
+yes sure
+[ner:person] [ner:organization] mean try [ner:date] component
+hopefully will get truer computation [ner:organization] particularly item transition
+go transition development_property operate property might fully stabilize operation yet transition back redevelopment type thing as_well_as break_out tangible asset liability
+hopeful information helpful folk actually come_up true calculation estimate nav
+quick follow-up
+[ner:person]
+help people nav [ner:money] share [ner:money] share
+ask question explicably
+[ner:person] job
+well already know answer want see know answer
+go ahead
+go say yes know struggle generally gather information thing simple fully stabilize nuance transition different category
+really try achieve
+[ner:person] follow-up mention excessive ti excess project_cost merchant_builder
+explain sort number behind [ner:location]
+okay [ner:person]
+okay
+yes
+next question come line [ner:person] [ner:person]
+[ner:number] quick one
+[ner:ordinal] [ner:number] [ner:organization] give shift regulation [ner:organization] cable_company see change like view gross prospects [ner:date] maybe change time_line development [ner:ordinal] site
+well time_line [ner:ordinal] site
+look large company many thing many space
+obviously core_cable_business obviously enter entertainment_world universal
+ceo [ner:person] often say view company technology_company term go able connection place connect provide term platform roll_out various technology
+talk get cellphone_business mobile phone add hard line [ner:misc] tv
+think company much think growth could manifest lot_of way let see happen
+get
+helpful
+next question [ner:organization] deal company like [ner:location]
+find focus price geographic location therefore little less price-sensitive
+well let respond [ner:location] always protect confidentiality customer
+ask interesting question generically
+let talk generically
+company will go market rfp_basis build-to-suit price-sensitive
+fact might even want show picture building go look like
+might want nothing fill_out rent_comp grid go make decision better rent_comp go see
+people often generally locationally agnostic say [ner:location] somewhere need [ner:location] somewhere
+let decide go charge base_on whatever land get hand
+people specific logistic requirement logistical requirement could consumer_product_person make decision draw circle say need building within [ner:number] mile center circle [ner:location] need building somewhere [ner:location] wherever
+could e-commerce_person last mile say way need travel_time hit [ner:location] need [ner:location] need [ner:location] need next_to o'hare something like
+control site prone control price need site trump everything already decide logistical reason
+may well liberty often build-to-suit will actually higher yield will spec development counterintuitive people think risk_profile
+reason happen situation location control solution customer happy solve problem price think representative return get investment site control
+totally game point [ner:person] make [ner:date] merchant_builder [ner:organization] reit [ner:organization] probably somebody go win basis build building turn_around strong market sell [ner:number] [ner:number] basis_point better yield get
+
+business_model therefore will get deal happy get deal
+consistent try
+next question come line [ner:person] [ner:organization]
+could comment maybe new supply_picture market maybe specifically [ner:location]
+know broker report probably split market [ner:number] different market
+maybe little detail like percentage [ner:location] versus [ner:location]
+look seem like supply grow lot
+realize media_company like majestic control a_lot_of supply maybe disciplined maybe little better picture happen market
+yes yes
+yes take some_of source [ner:date] will tell [ner:number] square foot construction
+name [ner:number] market central_pa [ner:location]
+actually [ner:ordinal] market sort [ner:location] [ner:number]
+people give number take wider geography [ner:organization] will sort think core [ner:location] core [ner:location]
+[ner:date] go submarket submarket [ner:location] [ner:number] square-foot market term quality_nav_product
+[ner:number] square foot construction [ner:date] [ner:percent] pre-leased
+much candidly [ner:number] building [ner:number] [ner:number] thanks [ner:person]
+peer building like [ner:number]
+[ner:number] building
+entire construction available unleased inventory [ner:location]
+hard-to-find site people go periphery_site
+[ner:organization] away run issue like labor thing
+site moment interested
+[ner:location] [ner:date] [ner:number]
+central_pa submarket [ner:number] square foot [ner:number] square foot construction [ner:date]
+[ner:percent] pre-leased
+building many
+way [ner:location] [ner:date] [ner:percent] vacant
+people think will break [ner:percent] [ner:date]
+tight
+central_pa like [ner:percent]
+people think could go [ner:percent] [ner:percent] [ner:duration]
+think over-building either [ner:number] submarket anybody concern
+operator_instruction next question come line [ner:person] [ner:organization]
+[ner:ordinal] comment land_bank general compositional land_bank
+start creep_up little bit term overall value
+want get understanding plan monetize go forward
+yes yes
+[ner:date] [ner:person] get [ner:number] acre wholly maybe another [ner:number] acre jv
+make_up [ner:number] acre make_up land_inventory
+capable develop [ner:number] [ner:number] square foot development various depend obviously land et_cetera
+some_of land try actually market
+actually long-term interest hold might try sell
+could represent [ner:number] acre [ner:number] acre course [ner:date]
+let see happen
+also obviously [ner:person] indicate pretty strong development_market build-to-suits work et_cetera
+could land some_of will eat_up inventory part
+get little bit kind bounce
+market out_of land totally open consider acquisition see potential development whereas place land build_out
+see [ner:date] [ner:location] new development start actually new site acquire [ner:person] yes
+[ner:date] roughly
+infill site think make a_lot_of sense
+great success [ner:ordinal] infill_site add
+whereas building start [ner:location] long-term development_project [ner:location]
+still pad [ner:person] part inventory
+degree successful [ner:number] inventory_building [ner:location]
+surprise go start another [ner:number]
+settle [ner:person] piece ground [ner:location] [ner:date] [ner:date] [ner:date] commence commence construction
+will happen relatively quickly
+generally would say will generally trend partially sale_activity partially build_out some_of
+related [ner:location] fair say some_of pre-leasing activity post-quarter end [ner:location] development_pipeline
+
+
+
+oh okay
+okay
+follow-up question maybe [ner:person]
+balance_sheet_goal
+certainly seem go net investor [ner:date] assume issue equity leverage go creep_up
+balance_sheet_target
+obviously sort confidence credit_rating credit_rating_agency satisfy leverage_level
+think creep head head lower point
+think obviously comfortable balance_sheet [ner:date]
+pay_down a_lot_of debt [ner:date]
+lay_out [ner:date] least near-term plan
+sit look [ner:money] [ner:money] [ner:duration] development maybe couple [ner:money] acquisition would likely look match-fund acquisition sale likely fund maybe [ner:percent] [ner:percent] development_pipeline sale officially either either available cash operation net dividend and/or borrowing namely line credit term time kind think balance_sheet_standpoint
+start [ner:date] [ner:number] line obviously [ner:money] capacity
+certainly let creep_up
+maturity unsecured note [ner:date]
+ample flexibility sale operate cash_flow think will kind manage around balance_sheet way
+try keep net debt-to-ebitda_south [ner:number] yes mean net debt-to-ebitda come [ner:number] [ner:date]
+obviously run [ner:set] basis even little bit lower [ner:date]
+try keep lever number [ner:number] keep leverage probably around [ner:percent] plus minus
+6x_debt-to-ebitda_target still go still go target even industrial portfolio less office presumably industrial will lower cap_rate
+yes mean think look
+mean balance right
+sit look leverage debt-to-ebitda try keep range could bbb type credit
+try strike right balance make sure preserve credit_rating
+question time
+would like turn call back management additional close remark
+well thanks everybody listen
+appreciate talk [ner:date]
+thanks
+thank participate [ner:date] conference_call
+may [ner:date] disconnect line time
+operator_instruction [ner:ordinal] question come [ner:person] [ner:organization]
+want start [ner:location]
+trend relative expectation far [ner:date]
+still expect same-store revenue_growth [ner:location] [ner:percent]
+yes [ner:person]
+would say really right on_top_of expectation
+would true market as_well
+nickel worth difference end_up [ner:date] original guidance
+give specific guidance [ner:location] think [ner:date] would sort low water_mark
+still think likely true
+give specific guidance [ner:percent] revenue
+base_on everything see see [ner:date] think still right place [ner:location] [ner:date]
+term store_revenue_growth broadly
+know maintain guidance peak leasing_season maintain component as_well_that expect [ner:number] basis_point guess lower occupancy [ner:date] [ner:number] basis_point_benefit bulk internet_rollout
+correct
+think try get midpoint guidance sound like need see rent_growth throughout [ner:date] [ner:percent]
+think [ner:date] come slightly
+give amount supply see deliver [ner:date] give comfort term reach midpoint maintain rent_growth see [ner:date]
+think go hit midpoint would change guidance
+pretty good shape
+mean full bottom-up reforecast_market market
+detail approach
+fortunate a_ton_of people market company many many [ner:duration]
+get take great comfort
+think kind big picture deceleration [ner:location] model basically offset improvement [ner:location] [ner:location] kind weighted average number percentage_concentration [ner:location] versus [ner:location] math [ner:number] market basically push [ner:date]
+beyond get a_bunch_of market still continue see really good growth [ner:location] [ner:location] [ner:location] grow extremely well [ner:location]
+still see pretty good strength across platform
+guess would go back original guidance give letter_grade would change single [ner:number]
+give [ner:date] [ner:number] market grade stable
+[ner:number] improve [ner:location] [ner:location] balance decline
+would change
+say think still feel like good shape get midpoint guidance_range same-store noi
+next question come [ner:location] [ner:organization]
+[ner:ordinal] want touch [ner:location] little bit occupancy_benefit [ner:date]
+wonder view [ner:date] revenue_growth trend
+would expect moderate bit give occupancy_benefit
+additional color could provide pricing_power market head peak leasing_season would helpful
+yes really good quarter line plan
+slightly better noi overall really line expect see
+strength occupancy carry_over certainly carry_over [ner:date] [ner:location]
+see great traffic
+folk optimistic commentary go_on market [ner:duration] [ner:location]
+positive
+[ner:percent] growth revenue [ner:date] certainly good start
+think likely see part trend carry_out throughout [ner:date]
+[ner:location] market rate improve
+look like look like good shape achieve
+great
+want touch [ner:location] quickly
+guy outline [ner:number] job [ner:number] new unit market
+compare [ner:duration] [ner:date] think [ner:date] perhaps [ner:date] maybe same-store revenue [ner:percent]
+curious job completion_ratio look like prior [ner:number] period see similar revenue_growth_decline project guidance
+well probably lot worse
+in_front_of [ner:number] prior period really significant job_loss [ner:location]
+much different scenario deal [ner:date]
+thing economy [ner:location] [ner:number] previous period fundamentally weaker anything see downturn
+downturn almost exclusively limit standpoint job oil_business
+really ever spread_over part [ner:location]
+feel like happen apartment [ner:location] feel like good place
+absent oil_patch process pretty robust recovery term price oil drilling_activity across all_of major mid major company
+[ner:location] even though apartment_sector weak primarily supply-induced weakness [ner:date] market clear expect happen sometime [ner:date] get glut apartment find resident find home_and_market_rent go adjustment happen already process happen [ner:location] really well poise recovery economics will immediately spillover better support rental rate
+different
+would say term supply similar job worse
+economy feel like throughout [ner:number] prior period recession
+tell feel like anything close [ner:location] term overall economic impact
+say get [ner:number] apartment work way term delivery [ner:duration] [ner:date]
+yes
+let add a_couple_of point [ner:location] bit
+look apartment_side equation obviously office probably office much worse apartment lease apartment apartment great price_elasticity
+lower price fill_up apartment people need place live
+need place work job job people fill job
+[ner:date] [ner:location] [ner:duration] add [ner:number] new resident
+[ner:number] people come abroad [ner:number] people come [ner:location] domestically
+add natural birth_rate population_increase [ner:duration] [ner:date] [ner:number] people
+inertia [ner:number] people live region
+start actually completion [ner:percent] [ner:date] [ner:date] [ner:date]
+will [ner:percent] [ner:date] [ner:date] [ner:date]
+time [ner:duration] [ner:date] job_number somewhere around [ner:number] job
+look actually produce job [ner:date] anybody_thought would happen
+end still get supply_issue
+good news manageable start look forward
+fair say big difference level concession new supply
+absolutely
+competitive market_from_a_lease_up perspective energy_patch urban core [ner:duration] free
+worst thing merchant_builder last [ner:number] get [ner:duration] free right
+pretty much cap generally tend go much
+think [ner:duration] free take [ner:money] rent [ner:money] [ner:money] something like increase ability customer pay
+happen boom people want live highrise really great urban location
+consumer really well [ner:date]
+get option price great
+[ner:duration] free translate occupied market though
+look [ner:percent] projection [ner:number] occupy like merchant_builder open door willing cut price level
+also a_lot_of product high-end product biggest problem rental high end
+suburban location much better urban location
+kind versus urban versus suburban kind story typical kind cycle
+put number around [ner:person] commentary [ner:duration] free [ner:percent] rental decline merchant_builder market market [ner:date]
+try different task
+try get little occupancy something stabilize
+portfolio end_up at_if end_up within range think will somewhere around [ner:percent] revenue [ner:date] mix flat
+get believe still asset positive revenue_growth [ner:date]
+big slight positive number
+get [ner:percent] ask price number probably high
+[ner:percent] ask price rent market_clearing_number
+think kind end_up
+end_up last [ner:number] cycle
+will slug_it_out think achieve give guidance [ner:location] better [ner:duration] ahead [ner:location] dynamic place continue attract people domestically internationally as_well_as embedded growth population
+think get clear [ner:number] apartment
+next question [ner:person] [ner:organization]
+wonder comment new versus renewal lease_growth 1q [ner:location] trend 2q
+yes
+[ner:date] [ner:location] renewal would flat new lease [ner:percent] plus minus
+carry_over [ner:date]
+think project balance [ner:date] get something less_than [ner:percent] revenue probably go pretty close_to flat try maintain flat renewal
+overall lease come_down maybe [ner:percent] [ner:percent] end_up [ner:date] [ner:percent]
+think likely will see next couple [ner:date] sure
+get back half [ner:date] may get little better run little easier comp
+some_of concession take rent already occur [ner:ordinal] [ner:date] comp get little bit easier
+directionally think head
+wonder could also comment negative revenue_growth [ner:location] [ner:date]
+maybe break midtown_asset versus asset maybe near energy_corridor suburb
+yes sure
+midtown_asset urban core would [ner:percent] [ner:percent] new lease roughly flat renewal
+go_out market new lease trend flat [ner:percent]
+big spread suburban asset urban core sure part cycle [ner:date] strategy diversify urban asset suburban asset actually help quite bit
+next question [ner:location] [ner:organization]
+kind use segue urban versus suburban talk split portfolio whole same-store rent_trend see [ner:number] supply look look forward [ner:number] different segment portfolio
+yes supply will start pretty straightforward
+give number go guess order magnitude [ner:number] much supply come urban core suburban market across platform
+large urban core_problem term supply
+get out_of suburb city market like [ner:location] large spread_out unless somebody happen build right next door go kind impact large aggregation lease
+term spread suburban versus urban asset suburban asset outperform [ner:percent] urban asset
+across [ner:location] entire universe
+[ner:location]
+supply_challenge get new construction go_on market predominantly urban core
+show_up spread way way [ner:duration] term outperformance [ner:percent] suburban versus urban
+go back [ner:duration] [ner:number] straight [ner:duration] urban outperform suburban
+kind cycle
+[ner:percent] same-store revenue
+correct
+overall split urban suburban sorry whole portfolio
+will get number
+[ner:number] [ner:number] suburban urban will get exact number
+okay
+supply
+guy think across portfolio [ner:date] versus [ner:date]
+see slippage delivery_time_frame [ner:date] could leak [ner:date]
+slippage delivery_time every market every sub_market
+single merchant_builder talk folk [ner:misc] experience degree case pretty material delay
+enough worker
+enough construction_worker get job concurrently
+go continue challenge
+think [ner:person] know [ner:person] [ner:number] [ner:number] datum_provider
+actually try incorporate longer construction/lease-up period forecasting multifamily completion
+well capture think time will tell
+portfolio look across [ner:location] market [ner:date] use [ner:person] number get completion_number across market [ner:number] [ner:date]
+get drop [ner:number] [ner:date] forecast
+[ner:percent] decline total completion
+job_growth estimate across entire portfolio get job_growth [ner:date] [ner:number] across [ner:location]
+get tick [ner:number] [ner:date]
+number roughly equilibrium [ner:date] completion versus job_number
+[ner:date] still many completion job
+mean get really strong job_number [ner:time] maybe beginning trend
+know fact [ner:location] market attract higher national average percentage get job_growth
+next question come [ner:person] [ner:person]
+continue supply_thing topic
+recent conference talk private developer
+say some_of big merchant_guy talk_down [ner:percent] reduction start
+[ner:person] sound like supply_number hear say correctly sound like [ner:date] different [ner:date]
+give update guy hear merchant_developer think supply expect decline think come [ner:duration]
+sure
+anecdotal information get largest merchant_builder talk thing lower number start
+lower number start a_couple_of reason [ner:number] challenge get bank_financing give market
+part issue stress finance get construction_loan get less construction_loan expensive cost
+total cost capital go_up require equity mezz lending bridge gap
+part issue
+part issue because_of delay finish project able sell project
+certain amount sort cap
+cap need sell proper project new project
+even though see number come feel like get come base_on discussion folk
+[ner:person] look completion [ner:number] thing conversation merchant_builder [ner:date] book business guy probably likely thinking term go permit
+look permit project [ner:date] [ner:date] [ner:date] axiometric number go [ner:date]
+[ner:percent] almost [ner:percent] permit across [ner:location] entire platform start get range hear merchant_builder talk
+okay helpful
+switch go_out [ner:location]
+guy announce [ner:location]
+sort since hear much [ner:location]
+sort give update market
+[ner:number] purchase because_of yield relative may let say [ner:location]
+something see [ner:location] make want put money work
+well course market development_folk scour market try get figure deal work
+difficult process
+project merchant_builder yield start [ner:number] low [ner:number]
+challenge
+go go
+[ner:location] unique opportunity market_transaction seller property little complicated structure
+happy able
+think [ner:location] [ner:location] real well
+great [ner:location] lease_they_up create a_lot_of value
+really like [ner:location] really like site market
+compete developer really good
+versus low [ner:number] yield yield look
+well think either high [ner:number] low [ner:number]
+next question come [ner:person] [ner:person]
+talk little bit south_[ner:location] see market different performance various submarket [ner:date]
+overall [ner:location] plan think would
+still still get challenge a_lot_of highrise_product build
+fortunately stuff build pro_forma_rent bring market [ner:money] plus per square foot
+get a_couple_of highrise midst reposition think ultimately will competitive new product
+bulk stuff [ner:location] garden low rise mid-rise product
+totally different price_point new supply
+help certain extent
+think original guesstimate [ner:date] [ner:location] stable
+[ner:location] stable
+still think sound right base_on [ner:ordinal] [ner:duration] operation
+think reasonably well position hit plan [ner:date] market
+okay
+[ner:location]
+mean continue strength multifamily guy
+see
+material_differentiation various submarket guy
+portfolio spread_out [ner:location] unlike [ner:location] smaller
+great [ner:date] [ner:location]
+believe [ner:ordinal] [ner:ordinal] highest rate market [ner:date]
+stable
+still think right
+still [ner:percent] occupy [ner:date]
+think [ner:location] little [ner:percent] revenue_growth [ner:date] pretty track plan
+get supply go issue [ner:location] [ner:date] [ner:location]
+a_lot_of stuff bring market [ner:date]
+probably go deal some_of supply_challenge [ner:location]
+good mix [ner:location] suburban market ought serve well [ner:location]
+next question come drew_[ner:person] [ner:person]
+quick portfolio_management_question
+talk [ner:date] bottom call [ner:percent] portfolio candidate pruning given [ner:duration]
+amount cash balance_sheet change thinking with_regard_to whether sell asset maybe think put update capital
+
+clearly cash balance_sheet best balance_sheet multifamily land [ner:date]
+happy give cycle
+go continue manage portfolio time
+probably will go see [ner:money] sale like [ner:date] think kind_of hit market right perfect time sell older asset
+will continue play trade think since [ner:date] sell [ner:money] asset roughly little [ner:number] affo_yield
+think relative acquire develop negative spread acquisition disposition give sell 20-plus-year-old asset high capex negative spread [ner:number] basis_point trade
+will tell business_career see spread tight [ner:date]
+continue will
+think acquisition [ner:money] disposition [ner:money] acquisition none [ner:duration] [ner:date]
+mostly put money development get much better spread development_side equation
+negative spread actually positive spread probably [ner:number] [ner:number] basis_point trade
+will continue prune portfolio
+get sort low-hanging fruit finish
+[ner:number] thing think sort watch think supply_side amount merchant_builder_product develop [ner:date] [ner:duration] rise construction_cost see happen [ner:date] think think go happen go forward development_spread profit developer narrow pretty dramatically
+go able acquire property potentially go forward replacement_cost
+merchant_builder in_order reload portfolio go sell asset
+already start see little bit come market
+think idea sell older property buy newer property small sort negative spread will old versus new something go continue
+helpful
+maybe next tier portfolio_asset necessarily sale candidate want portfolio might see directional pickup [ner:misc]
+reposition asset pretty aggressively [ner:duration]
+get another pool asset start reposition [ner:date]
+anything level [ner:number] [ner:date] will continue look opportunity put capital back asset make make sense view long term hold
+guess portfolio [ner:person] mention stuff want sell sell [ner:date]
+exit [ner:location] sell [ner:money]
+sell another [ner:money] asset across entire platform
+represent asset see upside sufficient upside reposition
+because_of age capex_requirement need become someone else someone else portfolio
+stuff want sell get real aggressive sell [ner:date]
+next question come [ner:person] btig
+[ner:number] question regard [ner:location] really outlook [ner:date]
+4q_call characterize kind expectation [ner:location] [ner:date] perhaps equilibrium although perhaps optimism could stronger
+comment [ner:duration] think comment job_growth [ner:location] create job expect
+look happen everybody expect course permit collapse low [ner:date]
+make sure understand correctly incrementally positive forecast would say forecast sense [ner:location] would [ner:date]
+perhaps little optimistic achieve perhaps equilibrium equilibrium plus
+think number come_in [ner:date] definitely better expect
+start definitely fall_off edge earth
+surprise in-migration number
+generally speak people move market unless think get job
+widely know across [ner:location] [ner:location] issue energy_business yet still great in-migration
+guess real question will yes positive [ner:location] because_of [ner:date] in-migration number
+hand [ner:duration] make [ner:date] make [ner:number] unit need absorb absorb
+guardedly optimistic probably little bit optimistic go [ner:date]
+still see play_out
+oil_price [ner:duration] even though oil_company add job little bit job back dramatically think could surprise people upside [ner:date]
+hand go wait see obviously
+agree
+think overall economy mention earlier feel like big big dislocation economy [ner:location]
+really kind contain oil_and_gas_sector
+bleed_over people apartment people office_building
+rest work public people man street go [ner:set] routine [ner:location] [ner:location] seem restaurant full traffic everywhere feel like crazy time [ner:location]
+boom_time still robust healthy overall economic standpoint
+think [ner:person] point in-migration mean potentially game_changer
+get [ner:number] people show_up
+somehow another work way economy whether show_up stats
+get place live
+likely go fair high percentage will end_up rent something make permanent decision anything [ner:location]
+think probably upside see continue throughout [ner:date] [ner:date]
+probably get enough people slosh around go find way employment need apartment ultimately get [ner:number] plus minus unit [ner:date] [ner:date]
+think probably upside
+next question [ner:person] capital [ner:number]
+will limit [ner:location] [ner:number]
+guess think cadence year-over-year comp same-store trend [ner:date] expect mean know talk [ner:date] bottom potentially [ner:date] get better
+look [ner:set] timing_perspective expect inflection_point occur per_se
+guess say context guy actually positive same-store noi_comp q4 [ner:date]
+set_up exceedingly hard comp optically guy [ner:date]
+yes pick inflection_point [ner:date] [ner:location]
+see [ner:percent] [ner:date]
+think still go able keep [ner:date]
+think still feel pretty good keep contain [ner:percent] level
+give readout progress will see
+a_lot_of volatility around merchant_builder direct comp set happen
+merchant_builder get close_to [ner:percent] number [ner:duration] free become [ner:duration] free [ner:time]
+different world
+people reach get closer stabilization behavior_change pretty dramatically
+good embedded base portfolio
+far read_out mean think would go say point still think [ner:number] [ner:date] look like bottom
+[ner:number] thing think interesting people use sort job completion_ratio guide
+use job ratio guide [ner:date] [ner:date] [ner:location] [ner:number] job
+[ner:duration] absorb [ner:number] unit wait [ner:duration] [ner:number] job absorb [ner:number] unit
+ratio make sense obviously
+happen period [ner:date] [ner:location] [ner:number] job [ner:duration] straight [ner:date] [ner:date] [ner:date] [ner:date] [ner:date]
+happen momentum large market take_up a_lot_of absorption marketplace
+question inflection will continue happen migration better-than-expected job_growth
+anybody guess go happen
+will happen
+know
+get
+regard expense_side equation obviously guy expense_pressure sequentially year-over-year comp
+appear limit [ner:number] market
+mean several market kind trend long-term level
+could maybe talk little bit property_tax utility property_insurance guy see trend cadence-wise [ner:date]
+yes absolutely
+property_tax_side think [ner:date] go end_up [ner:percent]
+think [ner:date]
+still think true [ner:date]
+obviously sequential basis tough comp get quite a_bit_of property_tax_refund [ner:date] particularly [ner:location]
+look insurance_side talk last call [ner:date] get refund approximately [ner:money]
+way insurance_refund allocate across entire portfolio
+certainly negatively impact comparison quarter-over-quarter basis
+utility part increase drive rollout tech_package
+[ner:date] tech_package think [ner:number] same-store unit get [ner:number] roll_out
+start see impact expense_side decline go throughout [ner:date]
+get helpful
+last question know small portion portfolio
+[ner:person] could remind go_on
+think say low student_housing_asset
+kind genesis investment
+see asset long term portfolio
+ask specifically student_housing_asset
+[ner:ordinal] show_up same-store pool
+oh
+okay
+
+[ner:number] asset store_[ner:number] [ner:number] asset same-store pool [ner:number] wholly-owned asset separate [ner:location] student_housing_product
+student_housing_product great better plan far [ner:date]
+part show_up number
+decline [ner:location] primarily because_of hit oil_patch definitely affect [ner:location]
+particular asset [ner:person] process pretty major exterior_renovation messy
+hard drive right kind traffic close percentage need
+small piece get attention deserve
+think some_of market_condition some_of [ner:date] particular [ner:number] asset
+[ner:number] asset same-store pool go pretty volatile around quarter quarter
+next question wes_golladay [ner:organization]
+give view development_cost inflation [ner:duration]
+already hear lumber_tariff potentially happen
+infrastructure_bill implement will labor_cost
+yes concerned labor_cost timber_cost lumber_cost
+challenge think kind infrastructure_bill government talk look [ner:date] print [ner:number] unemployment_rate tough deal
+see benefit [ner:number] thing think [ner:location] construction_cost come_down [ner:location] even though construction fall multifamily offset public sector_spending hospital_spending petrochemical_spending
+think go continue pressure big pressure labor_shortage product_shortage especially government get infrastructure_bill [ner:date]
+okay
+want go back comment [ner:location] get [ner:percent] lease-up back_off concession
+particular development_company particular project really compress market price_setter
+[ner:date] get lease_up might see little relief
+think
+think across board
+like like tongue-in-cheek comment earlier worst thing merchant_builder last guy get [ner:duration] free
+immediately go fast
+thing happen [ner:date] market stabilize
+[ner:number] particular owner
+dispersed group merchant_builder
+might inaudible world a_lot_of project control market [ner:number] group really
+pretty broad competitive set
+really submarket specific
+get [ner:number] new lease-up within 1-mile radius property try get lease_up go competitive get stabilize
+will run really hard exit will kind_of smash door time
+good news run really hard exit
+think really good news price_elasticity great
+consumer [ner:location] [ner:location] field_[ner:duration] lease_up
+a_lot_of_the_product_that_be_build_and_we_be_talk_highrise_that_never_exist_in_a_lot_of_submarket_here_,_and_those_highrise good better sale_condo product see
+open sudden cricket
+[ner:number] walk door
+ton_of people walk door lease_these_up consumer get great deal
+[ner:number] concern move [ner:percent] discount fast move_that_up customer whether customer move_out new one able get high level
+[ner:number] hand investor [ner:location] someone understand market kind_of like potential problem people could easily buy upgrade portfolio buy some_of asset replacement_cost
+even cost go_up will continue go_up developer actually sell asset get_they_money_out maybe slight profit still able acquire property replacement_cost could build exist site
+opportunity think really good
+next question [ner:person] [ner:organization]
+sorry keep go kind steal question [ner:number] question [ner:person] happen phase [ner:number] [ner:duration] concession_situation customer stay [ner:percent] rent_increase
+maybe speak term history
+go uptick turnover short term [ner:location] [ner:date] thing kind go plan
+much delay ultimate recovery estimation
+well think function economy whether job_growth in-migration stay right
+look migration example [ner:number] [ner:number] people move [ner:location] [ner:duration] [ner:date] abroad
+find foreign folk much use rent move a_lot_of highrise as_well
+continue good news market big [ner:location] [ner:number] unit [ner:number] unit huge amount inventory
+really remain see happen
+clearly recession happen time [ner:duration] would good recovery [ner:location]
+go along get along like [ner:date] probably fine
+think psyche merchant_builder [ner:date] investor invest new project definitely change
+view hope reasonable hope get_they_capital_out small profit
+people approach example buy lease_up
+discussion well prepare buy lease-up [ner:date]
+idea merchant_builder realistic term pricing might [ner:date] think go good thing sure
+okay
+[ner:ordinal] question dumb [ner:number] blame tequila
+look back [ner:location] [ner:location] success noma_ii look back say gosh wish maybe bit aggressive develop sooner deliver better market
+case affect strategy development [ner:location]
+supply-driven weight [ner:date] maybe would less inclined add development_project early deliver better market [ner:location] later
+think definitely calculus look
+question hold land get expensive [ner:set]
+think construction_cost go go think might able deliver strong market [ner:date] a_lot_of competition different analysis make
+[ner:number] look sure
+question ultimately get math work view market obviously
+well [ner:location] a_lot_of people pull back competitor glad
+next question [ner:person] [ner:organization]
+will keep short [ner:number]
+curious context low levered balance_sheet share trade certainly estimate nav significant extent curious share_repurchase fit corporate finance_matrix point guy
+well share_repurchase always forte
+multiple cycle purchase share
+real issue become issue volatility get kind scale
+fundamentally believe think team believe nibble share let say think [ner:organization] make a_lot_of sense
+get size sell asset [ner:money] main_street buy stock back discount wall_street
+rational trade really good unless go size
+challenge [ner:duration] stock volatile
+get point think really good value
+sudden market drive stock_price buy
+[ner:number] kind interesting academic question
+make perfect sense
+question execute
+execute really make difference
+next question [ner:person] [ner:organization]
+share average stabilize yield [ner:number] project either lease-up development [ner:date]
+sure
+stabilize yield average around [ner:percent]
+[ner:date] rent
+yes
+[ner:person] mention reset underwriting [ner:set] pass
+share occupancy new lease renewal_growth_expectation [ner:date] get [ner:percent] midpoint revenue_growth_guidance
+go bottom-up reforecast every community
+take number
+look say progression
+give progression new lease renewal already provide [ner:date]
+far go_out quarter-by-quarter progression something ever prepare
+comfortable go get midpoint guidance same-store
+okay
+comment delivery slip back half [ner:date] concern track [ner:date] delivery light will back weight
+think stuff forecast deliver [ner:date] already mention earlier [ner:person] put pretty good effort around try time account delay project
+inventory know [ner:location] good datum construction_completion_standpoint also lease_up
+important reason [ner:person] mention earlier important know exactly go_on all_of inventory point need find new home [ner:percent] merchant_builder_product
+ultimately prepare position asset long term
+track closely
+confident number use supply good number
+conclude question-and-answer_session
+would like turn conference back mr._[ner:person] chairman chief_executive_officer closing_remark
+well appreciate time [ner:date] will see upcome [ner:organization]
+thanks
+take care
+conference [ner:date] conclude
+thank attend [ner:date] presentation
+may [ner:date] disconnect
