@@ -2,7 +2,6 @@
 .DS_Store
 __pycache__/
 models/
-outputs/
 storage/
 data-transcripts/raw/
 data-csr/raw/
