@@ -1,4 +1,51 @@
 document_id,firm_id,time
+1004063.F,Alexander & Baldwin Inc,2005
+1012763.F,ODP Corp,2005
+1012782.F,ODP Corp,2005
+1012785.F,ODP Corp,2005
+1012787.F,ODP Corp,2005
+1020948.F,Alexander & Baldwin Inc,2005
+1037620.F,Alexander & Baldwin Inc,2005
+1048657.F,ODP Corp,2005
+1065361.F,ODP Corp,2005
+1065377.F,E*Trade Financial Corp,2005
+1102148.F,Alexander & Baldwin Inc,2005
+1140247.F,Alexander & Baldwin Inc,2005
+1146929.F,Alexander & Baldwin Inc,2005
+1174161.F,E*Trade Financial Corp,2006
+1189833.F,Alexander & Baldwin Inc,2006
+1191633.F,E*Trade Financial Corp,2006
+1194934.F,E*Trade Financial Corp,2006
+1200947.F,ODP Corp,2006
+1207320.F,ODP Corp,2006
+1280754.F,Alexander & Baldwin Inc,2006
+1298798.F,ODP Corp,2006
+1299543.F,ODP Corp,2006
+1317877.F,E*Trade Financial Corp,2006
+1331262.F,ODP Corp,2006
+1333014.F,E*Trade Financial Corp,2006
+1344420.F,ODP Corp,2006
+1348143.F,Alexander & Baldwin Inc,2006
+1388586.F,ODP Corp,2006
+1397060.F,Alexander & Baldwin Inc,2006
+1397626.F,E*Trade Financial Corp,2006
+1414334.F,E*Trade Financial Corp,2006
+1421739.F,Alexander & Baldwin Inc,2006
+1427602.F,ODP Corp,2006
+1428298.F,E*Trade Financial Corp,2006
+1431265.F,E*Trade Financial Corp,2006
+1456521.F,Alexander & Baldwin Inc,2007
+1461778.F,ODP Corp,2007
+1462898.F,E*Trade Financial Corp,2007
+1487136.F,AltaGas Ltd (Alberta),2007
+1503141.F,Alexander & Baldwin Inc,2007
+1522586.F,Mitcham Industries Inc,2007
+1525291.F,Alexander & Baldwin Inc,2007
+1526365.F,ODP Corp,2007
+1546615.F,AltaGas Ltd (Alberta),2007
+1581671.F,Fibria Celulose SA,2007
+1599052.F,ODP Corp,2007
+1602476.F,Alexander & Baldwin Inc,2007
 562506.F,ODP Corp,2001
 608796.F,Alexander & Baldwin Inc,2002
 612885.F,Anaren Inc,2002
@@ -9,3 +56,46 @@ document_id,firm_id,time
 634760.F,Glencore Canada Corp,2002
 643603.F,E*Trade Financial Corp,2002
 646332.F,ODP Corp,2002
+648137.F,Anaren Inc,2002
+664320.F,IBERIABANK Corp,2002
+665015.F,E*Trade Financial Corp,2002
+665767.F,Anaren Inc,2002
+667758.F,ODP Corp,2002
+691296.F,Unilever NV,2003
+695515.F,Anaren Inc,2003
+695732.F,E*Trade Financial Corp,2003
+704895.F,TIM Participacoes SA,2003
+706476.F,ODP Corp,2003
+714279.F,Standard Diversified Inc,2003
+727885.F,E*Trade Financial Corp,2003
+728982.F,Anaren Inc,2003
+731025.F,ODP Corp,2003
+731253.F,ODP Corp,2003
+739010.F,TIM Participacoes SA,2003
+741126.F,TIM Participacoes SA,2003
+755776.F,IBERIABANK Corp,2003
+758618.F,Glencore Canada Corp,2003
+760943.F,E*Trade Financial Corp,2003
+763470.F,Alexander & Baldwin Inc,2003
+764840.F,ODP Corp,2003
+764888.F,Fibria Celulose SA,2003
+765231.F,Anaren Inc,2003
+766027.F,Standard Diversified Inc,2003
+773335.F,Comdirect Bank AG,2003
+774858.F,AltaGas Ltd (Alberta),2003
+779865.F,ODP Corp,2003
+787528.F,Alexander & Baldwin Inc,2003
+796596.F,ODP Corp,2003
+835761.F,Alexander & Baldwin Inc,2004
+846275.F,ODP Corp,2004
+864751.F,ODP Corp,2004
+866572.F,ODP Corp,2004
+866576.F,ODP Corp,2004
+866578.F,ODP Corp,2004
+867475.F,Alexander & Baldwin Inc,2004
+881588.F,ODP Corp,2004
+911864.F,Alexander & Baldwin Inc,2004
+922916.F,ODP Corp,2004
+942893.F,Alexander & Baldwin Inc,2004
+951334.F,ODP Corp,2004
+974157.F,Alexander & Baldwin Inc,2004

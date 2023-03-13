@@ -27,7 +27,7 @@ def read_xml(document, index=0):
   filename = re.sub("\.\w+", "", filename)
   df.loc[index, 'file'] = filename
   
-  print("Preprocessing", filename, "...")
+  print("Preprocessing matadata of", filename, "...")
 
   # creating a pdf file object
   tree = et.parse(document)
@@ -73,10 +73,12 @@ for f in files_in_dir:
 df = df[['id', 'company', 'year']]
 df.columns = ['document_id', 'firm_id', 'time']
 df.reset_index(drop=True, inplace=True)
-# df = df.dropna(axis=0, how='all') 
+# df = df.dropna(axis=0, how='all')
 df.to_csv(path + '\\input\\id2firms.csv', index=False)
 
-print("Done!")
+print("Done.")
+
+#####################################################
 
 # processing pdf to text
 def read_pdf(document, index=0):
@@ -138,15 +140,6 @@ def read_pdf(document, index=0):
 
   return
 
-# assign relative directory
-directory = os.path.join(sys.path[0], path + "\\raw") ### INPUT FOLDER HERE ###
-
-# list files in directory
-files_in_dir = list_files(directory)
-
-# count files in directory
-print("Your input directory is:", directory, "number of files:",len(files_in_dir))
-
 # initialize dataframe to hold documents
 df = pd.DataFrame(columns=['file'])
 
@@ -169,10 +162,10 @@ print("Creating documents.txt...")
 documents = ""
 for index, row in df.iterrows():
     document_string = row['content']
-    if index == j-1:
-      documents = documents + document_string
-    else:
-      documents = documents + document_string + '\n'
+    # if index == j-1:
+    #   documents = documents + document_string
+    # else:
+    documents = documents + document_string + '\n'
 
 with open(path + '\\input\\documents.txt', 'w') as f:
     f.write(documents)
@@ -182,10 +175,10 @@ print("Creating document_ids.txt...")
 document_ids = ""
 for index, row in df.iterrows():
     document_id = row['file']
-    if index == j-1:
-      document_ids = document_ids + document_id
-    else:
-      document_ids = document_ids + document_id + '\n'
+    # if index == j-1:
+    #   document_ids = document_ids + document_id
+    # else:
+    document_ids = document_ids + document_id + '\n'
 
 print(document_ids)
 

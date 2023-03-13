@@ -1,8 +1,24 @@
+> Originally forked from MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning
+
+**Find the original description below the line**
+
+Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values.
+
+nlp
+finance
+word-embeddings
+accounting
+corporate
+index
+csr
+esg
+dei
+
 # Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning. 
 
-This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls.
+This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions: (1) a preprocessor module to handle pdf files (transcripts and reports), and (2) a visualizer module for the results.
 
-**Find the original description below:**
+
 
 ***
 
@@ -76,7 +92,9 @@ You can config global options in the `global_options.py`. The most important opt
 
 5. (Optional): Use `python aggregate_firms.py` to aggregate the scores to the firm-time level. The final scores are adjusted by the document lengths. 
 
-## TLDR
+***
+
+## TL;DR
 
 pip install -r requirements.txt
 
