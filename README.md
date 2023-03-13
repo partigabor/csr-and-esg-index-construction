@@ -96,13 +96,23 @@ You can config global options in the `global_options.py`. The most important opt
 
 ## TL;DR
 
+### Install
+
 pip install -r requirements.txt
 
+### Test
+
 python -m culture.preprocess
-    
-python preprocess.py
-python parse.py
-python clean_and_train.py
-python create_dict.py
-python score.py
-python aggregate_firms.py
+
+### Run
+
+python main.py
+
+    or
+
+    python preprocess.py
+    python parse.py
+    python clean_and_train.py
+    python create_dict.py
+    python score.py
+    python aggregate_firms.py
