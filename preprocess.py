@@ -37,16 +37,17 @@ def read_xml(document, index=0):
   df.loc[index, 'id'] = root[0].attrib['Id']
 
   for company in root.findall('companyName'):
-    df.loc[index, 'company'] = company.text
+    df.loc[index, 'company'] = str(company.text)
 
   for ticker in root.findall('companyTicker'):
-    df.loc[index, 'ticker'] = ticker.text
+    df.loc[index, 'ticker'] = str(ticker.text)
 
   for date in root.findall('startDate'):
-    df.loc[index, 'date'] = date.text
+    df.loc[index, 'date'] = str(date.text)
 
   df['date'] = pd.to_datetime(df['date'])
   df['year'] = df['date'].dt.year
+  df['year'] = df['year'].astype(int)
 
   return
 

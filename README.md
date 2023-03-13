@@ -1,4 +1,4 @@
-> Originally forked from MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning
+> Originally forked from [MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning](https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning)
 
 **Find the original description below the line**
 
