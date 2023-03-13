@@ -101,6 +101,7 @@ df
 df['content'][0]
 
 # Documents from dataframe as txt
+print("Creating documents.txt...")
 documents = ""
 for index, row in df.iterrows():
     document_string = row['content']
@@ -112,6 +113,7 @@ with open(path + '\\input\\documents.txt', 'w') as f:
     f.write(documents)
 
 # Document ids from dataframe as txt
+print("Creating document_ids.txt...")
 document_ids = ""
 for index, row in df.iterrows():
     document_id = row['file']
