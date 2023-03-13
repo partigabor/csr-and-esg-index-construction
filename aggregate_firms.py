@@ -6,11 +6,9 @@ import global_options
 import pandas as pd
 from pathlib import Path
 
-print("Aggregating scores to firms and adjusting by document lengths.")
+print("Aggregating scores to firms and adjusting by document lengths...")
 
 id2firm = pd.read_csv(str(Path(global_options.DATA_FOLDER, "input", "id2firms.csv")))
-
-print(type(id2firm['time'][1]))
 
 methods = ["TF", "TFIDF", "WFIDF"]
 for method in methods:
