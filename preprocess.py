@@ -73,6 +73,7 @@ for f in files_in_dir:
 df = df[['id', 'company', 'year']]
 df.columns = ['document_id', 'firm_id', 'time']
 df.reset_index(drop=True, inplace=True)
+# df = df.dropna(axis=0, how='all') 
 df.to_csv(path + '\\input\\id2firms.csv', index=False)
 
 print("Done!")
@@ -151,12 +152,14 @@ df = pd.DataFrame(columns=['file'])
 
 # iterate over files in the directory
 i = 0
+j = 0
 for f in files_in_dir:
     if f.lower().endswith('.pdf'):
         read_pdf(f,i)
+        j = j + 1
     i = i + 1
 
-df
+df.reset_index(inplace=True)
 
 # Sanity check
 df['content'][0]
@@ -166,7 +169,10 @@ print("Creating documents.txt...")
 documents = ""
 for index, row in df.iterrows():
     document_string = row['content']
-    documents += document_string + '\n'
+    if index == j-1:
+      documents = documents + document_string
+    else:
+      documents = documents + document_string + '\n'
 
 with open(path + '\\input\\documents.txt', 'w') as f:
     f.write(documents)
@@ -176,7 +182,10 @@ print("Creating document_ids.txt...")
 document_ids = ""
 for index, row in df.iterrows():
     document_id = row['file']
-    document_ids += document_id + '\n'
+    if index == j-1:
+      document_ids = document_ids + document_id
+    else:
+      document_ids = document_ids + document_id + '\n'
 
 print(document_ids)
 
