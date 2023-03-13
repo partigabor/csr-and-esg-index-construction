@@ -13,7 +13,7 @@ PARSE_CHUNK_SIZE: int = 100 # number of lines in the input file to process uing 
 os.environ[
     "CORENLP_HOME"
 ] = "C:/Users/hkpu/anaconda3/envs/index/stanford-corenlp-full-2018-10-05/"  # location of the CoreNLP models; use / to seperate folders
-DATA_FOLDER: str = "data/"
+DATA_FOLDER: str = "data-test/"
 MODEL_FOLDER: str = "models/" # will be created if does not exist
 OUTPUT_FOLDER: str = "outputs/" # will be created if does not exist; !!! WARNING: existing files will be removed !!!
 

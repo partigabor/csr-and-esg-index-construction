@@ -1,11 +1,8 @@
 .vscode/settings.json
 .DS_Store
 __pycache__/
-data-original/processed/
 data-transcripts/raw/
-data-transcripts/processed/
 data-csr/raw/
-data-csr/processed/
 models/
 outputs/
 storage/
