@@ -3,7 +3,7 @@ import regex as re
 import os, sys
 import PyPDF2
 
-path = "data-transcripts"
+path = "data-test"
 
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
@@ -124,4 +124,4 @@ print(document_ids)
 with open(path + '\\input\\document_ids.txt', 'w') as f:
     f.write(document_ids)
 
-print("\nDone!")
+print("Done!")

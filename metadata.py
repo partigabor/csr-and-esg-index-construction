@@ -74,4 +74,4 @@ df.columns = ['document_id', 'firm_id', 'time']
 df.reset_index(drop=True, inplace=True)
 df.to_csv(path + '\\input\\id2firms.csv')
 
-print("\nDone!")
+print("Done!")
