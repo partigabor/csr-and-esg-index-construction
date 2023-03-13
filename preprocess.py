@@ -3,6 +3,8 @@ import regex as re
 import os, sys
 import PyPDF2
 
+path = "data-transcripts"
+
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
     r = []                                                                                                            
@@ -24,7 +26,7 @@ def read_pdf(document, index=0):
   filename = re.sub("\.\w+", "", filename)
   df.loc[index, 'file'] = filename
   
-  print("Parsing", filename, "...")
+  print("Preprocessing", filename, "...")
 
   # creating a pdf file object
   pdf = open(document, 'rb') 
@@ -75,7 +77,7 @@ def read_pdf(document, index=0):
   return
 
 # assign relative directory
-directory = os.path.join(sys.path[0], "data-test\\raw") ### INPUT FOLDER HERE ###
+directory = os.path.join(sys.path[0], path + "\\raw") ### INPUT FOLDER HERE ###
 
 # list files in directory
 files_in_dir = list_files(directory)
@@ -106,7 +108,7 @@ for index, row in df.iterrows():
 
 print(documents)
 
-with open('data\\input\\documents.txt', 'w') as f:
+with open(path + '\\input\\documents.txt', 'w') as f:
     f.write(documents)
 
 # Document ids from dataframe as txt
@@ -117,5 +119,7 @@ for index, row in df.iterrows():
 
 print(document_ids)
 
-with open('data\\input\\document_ids.txt', 'w') as f:
+with open(path + '\\input\\document_ids.txt', 'w') as f:
     f.write(document_ids)
+
+print("\nDone!")
