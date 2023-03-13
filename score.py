@@ -204,3 +204,5 @@ if __name__ == "__main__":
             normalize=False,
             word_weights=word_sim_weights,
         )
+
+print("Done.")

@@ -1,7 +1,9 @@
 numpy>=1.17.2
-pandas>=0.25.1
-gensim>=3.7.2,<4.0.0 
+pandas==1.5.3
+gensim==3.7.2
 tqdm>=4.31.1
 scikit_learn>=0.22.1
 stanfordnlp==0.2.0
-
+protobuf==3.20.0
+regex==2022.10.31
+PyPDF2==3.0.1

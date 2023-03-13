@@ -75,3 +75,16 @@ You can config global options in the `global_options.py`. The most important opt
     (Optional): It is possible to use additional weights on the words (see `score.score_tf_idf()` for detail).  
 
 5. (Optional): Use `python aggregate_firms.py` to aggregate the scores to the firm-time level. The final scores are adjusted by the document lengths. 
+
+## TLDR
+
+    pip install -r requirements.txt
+
+    python -m culture.preprocess
+    
+    python preprocess.py
+    python parse.py
+    python clean_and_train.py
+    python create_dict.py
+    python score.py
+    python aggregate_firms.py

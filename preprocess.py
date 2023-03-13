@@ -185,4 +185,4 @@ print(document_ids)
 with open(path + '\\input\\document_ids.txt', 'w') as f:
     f.write(document_ids)
 
-print("Done!")
+print("Done.")
