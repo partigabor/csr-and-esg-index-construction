@@ -7,10 +7,15 @@ st = time.time()
 
 if __name__=='__main__':
 
-    # # 0. Preprocessing
-    # print("Now running: preprocess.py...")
-    # subprocess.run(["python", "preprocess.py"])
-    # # time.sleep(1)
+    # 0. Preprocessing metadata
+    print("Now running: metadata.py...")
+    subprocess.run(["python", "metadata.py"])
+    # time.sleep(1)
+
+    # 0. Preprocessing raw data
+    print("Now running: preprocess.py...")
+    subprocess.run(["python", "preprocess.py"])
+    # time.sleep(1)
 
     # 1. Parsing
     print("Now running: parse.py...")
