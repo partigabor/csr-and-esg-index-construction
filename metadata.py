@@ -72,6 +72,6 @@ for f in files_in_dir:
 df = df[['id', 'company', 'year']]
 df.columns = ['document_id', 'firm_id', 'time']
 df.reset_index(drop=True, inplace=True)
-df.to_csv(path+'input\\id2firms.csv')
+df.to_csv(path + '\\input\\id2firms.csv')
 
 print("\nDone!")
