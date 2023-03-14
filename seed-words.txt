@@ -1,0 +1,82 @@
+
+# Inputs for constructing the expanded dictionary
+DIMS: List[str] = ["diversity", "equity", "inclusion"]
+SEED_WORDS: Dict[str, List[str]] = {
+    "diversity": [
+        "diversity",
+        "diverse",
+        "diverse_workplace",
+        "diverse_employees",
+        "diverse_board",
+        "diverse_management",
+        "ethnic",
+        "ethnic_diversity",
+        "ethnicity",
+        "race",
+        "racial",
+        "color",
+        "age",
+        "age_diversity",
+        "gender",
+        "gender_diversity",
+        "sexual_orientation",
+        "lgbtq"
+        "religion",
+        "religious_background",
+        "political_views",
+        "marital_status",
+        "pregnancy",
+        "pregnant",
+        "parental_status",
+        "disability,
+        "disabilities",
+        "disabled",
+        "neurodiversity",
+        "veteran",
+        "military_service",
+    ],
+    "equity": [
+        "equity",
+        "equality",
+        "equal",
+        "equal_pay",
+        "equal_salary",
+        "equal_opportunities",
+        "equal_resources",
+        "equitable",
+        "fair",
+        "fair_treatment",
+        "fair_employment_practices"
+        "fairness",
+        "pay_gap",
+        "gender_pay_gap",
+    ],
+    "inclusion": [
+        "inclusion",
+        "inclusive",
+        "inclusive_culture",
+        "interpersonal_integration",
+        "involvement",
+        "involvement_decision_making",
+        "contribute",
+        "respect",
+        "respected",
+        "respectful",
+    ],
+}
+
+***
+
+1.	Social index (ESG, CSR, DEI)
+2.	Environmental index (ESG)
+3.	DEI index
+
+
+Purpose:
+Using conference call transcripts or CSR reports to construct the following indexes. I list the seed words below for each index.
+
+1. ESG index or CSR
+Social related seed words: 
+Safety, Health, Work Life balance, Flexibility, Community, Caring, Citizenship, Collaboration, Cooperation, human rights, employee relations, labor union, employee protection, employee health & safety, labor management, human capital development, Supply Chain Labor Standards, Discrimination & Workforce Diversity, Diversity – Gender, Diversity –Minority
+
+Environmental related seed words:  Environment, climate change, clean tech, pollution, waste, Environmental Management, Renewable Energy, Product Carbon Footprint, Toxic Emissions and Waste, Biodiversity & Land Use, Energy & Climate Change 
