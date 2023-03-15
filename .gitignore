@@ -3,7 +3,7 @@
 __pycache__/
 data/raw/
 data-transcripts/raw/
-data-csr/
+data-csr/raw/
 storage/
 models/
 outputs/
