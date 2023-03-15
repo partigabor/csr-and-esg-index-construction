@@ -6,6 +6,7 @@ data-transcripts/
 data-csr/
 storage/
 models/
+outputs/
 *.props
 dei.ipynb
 visualize.ipynb
