@@ -64,7 +64,7 @@ def process_largefile(
         pass
     assert file_util.line_counter(input_file) == len(
         input_file_ids
-    ), "Make sure the input file has the same number of rows as the input ID file. "
+    ), "Make sure the input file has the same number of rows as the input ID file. This warning means that one or more xml files contain an error, while the accompanying pdf is fine. Please fix the metadata in the broken xml, or remove both files from the dataset."
 
     with open(input_file, newline="\n", encoding="utf-8", errors="ignore") as f_in:
         line_i = 0
@@ -131,5 +131,3 @@ if __name__ == "__main__":
             function_name=process_line,
             chunk_size=global_options.PARSE_CHUNK_SIZE,
         )
-
-print("Done.")

@@ -87,5 +87,3 @@ culture_models.train_w2v_model(
     workers=global_options.N_CORES,
     iter=global_options.W2V_ITER,
 )
-
-print("Done.")

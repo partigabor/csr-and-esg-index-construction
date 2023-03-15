@@ -42,5 +42,3 @@ culture_dictionary.write_dict_to_csv(
     file_name=str(Path(global_options.OUTPUT_FOLDER, "dict", "expanded_dict.csv")),
 )
 print("Dictionary saved at {}".format(str(Path(global_options.OUTPUT_FOLDER, "dict", "expanded_dict.csv"))))
-
-print("Done.")

@@ -4,7 +4,7 @@ import os, sys
 import xml.etree.ElementTree as et
 import PyPDF2
 
-path = "data"
+path = "data-test" ###
 
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
@@ -82,7 +82,6 @@ for f in files_in_dir:
 df = df[['id', 'company', 'year']]
 df.columns = ['document_id', 'firm_id', 'time']
 df.reset_index(drop=True, inplace=True)
-# df = df.dropna(axis=0, how='all')
 df.to_csv(path + '\\input\\id2firms.csv', index=False)
 
 with open(path + "\\input\\document_ids.txt", "w") as f_out:
@@ -181,20 +180,3 @@ for index, row in df.iterrows():
 
 with open(path + '\\input\\documents.txt', 'w') as f:
     f.write(documents)
-
-# # Document ids from dataframe as txt
-# print("Creating document_ids.txt...")
-# document_ids = ""
-# for index, row in df.iterrows():
-#     document_id = row['file']
-#     # if index == j-1:
-#     #   document_ids = document_ids + document_id
-#     # else:
-#     document_ids = document_ids + document_id + '\n'
-
-# print(document_ids)
-
-# with open(path + '\\input\\document_ids.txt', 'w') as f:
-#     f.write(document_ids)
-
-print("Done.")
