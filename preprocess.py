@@ -87,7 +87,7 @@ df.to_csv(path + '\\input\\id2firms.csv', index=False)
 with open(path + "\\input\\document_ids.txt", "w") as f_out:
     f_out.write("\n".join(df["document_id"]))
 
-print("Done.")
+print("Done with metadata.")
 
 #####################################################
 
@@ -151,6 +151,8 @@ def read_pdf(document, index=0):
 
   return
 
+
+
 # initialize dataframe to hold documents
 df = pd.DataFrame(columns=['file'])
 
@@ -166,16 +168,13 @@ for f in files_in_dir:
 df.reset_index(inplace=True)
 
 # Sanity check
-df['content'][0]
+# df['content'][0]
 
 # Documents from dataframe as txt
 print("Creating documents.txt...")
 documents = ""
 for index, row in df.iterrows():
     document_string = row['content']
-    # if index == j-1:
-    #   documents = documents + document_string
-    # else:
     documents = documents + document_string + '\n'
 
 with open(path + '\\input\\documents.txt', 'w') as f:
