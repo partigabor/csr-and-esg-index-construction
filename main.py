@@ -50,5 +50,3 @@ if __name__=='__main__':
     elapsed_time = datetime.timedelta(seconds = round(elapsed_time, 2))
     print("\nAll done!") 
     print('Execution time:', elapsed_time)
-
- 
