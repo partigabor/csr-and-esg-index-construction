@@ -28,7 +28,7 @@ if __name__=='__main__':
 
     # 4. Scoring
     print("Now running: score.py...")
-    subprocess.run(["python", "score.py"])
+    subprocess.run(["python", "score.py"]) 
     time.sleep(1)
 
     # 5. Aggregating firms
@@ -42,7 +42,7 @@ if __name__=='__main__':
     # Execution time
     elapsed_time = et - st
     elapsed_time = datetime.timedelta(seconds = round(elapsed_time, 2))
-    print("\nAll done!")
+    print("\nAll done!") 
     print('Execution time:', elapsed_time)
 
  

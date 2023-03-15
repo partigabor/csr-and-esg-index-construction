@@ -20,35 +20,43 @@ def list_files(dir):
 # processing xml
 def read_xml(document, index=0):
 
-  # add filename to dataframe
-  m = re.search(r"\\(?!.*\\)(.*)((\.xml))", document)
-  filename_match = m.group(0)
-  filename = re.sub("[\\\/\'\>]", "", filename_match)
-  filename = re.sub("\.\w+", "", filename)
-  df.loc[index, 'file'] = filename
-  
-  print("Preprocessing matadata of", filename, "...")
-
   # creating a pdf file object
   tree = et.parse(document)
   root = tree.getroot()
   
-  # Get Id
-  df.loc[index, 'id'] = root[0].attrib['Id']
+  xmlstr = et.tostring(root, method='xml', encoding='unicode')
+  if re.findall("<companyName>", xmlstr):
+    # print('File is sound.')
 
-  for company in root.findall('companyName'):
-    df.loc[index, 'company'] = str(company.text)
+    # add filename to dataframe
+    m = re.search(r"\\(?!.*\\)(.*)((\.xml))", document)
+    filename_match = m.group(0)
+    filename = re.sub("[\\\/\'\>]", "", filename_match)
+    filename = re.sub("\.\w+", "", filename)
+    df.loc[index, 'file'] = filename
+    
+    print("Preprocessing metadata of", filename, "...")
 
-  for ticker in root.findall('companyTicker'):
-    df.loc[index, 'ticker'] = str(ticker.text)
+    # get id
+    df.loc[index, 'id'] = root[0].attrib['Id']
+    
+    # get company
+    for company in root.findall('companyName'):
+      df.loc[index, 'company'] = str(company.text)
+    # get ticker
+    for ticker in root.findall('companyTicker'):
+      df.loc[index, 'ticker'] = str(ticker.text)
+    # get date
+    for date in root.findall('startDate'):
+      df.loc[index, 'date'] = str(date.text)
 
-  for date in root.findall('startDate'):
-    df.loc[index, 'date'] = str(date.text)
-
-  df['date'] = pd.to_datetime(df['date'])
-  df['year'] = df['date'].dt.year
-  df['year'] = df['year'].astype(int)
-
+    # get year
+    df['date'] = pd.to_datetime(df['date'])
+    df['year'] = df['date'].dt.year
+    df['year'] = df['year'].astype(int)
+  else:
+    print("### ERROR ### Missing data in", document)
+  
   return
 
 # assign relative directory
@@ -58,7 +66,7 @@ directory = os.path.join(sys.path[0], path + "\\raw") ### INPUT FOLDER HERE ###
 files_in_dir = list_files(directory)
 
 # count files in directory
-print("Your input directory is:", directory, "number of files:",len(files_in_dir))
+print("Your input directory is:", directory, "\nNumber of files:", len(files_in_dir))
 
 # initialize dataframe to hold documents
 df = pd.DataFrame(columns=['file'])
