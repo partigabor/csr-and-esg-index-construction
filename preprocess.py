@@ -4,7 +4,7 @@ import os, sys
 import xml.etree.ElementTree as et
 import PyPDF2
 
-path = "data-transcripts" ###
+path = "data-test" ###
 
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
@@ -177,5 +177,5 @@ for index, row in df.iterrows():
     document_string = row['content']
     documents = documents + document_string + '\n'
 
-with open(path + '\\input\\documents.txt', 'w') as f:
+with open(path + '\\input\\documents.txt', 'w', encoding='utf8') as f:
     f.write(documents)
