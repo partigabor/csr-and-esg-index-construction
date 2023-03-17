@@ -6,15 +6,21 @@ import datetime
 st = time.time()
 if __name__=='__main__':
 
-    # 0. Preprocessing raw data and metadata
-    print("Now running: preprocess.py...")
-    subprocess.run(["python", "preprocess.py"])
-    time.sleep(1)
-    print("Done.")
+    # # 0. Preprocessing raw data and metadata
+    # print("Now running: preprocess.py...")
+    # subprocess.run(["python", "preprocess.py"])
+    # time.sleep(1)
+    # print("Done.")
 
-    # 1. Parsing
-    print("Now running: parse.py...")
-    subprocess.run(["python", "parse.py"])
+    # # 1a. Parsing
+    # print("Now running: parse-parallel.py...")
+    # subprocess.run(["python", "parse-parallel.py"])
+    # time.sleep(1)
+    # print("Done.")
+
+    # 1b. Parallel Parsing
+    print("Now running: parse_parallel.py...")
+    subprocess.run(["python", "parse_parallel.py"])
     time.sleep(1)
     print("Done.")
 
