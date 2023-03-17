@@ -1,7 +1,6 @@
 .vscode/settings.json
 .DS_Store
 __pycache__/
-data/raw/
 data-transcripts/raw/
 data-transcripts/input/documents.txt
 data-transcripts/processed/parsed/documents.txt
