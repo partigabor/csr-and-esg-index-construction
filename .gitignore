@@ -3,7 +3,9 @@
 __pycache__/
 data/raw/
 data-transcripts/raw/
-data-csr/raw/
+data-transcripts/input/documents.txt
+data-transcripts/processed/parsed/documents.txt
+data-csr/
 storage/
 models/
 *.props
