@@ -12,17 +12,17 @@ if __name__=='__main__':
     # time.sleep(1)
     # print("Done.")
 
-    # # 1a. Parsing
-    # print("Now running: parse-parallel.py...")
-    # subprocess.run(["python", "parse-parallel.py"])
-    # time.sleep(1)
-    # print("Done.")
-
-    # 1b. Parallel Parsing
-    print("Now running: parse_parallel.py...")
-    subprocess.run(["python", "parse_parallel.py"])
+    # 1a. Parsing
+    print("Now running: parse.py...")
+    subprocess.run(["python", "parse.py"])
     time.sleep(1)
     print("Done.")
+
+    # # 1b. Parallel Parsing
+    # print("Now running: parse_parallel.py...")
+    # subprocess.run(["python", "parse_parallel.py"])
+    # time.sleep(1)
+    # print("Done.")
 
     # 2. Cleaning and training
     print("Now running: clean_and_train.py...")
