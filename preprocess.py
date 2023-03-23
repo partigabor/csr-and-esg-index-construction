@@ -82,9 +82,9 @@ for f in files_in_dir:
 df = df[['id', 'company', 'year']]
 df.columns = ['document_id', 'firm_id', 'time']
 df.reset_index(drop=True, inplace=True)
-df.to_csv(path + '\\input\\id2firms.csv', index=False)
+df.to_csv(path + '\\input\\id2firms.csv', encoding='utf-8-sig', index=False)
 
-with open(path + "\\input\\document_ids.txt", "w") as f_out:
+with open(path + "\\input\\document_ids.txt", "w", encoding='utf8') as f_out:
     f_out.write("\n".join(df["document_id"]))
 
 print("Done with metadata.")

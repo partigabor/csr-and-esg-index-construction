@@ -2,8 +2,8 @@
 .DS_Store
 __pycache__/
 data-transcripts/raw/
-data-transcripts/input/documents.txt
-data-transcripts/processed/parsed/documents.txt
+data-transcripts/input/
+data-transcripts/processed/
 data-csr/
 storage/
 models/
