@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13537426" lastUpdate="Monday, December 14, 2020 at 11:32:40pm GMT" eventTypeId="31" eventTypeName="Analyst Meeting">
+  <EventStory Id="13537426.F" expirationDate="Monday, December 14, 2020 at 3:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of TT.N corporate analyst meeting</ 14-Dec-20 3:00pm GMT]]></Headline>
+    <Body><![CDATA[Trane Technologies PLC Investor Briefing
+
+SWORDS Dec 14, 2020 (Thomson StreetEvents) -- Edited Transcript of Trane Technologies PLC corporate analyst meeting</ Monday, December 14, 2020 at 3:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Trane Technologies PLC Investor Briefing]]></eventTitle>
+  <city>SWORDS</city>
+  <companyName>Trane Technologies PLC</companyName>
+  <companyTicker>TT.N</companyTicker>
+  <startDate>14-Dec-20 3:00pm GMT</startDate>
+</Event>

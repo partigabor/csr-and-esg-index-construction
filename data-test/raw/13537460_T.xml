@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13537460" lastUpdate="Tuesday, December 8, 2020 at 9:12:48pm GMT" eventTypeId="7" eventTypeName="Conference Presentation">
+  <EventStory Id="13537460.F" expirationDate="Tuesday, December 8, 2020 at 4:20:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of IBKR.OQ presentation 8-Dec-20 4:20pm GMT]]></Headline>
+    <Body><![CDATA[Interactive Brokers Group Inc at Goldman Sachs Financial Services Conference (Virtual)
+
+GREENWICH Dec 8, 2020 (Thomson StreetEvents) -- Edited Transcript of Interactive Brokers Group Inc presentation Tuesday, December 8, 2020 at 4:20:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Interactive Brokers Group Inc at Goldman Sachs Financial Services Conference (Virtual)]]></eventTitle>
+  <city>GREENWICH</city>
+  <companyName>Interactive Brokers Group Inc</companyName>
+  <companyTicker>IBKR.OQ</companyTicker>
+  <startDate>8-Dec-20 4:20pm GMT</startDate>
+</Event>

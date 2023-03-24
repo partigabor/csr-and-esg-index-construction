@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13537766" lastUpdate="Thursday, December 10, 2020 at 4:09:02pm GMT" eventTypeId="7" eventTypeName="Conference Presentation">
+  <EventStory Id="13537766.F" expirationDate="Thursday, December 10, 2020 at 2:30:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of MDB.OQ presentation 10-Dec-20 2:30pm GMT]]></Headline>
+    <Body><![CDATA[MongoDB Inc at Barclays Global Technology, Media and Telecommunications Conference (Virtual)
+
+ Dec 10, 2020 (Thomson StreetEvents) -- Edited Transcript of MongoDB Inc presentation Thursday, December 10, 2020 at 2:30:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[MongoDB Inc at Barclays Global Technology, Media and Telecommunications Conference (Virtual)]]></eventTitle>
+  <city>
+  </city>
+  <companyName>MongoDB Inc</companyName>
+  <companyTicker>MDB.OQ</companyTicker>
+  <startDate>10-Dec-20 2:30pm GMT</startDate>
+</Event>

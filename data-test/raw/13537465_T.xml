@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13537465" lastUpdate="Wednesday, December 16, 2020 at 5:47:18pm GMT" eventTypeId="31" eventTypeName="Analyst Meeting">
+  <EventStory Id="13537465.F" expirationDate="Tuesday, December 15, 2020 at 10:00:00am GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of 4568.T corporate analyst meeting</ 15-Dec-20 10:00am GMT]]></Headline>
+    <Body><![CDATA[Daiichi Sankyo Co Ltd R&D Day
+
+Tokyo Dec 16, 2020 (Thomson StreetEvents) -- Edited Transcript of Daiichi Sankyo Co Ltd corporate analyst meeting</ Tuesday, December 15, 2020 at 10:00:00am GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Daiichi Sankyo Co Ltd R&D Day]]></eventTitle>
+  <city>Tokyo</city>
+  <companyName>Daiichi Sankyo Co Ltd</companyName>
+  <companyTicker>4568.T</companyTicker>
+  <startDate>15-Dec-20 10:00am GMT</startDate>
+</Event>

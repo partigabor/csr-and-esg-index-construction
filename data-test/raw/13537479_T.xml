@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13537479" lastUpdate="Thursday, December 10, 2020 at 5:58:05am GMT" eventTypeId="7" eventTypeName="Conference Presentation">
+  <EventStory Id="13537479.F" expirationDate="Wednesday, December 9, 2020 at 3:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of T.N presentation 9-Dec-20 3:00pm GMT]]></Headline>
+    <Body><![CDATA[AT&T Inc at Barclays Global Technology, Media and Telecommunications Conference (Virtual)
+
+DALLAS Dec 10, 2020 (Thomson StreetEvents) -- Edited Transcript of AT&T Inc presentation Wednesday, December 9, 2020 at 3:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[AT&T Inc at Barclays Global Technology, Media and Telecommunications Conference (Virtual)]]></eventTitle>
+  <city>DALLAS</city>
+  <companyName>AT&amp;T Inc</companyName>
+  <companyTicker>T.N</companyTicker>
+  <startDate>9-Dec-20 3:00pm GMT</startDate>
+</Event>
