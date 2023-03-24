@@ -1,9 +1,6 @@
-.vscode/settings.json
 .DS_Store
 __pycache__/
 data-transcripts/
 data-csr/
-storage/
 models/
 *.props
-*.zip
