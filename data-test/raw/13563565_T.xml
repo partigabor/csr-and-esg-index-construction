@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13563565" lastUpdate="Friday, December 18, 2020 at 10:18:26pm GMT" eventTypeId="5" eventTypeName="Corporate Conference Call/Presentation">
+  <EventStory Id="13563565.F" expirationDate="Friday, December 18, 2020 at 11:00:00am GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of STRONG.OL conference call or presentation 18-Dec-20 11:00am GMT]]></Headline>
+    <Body><![CDATA[StrongPoint ASA - Special Call
+
+STRØMMEN Dec 18, 2020 (Thomson StreetEvents) -- Edited Transcript of Strongpoint ASA conference call or presentation Friday, December 18, 2020 at 11:00:00am GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[StrongPoint ASA - Special Call]]></eventTitle>
+  <city>STRØMMEN</city>
+  <companyName>Strongpoint ASA</companyName>
+  <companyTicker>STRONG.OL</companyTicker>
+  <startDate>18-Dec-20 11:00am GMT</startDate>
+</Event>

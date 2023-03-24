@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13568922" lastUpdate="Tuesday, December 29, 2020 at 7:07:36pm GMT" eventTypeId="5" eventTypeName="Corporate Conference Call/Presentation">
+  <EventStory Id="13568922.F" expirationDate="Monday, December 28, 2020 at 4:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of BTU.N conference call or presentation 28-Dec-20 4:00pm GMT]]></Headline>
+    <Body><![CDATA[Peabody Energy Corporation - Special Call
+
+ST. LOUIS Dec 29, 2020 (Thomson StreetEvents) -- Edited Transcript of Peabody Energy Corp conference call or presentation Monday, December 28, 2020 at 4:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Peabody Energy Corporation - Special Call]]></eventTitle>
+  <city>ST. LOUIS</city>
+  <companyName>Peabody Energy Corp</companyName>
+  <companyTicker>BTU.N</companyTicker>
+  <startDate>28-Dec-20 4:00pm GMT</startDate>
+</Event>

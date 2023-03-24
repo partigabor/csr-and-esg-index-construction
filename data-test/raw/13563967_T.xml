@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13563967" lastUpdate="Saturday, December 19, 2020 at 7:29:44am GMT" eventTypeId="5" eventTypeName="Corporate Conference Call/Presentation">
+  <EventStory Id="13563967.F" expirationDate="Monday, December 14, 2020 at 10:59:00am GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of NVDA.OQ conference call or presentation 14-Dec-20 10:59am GMT]]></Headline>
+    <Body><![CDATA[NVIDIA Corp GTC China 2020 Keynote
+
+SANTA CLARA Dec 19, 2020 (Thomson StreetEvents) -- Edited Transcript of NVIDIA Corp conference call or presentation Monday, December 14, 2020 at 10:59:00am GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[NVIDIA Corp GTC China 2020 Keynote]]></eventTitle>
+  <city>SANTA CLARA</city>
+  <companyName>NVIDIA Corp</companyName>
+  <companyTicker>NVDA.OQ</companyTicker>
+  <startDate>14-Dec-20 10:59am GMT</startDate>
+</Event>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13562714" lastUpdate="Wednesday, December 30, 2020 at 3:57:20am GMT" eventTypeId="11" eventTypeName="Shareholder Meeting">
+  <EventStory Id="13562714.F" expirationDate="Tuesday, December 29, 2020 at 3:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of XELA.OQ shareholder or annual meeting 29-Dec-20 3:00pm GMT]]></Headline>
+    <Body><![CDATA[Exela Technologies Inc Annual Shareholders Meeting
+
+ST. LOUIS Dec 30, 2020 (Thomson StreetEvents) -- Edited Transcript of Exela Technologies Inc shareholder or annual meeting Tuesday, December 29, 2020 at 3:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Exela Technologies Inc Annual Shareholders Meeting]]></eventTitle>
+  <city>ST. LOUIS</city>
+  <companyName>Exela Technologies Inc</companyName>
+  <companyTicker>XELA.OQ</companyTicker>
+  <startDate>29-Dec-20 3:00pm GMT</startDate>
+</Event>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13565635" lastUpdate="Monday, December 21, 2020 at 8:57:12am GMT" eventTypeId="11" eventTypeName="Shareholder Meeting">
+  <EventStory Id="13565635.F" expirationDate="Friday, December 18, 2020 at 10:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of DEE.TO^E20 shareholder or annual meeting 18-Dec-20 10:00pm GMT]]></Headline>
+    <Body><![CDATA[Delphi Energy Corp Annual Shareholders Meeting
+
+CALGARY Dec 21, 2020 (Thomson StreetEvents) -- Edited Transcript of Delphi Energy Corp shareholder or annual meeting Friday, December 18, 2020 at 10:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Delphi Energy Corp Annual Shareholders Meeting]]></eventTitle>
+  <city>CALGARY</city>
+  <companyName>Delphi Energy Corp</companyName>
+  <companyTicker>DEE.TO^E20</companyTicker>
+  <startDate>18-Dec-20 10:00pm GMT</startDate>
+</Event>

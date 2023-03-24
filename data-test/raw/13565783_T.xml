@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="13565783" lastUpdate="Monday, December 21, 2020 at 12:51:00pm GMT" eventTypeId="11" eventTypeName="Shareholder Meeting">
+  <EventStory Id="13565783.F" expirationDate="Thursday, December 17, 2020 at 3:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of OTCM.PK shareholder or annual meeting 17-Dec-20 3:00pm GMT]]></Headline>
+    <Body><![CDATA[OTC Markets Group Inc Annual Shareholders Meeting
+
+ Dec 21, 2020 (Thomson StreetEvents) -- Edited Transcript of OTC Markets Group Inc shareholder or annual meeting Thursday, December 17, 2020 at 3:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[OTC Markets Group Inc Annual Shareholders Meeting]]></eventTitle>
+  <city>
+  </city>
+  <companyName>OTC Markets Group Inc</companyName>
+  <companyTicker>OTCM.PK</companyTicker>
+  <startDate>17-Dec-20 3:00pm GMT</startDate>
+</Event>
