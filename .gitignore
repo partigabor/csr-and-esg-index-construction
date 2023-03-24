@@ -6,3 +6,4 @@ data-csr/
 storage/
 models/
 *.props
+*.zip
