@@ -1,11 +1,501 @@
-document_id,firm_id,time
-562506.F,ODP Corp,2001
-608796.F,Alexander & Baldwin Inc,2002
-612885.F,Anaren Inc,2002
-615592.F,ODP Corp,2002
-617166.F,Glencore Canada Corp,2002
-625306.F,Unilever NV,2002
-625307.F,Unilever NV,2002
-634760.F,Glencore Canada Corp,2002
-643603.F,E*Trade Financial Corp,2002
-646332.F,ODP Corp,2002
+﻿document_id,firm_id,time
+13537424.F,Capital One Financial Corp,2020
+13537426.F,Trane Technologies PLC,2020
+13537430.F,CDW Corp,2020
+13537433.F,FMC Corp,2020
+13537435.F,Ionis Pharmaceuticals Inc,2020
+13537436.F,Allegheny Technologies Inc,2020
+13537440.F,Dell Technologies Inc,2020
+13537441.F,Dell Technologies Inc,2020
+13537446.F,Enzo Biochem Inc,2020
+13537448.F,Muenchener Rueckversicherungs Gesellschaft AG in Muenchen,2020
+13537460.F,Interactive Brokers Group Inc,2020
+13537465.F,Daiichi Sankyo Co Ltd,2020
+13537466.F,U.S. Bancorp,2020
+13537467.F,MamaMancini's Holdings Inc,2020
+13537468.F,Comtech Telecommunications Corp,2020
+13537469.F,Apollo Global Management Inc,2020
+13537478.F,Sierra Oncology Inc,2020
+13537479.F,AT&T Inc,2020
+13537480.F,New York Times Co,2020
+13537492.F,Williams Companies Inc,2020
+13537495.F,Clean Harbors Inc,2020
+13537497.F,Incyte Corp,2020
+13537499.F,Carlyle Group Inc,2020
+13537500.F,iStar Inc,2020
+13537505.F,Allstate Corp,2020
+13537507.F,Athene Holding Ltd,2020
+13537529.F,Sempra Energy,2020
+13537531.F,Lincoln National Corp,2020
+13537597.F,Immunovia AB (publ),2020
+13537598.F,VBI Vaccines Inc,2020
+13537645.F,Curis Inc,2020
+13537662.F,Lightspeed POS Inc,2020
+13537686.F,Hartford Financial Services Group Inc,2020
+13537694.F,Boeing Co,2020
+13537729.F,Bank of America Corp,2020
+13537752.F,VMware Inc,2020
+13537756.F,Peloton Interactive Inc,2020
+13537759.F,ABM Industries Inc,2020
+13537760.F,MongoDB Inc,2020
+13537761.F,Costco Wholesale Corp,2020
+13537766.F,MongoDB Inc,2020
+13537773.F,Fortive Corp,2020
+13537775.F,Investors Bancorp Inc,2020
+13537776.F,Crowdstrike Holdings Inc,2020
+13537781.F,Crowdstrike Holdings Inc,2020
+13537782.F,News Corp,2020
+13537786.F,Groupon Inc,2020
+13537787.F,Groupon Inc,2020
+13537846.F,Harmony Biosciences Holdings Inc,2020
+13537857.F,American Outdoor Brands Inc,2020
+13537858.F,Kornit Digital Ltd,2020
+13537869.F,Blue Bird Corp,2020
+13537888.F,Equitable Holdings Inc,2020
+13537889.F,Bank of New York Mellon Corp,2020
+13537890.F,Virtu Financial Inc,2020
+13537891.F,Ecolab Inc,2020
+13537892.F,Patriot Transportation Holding Inc,2020
+13537895.F,Cloudera Inc,2020
+13537896.F,Unum Group,2020
+13537899.F,Lakeland Industries Inc,2020
+13537902.F,Intralot Integrated Lottery Systems & Services SA,2020
+13537905.F,Wisetech Global Ltd,2020
+13537908.F,Qantas Airways Ltd,2020
+13537911.F,Randon SA Implementos e Participacoes,2020
+13538013.F,Paragon Banking Group PLC,2020
+13538020.F,Exxaro Resources Ltd,2020
+13538077.F,Antero Midstream Corp,2020
+13538119.F,Kinder Morgan Inc,2020
+13538212.F,Money3 Corp Ltd,2020
+13538223.F,Systemair AB,2020
+13538336.F,Legend Biotech Corp,2020
+13538346.F,EVN AG,2020
+13538361.F,Tui AG,2020
+13538433.F,Molecular Partners AG,2020
+13538583.F,Apogee Enterprises Inc,2020
+13538606.F,International Paper Co,2020
+13538655.F,Prudential Financial Inc,2020
+13538657.F,CLARIVATE PLC,2020
+13538660.F,J.Jill Inc,2020
+13538667.F,Tui AG,2020
+13538675.F,Buckle Inc,2020
+13538681.F,WSP Global Inc,2020
+13538695.F,Ciena Corp,2020
+13538696.F,Jabil Inc,2020
+13538698.F,QTS Realty Trust Inc,2020
+13538699.F,Okta Inc,2020
+13538700.F,Synovus Financial Corp,2020
+13538702.F,Morgan Stanley,2020
+13538707.F,Intuit Inc,2020
+13538722.F,Bridge Bancorp Inc,2020
+13538723.F,Premier Inc,2020
+13538729.F,Pharma Mar SA,2020
+13538743.F,Nanotech Security Corp,2020
+13538752.F,Armada Hoffler Properties Inc,2020
+13538777.F,Bunge Ltd,2020
+13538778.F,Herman Miller Inc,2020
+13538780.F,Luna Innovations Inc,2020
+13538781.F,ADDvantage Technologies Group Inc,2020
+13538798.F,Oasmia Pharmaceutical AB,2020
+13538799.F,Flutter Entertainment PLC,2020
+13538801.F,PCF Group PLC,2020
+13538802.F,Twitter Inc,2020
+13538803.F,Edwards Lifesciences Corp,2020
+13538804.F,Signature Bank,2020
+13538878.F,Veracyte Inc,2020
+13538887.F,Amyris Inc,2020
+13538930.F,Walt Disney Co,2020
+13538937.F,Telephone and Data Systems Inc,2020
+13538956.F,Verizon Communications Inc,2020
+13538957.F,Calavo Growers Inc,2020
+13538958.F,Oracle Corp,2020
+13538966.F,Amgen Inc,2020
+13538969.F,Synopsys Inc,2020
+13538986.F,Fair Isaac Corp,2020
+13538987.F,Pegasystems Inc,2020
+13538989.F,Houlihan Lokey Inc,2020
+13538991.F,Aptiv PLC,2020
+13538992.F,CarGurus Inc,2020
+13538993.F,Equifax Inc,2020
+13538997.F,Rite Aid Corp,2020
+13539002.F,Interpublic Group of Companies Inc,2020
+13539032.F,Rogers Communications Inc,2020
+13539072.F,CME Group Inc,2020
+13539091.F,SAGE Therapeutics Inc,2020
+13539106.F,Vontier Corp,2020
+13539108.F,Vontier Corp,2020
+13539145.F,J.Front Retailing Co Ltd,2020
+13539157.F,Avast PLC,2020
+13539268.F,Enel Chile SA,2020
+13539270.F,"Bigcommerce Holdings, Inc.",2020
+13539271.F,Metcash Ltd,2020
+13539302.F,Gohealth Inc,2020
+13539303.F,Cleanaway Waste Management Ltd,2020
+13539304.F,IAC/Interactivecorp,2020
+13539307.F,Hyundai Motor Co,2020
+13539338.F,Thryv Holdings Inc,2020
+13539384.F,PCF Group PLC,2020
+13539467.F,Criteo SA,2020
+13539544.F,GlaxoSmithKline PLC,2020
+13539556.F,Del Monte Pacific Ltd,2020
+13539611.F,Lennar Corp,2020
+13539612.F,Hexo Corp,2020
+13539631.F,Oasmia Pharmaceutical AB,2020
+13539679.F,5Th Planet Games A/S,2020
+13539684.F,Societe Generale SA,2020
+13539688.F,Yext Inc,2020
+13539690.F,Godrej Consumer Products Ltd,2020
+13539702.F,Zuora Inc,2020
+13539707.F,T-Mobile US Inc,2020
+13539709.F,HEICO Corp,2020
+13539742.F,Allegro Microsystems Inc,2020
+13539743.F,NETGEAR Inc,2020
+13539748.F,Rolls-Royce Holdings PLC,2020
+13539750.F,S&P Global Inc,2020
+13539764.F,Domo Inc,2020
+13539765.F,Coupa Software Inc,2020
+13539841.F,Klabin SA,2020
+13539892.F,Sanderson Farms Inc,2020
+13539893.F,BlackBerry Ltd,2020
+13539921.F,Waste Management Inc,2020
+13539922.F,Aptose Biosciences Inc,2020
+13539923.F,Winnebago Industries Inc,2020
+13539933.F,AAR Corp,2020
+13539937.F,Sarepta Therapeutics Inc,2020
+13539950.F,Stonex Group Inc,2020
+13539955.F,PNM Resources Inc,2020
+13540214.F,ZoomInfo Technologies Inc,2020
+13540227.F,Transat AT Inc,2020
+13540229.F,CooTek (Cayman) Inc,2020
+13540347.F,Taubman Centers Inc,2020
+13540650.F,Vale SA,2020
+13540656.F,MRV Engenharia e Participacoes SA,2020
+13540694.F,Dynatrace Inc,2020
+13540717.F,Sprout Social Inc,2020
+13540748.F,Ambarella Inc,2020
+13540757.F,Jamf Holding Corp,2020
+13540806.F,Atara Biotherapeutics Inc,2020
+13540820.F,G8 Education Ltd,2020
+13540824.F,TransGlobe Energy Corp,2020
+13540903.F,Hornbach Holding AG & Co KGaA,2020
+13541505.F,Adf Group Inc,2020
+13541516.F,CalAmp Corp,2020
+13541539.F,BlackRock Inc,2020
+13541548.F,Tonix Pharmaceuticals Holding Corp,2020
+13541550.F,ATS Automation Tooling Systems Inc,2020
+13541552.F,Gossamer Bio Inc,2020
+13541559.F,nCino Inc,2020
+13541562.F,Draftkings Inc,2020
+13541566.F,Bank of America Corp,2020
+13541569.F,Volkswagen AG,2020
+13541570.F,Infinity Pharmaceuticals Inc,2020
+13541575.F,Parex Resources Inc,2020
+13541576.F,Syros Pharmaceuticals Inc,2020
+13541588.F,Designer Brands Inc,2020
+13541657.F,Hexo Corp,2020
+13541664.F,Mirum Pharmaceuticals Inc,2020
+13541665.F,Medallia Inc,2020
+13541769.F,CBRE Group Inc,2020
+13541778.F,"Bigcommerce Holdings, Inc.",2020
+13541781.F,BR Properties SA,2020
+13541799.F,Morgan Stanley,2020
+13541822.F,Focus Financial Partners Inc,2020
+13541823.F,Franklin Resources Inc,2020
+13541824.F,Accenture PLC,2020
+13541827.F,Tesla Inc,2020
+13541829.F,Twitter Inc,2020
+13541834.F,State Street Corp,2020
+13541840.F,Amgen Inc,2020
+13541845.F,Jones Lang LaSalle Inc,2020
+13541851.F,ContourGlobal PLC,2020
+13541859.F,E. W. Scripps Co,2020
+13541860.F,American Equity Investment Life Holding Co,2020
+13541861.F,Fiverr International Ltd,2020
+13541863.F,Hewlett Packard Enterprise Co,2020
+13541864.F,Hewlett Packard Enterprise Co,2020
+13541865.F,Mimecast Ltd,2020
+13541880.F,Cisco Systems Inc,2020
+13541884.F,Starbucks Corp,2020
+13541892.F,Companhia Siderurgica Nacional,2020
+13541900.F,Rocket Pharmaceuticals Inc,2020
+13541906.F,Precision BioSciences Inc,2020
+13541908.F,Prologis Inc,2020
+13541918.F,Tricida Inc,2020
+13541929.F,Fortinet Inc,2020
+13541930.F,S&P Global Inc,2020
+13541935.F,Trade Desk Inc,2020
+13541936.F,Voya Financial Inc,2020
+13541937.F,TripAdvisor Inc,2020
+13541941.F,Precision BioSciences Inc,2020
+13541944.F,Analog Devices Inc,2020
+13541947.F,Rand Capital Corp,2020
+13541950.F,Analog Devices Inc,2020
+13541961.F,MEG Energy Corp,2020
+13541987.F,Ocean Power Technologies Inc,2020
+13544892.F,Healius Ltd,2020
+13544901.F,PPC Ltd,2020
+13544902.F,HELLA GmbH & Co KgaA,2020
+13544907.F,Chemring Group PLC,2020
+13544913.F,Novartis AG,2020
+13544915.F,Novartis AG,2020
+13544923.F,Link Administration Holdings Ltd,2020
+13544975.F,SThree PLC,2020
+13545004.F,Allergy Therapeutics PLC,2020
+13545050.F,Qudian Inc,2020
+13545051.F,S&P Global Inc,2020
+13545081.F,United States Steel Corp,2020
+13545084.F,Good Times Restaurants Inc,2020
+13545085.F,Camil Alimentos SA,2020
+13545105.F,Cortexyme Inc,2020
+13545112.F,Dynatrace Inc,2020
+13545139.F,Iteris Inc,2020
+13545140.F,Lemonade Inc,2020
+13545142.F,Lemonade Inc,2020
+13545166.F,Largo Resources Ltd,2020
+13545170.F,American International Group Inc,2020
+13545171.F,Heineken NV,2020
+13545176.F,Albemarle Corp,2020
+13545182.F,Applied DNA Sciences Inc,2020
+13545183.F,AT&T Inc,2020
+13545184.F,T. Rowe Price Group Inc,2020
+13545188.F,BRF SA,2020
+13545197.F,Jain Irrigation Systems Ltd,2020
+13545199.F,Nielsen Holdings PLC,2020
+13545312.F,Stifel Financial Corp,2020
+13545323.F,Shift4 Payments Inc,2020
+13545333.F,Cintas Corp,2020
+13545368.F,Molson Coors Beverage Co,2020
+13545426.F,Frequency Electronics Inc,2020
+13545447.F,Microchip Technology Inc,2020
+13545448.F,Rocket Pharmaceuticals Inc,2020
+13545491.F,Whitecap Resources Inc,2020
+13545521.F,IGO Ltd,2020
+13545522.F,GB Group PLC,2020
+13545524.F,RealReal Inc,2020
+13545897.F,Modern Times Group MTG AB,2020
+13545898.F,Stagecoach Group PLC,2020
+13545900.F,Aurubis AG,2020
+13546057.F,Adapteo Oyj,2020
+13546231.F,Centogene NV,2020
+13546234.F,Stratasys Ltd,2020
+13546235.F,Evelo Biosciences Inc,2020
+13546266.F,Customers Bancorp Inc,2020
+13546271.F,Bank of Nova Scotia,2020
+13546301.F,Hewlett Packard Enterprise Co,2020
+13546323.F,T-Mobile US Inc,2020
+13546331.F,Prothena Corporation PLC,2020
+13546439.F,Lennox International Inc,2020
+13546443.F,Sul America SA,2020
+13546455.F,Precigen Inc,2020
+13546460.F,Asana Inc,2020
+13546463.F,Royal Gold Inc,2020
+13546464.F,Hub Group Inc,2020
+13546470.F,PTC Therapeutics Inc,2020
+13546478.F,Paychex Inc,2020
+13546496.F,AB Science SA,2020
+13546519.F,Mattel Inc,2020
+13546530.F,Dell Technologies Inc,2020
+13546642.F,MicroStrategy Inc,2020
+13546798.F,Kao Corp,2020
+13546823.F,Appen Ltd,2020
+13546824.F,Sigma Labs Inc,2020
+13546835.F,Siltronic AG,2020
+13546849.F,Showa Denko KK,2020
+13546881.F,FirstGroup PLC,2020
+13546891.F,KRBL Ltd,2020
+13546894.F,St Barbara Ltd,2020
+13546906.F,Standard Chartered PLC,2020
+13547003.F,UPL Ltd,2020
+13547073.F,Qutoutiao Inc,2020
+13547095.F,Mayr Melnhof Karton AG,2020
+13547097.F,Air Products and Chemicals Inc,2020
+13547098.F,CF Industries Holdings Inc,2020
+13547146.F,ENEOS Holdings Inc,2020
+13547153.F,Uxin Ltd,2020
+13547193.F,Silicon Laboratories Inc,2020
+13547203.F,Neos Therapeutics Inc,2020
+13547204.F,CarGurus Inc,2020
+13547207.F,Tenet Healthcare Corp,2020
+13547228.F,Jaguar Health Inc,2020
+13547252.F,Hut 8 Mining Corp,2020
+13547391.F,Scholastic Corp,2020
+13547392.F,TG Therapeutics Inc,2020
+13547394.F,PagerDuty Inc,2020
+13547450.F,Bill.com Holdings Inc,2020
+13547487.F,B2W Companhia Digital,2020
+13547508.F,InfuSystem Holdings Inc,2020
+13547557.F,Royal Bank of Canada,2020
+13547558.F,Siltronic AG,2020
+13547697.F,Bloom Energy Corp,2020
+13547704.F,Hellofresh SE,2020
+13547705.F,Medicenna Therapeutics Corp,2020
+13547829.F,Electrocomponents PLC,2020
+13547862.F,NB Private Equity Partners Ltd,2020
+13547863.F,"Y-mAbs Therapeutics, Inc",2020
+13547976.F,TuanChe Ltd,2020
+13548134.F,SSP Group PLC,2020
+13548177.F,Canaccord Genuity Group Inc,2020
+13548310.F,Butler National Corp,2020
+13548389.F,TCR2 Therapeutics Inc,2020
+13548479.F,Amarin Corporation PLC,2020
+13548588.F,Cummins Inc,2020
+13548600.F,Purplebricks Group PLC,2020
+13548603.F,Chorus Ltd,2020
+13548761.F,AstraZeneca PLC,2020
+13548762.F,Huntington Bancshares Inc,2020
+13548810.F,Cegedim SA,2020
+13548811.F,Industria de Diseno Textil SA,2020
+13548829.F,MS&AD Insurance Group Holdings Inc,2020
+13548916.F,Arcticzymes Technologies ASA,2020
+13548923.F,Trinseo SA,2020
+13549056.F,Iberdrola SA,2020
+13549101.F,O'Key Group SA,2020
+13549119.F,Enghouse Systems Ltd,2020
+13549174.F,Murphy Usa Inc,2020
+13549176.F,Standard Chartered PLC,2020
+13549190.F,Spin Master Corp,2020
+13549200.F,Cimarex Energy Co,2020
+13549229.F,Energy Fuels Inc,2020
+13549253.F,Frontier Communications Corp,2020
+13549254.F,Ateam Inc,2020
+13549260.F,Immunovia AB (publ),2020
+13549261.F,DAVIDsTEA Inc,2020
+13549414.F,Eclerx Services Ltd,2020
+13549437.F,LGL Group Inc,2020
+13549456.F,Catalyst Biosciences Inc,2020
+13549457.F,RCI Hospitality Holdings Inc,2020
+13549474.F,Primoris Services Corp,2020
+13549608.F,Worldline SA,2020
+13551003.F,Mesoblast Ltd,2020
+13552948.F,CD Projekt SA,2020
+13553515.F,Whole Earth Brands Inc,2020
+13556080.F,Reliq Health Technologies Inc,2020
+13556502.F,EZCORP Inc,2020
+13556568.F,Nobina AB (publ),2020
+13556616.F,Chart Industries Inc,2020
+13556720.F,ABN Amro Bank NV,2020
+13556730.F,Palatin Technologies Inc,2020
+13556735.F,Gol Linhas Aereas Inteligentes SA,2020
+13556762.F,Starbucks Corp,2020
+13556765.F,Murphy Oil Corp,2020
+13556808.F,Reliq Health Technologies Inc,2020
+13556849.F,Carebook Technologies Inc,2020
+13556855.F,Eurofins Scientific SE,2020
+13556907.F,R C M Technologies Inc,2020
+13557714.F,Penumbra Inc,2020
+13558349.F,GoDaddy Inc,2020
+13558366.F,Azul SA,2020
+13558376.F,Uniti Group Ltd,2020
+13558377.F,China Reinsurance Group Corp,2020
+13558433.F,Viva Energy Group Ltd,2020
+13558515.F,ELMO Software Ltd,2020
+13558527.F,Commercial International Bank Egypt SAE,2020
+13558530.F,Galapagos NV,2020
+13558534.F,Lantern Pharma Inc.,2020
+13558538.F,Dixons Carphone PLC,2020
+13558541.F,Dixons Carphone PLC,2020
+13558544.F,Lantern Pharma Inc.,2020
+13558556.F,Continental AG,2020
+13558637.F,Lantern Pharma Inc.,2020
+13559066.F,CTI Biopharma Corp,2020
+13560187.F,Moncler SpA,2020
+13560190.F,Tofas Turk Otomobil Fabrikasi AS,2020
+13560219.F,Premier Gold Mines Ltd,2020
+13560229.F,Aphria Inc,2020
+13560233.F,Novo Nordisk A/S,2020
+13560254.F,Galaxy Gaming Inc,2020
+13560255.F,Integra Lifesciences Holdings Corp,2020
+13560305.F,Usio Inc,2020
+13560318.F,Colgate-Palmolive (India) Ltd,2020
+13560403.F,Jupiter Mines Ltd,2020
+13560404.F,Navin Fluorine International Ltd,2020
+13560525.F,B3 SA Brasil Bolsa Balcao,2020
+13560530.F,B3 SA Brasil Bolsa Balcao,2020
+13561078.F,AB Science SA,2020
+13562152.F,MacroGenics Inc,2020
+13562155.F,cbdMD Inc,2020
+13562158.F,Ultra Clean Holdings Inc,2020
+13562191.F,WPP Aunz Ltd,2020
+13562195.F,MeiraGTx Holdings PLC,2020
+13562260.F,Transurban Group,2020
+13562262.F,Adbri Ltd,2020
+13562268.F,EverQuote Inc,2020
+13562281.F,Ingenia Communities Group,2020
+13562311.F,Duerr AG,2020
+13562315.F,ZoomInfo Technologies Inc,2020
+13562316.F,Premier Oil PLC,2020
+13562323.F,Alphatec Holdings Inc,2020
+13562541.F,Weibo Corp,2020
+13562592.F,Zynerba Pharmaceuticals Inc,2020
+13562597.F,Horizon Therapeutics PLC,2020
+13562608.F,Seneca Biopharma Inc,2020
+13562609.F,Whole Earth Brands Inc,2020
+13562672.F,Otonomy Inc,2020
+13562693.F,Emerson Electric Co,2020
+13562714.F,Exela Technologies Inc,2020
+13562724.F,SPS Commerce Inc,2020
+13562733.F,CR2 EMPREENDIMENTOS IMOBILIARIOS SA,2020
+13562870.F,Leslie's Inc,2020
+13562934.F,Ark Restaurants Corp,2020
+13562956.F,Polaris Infrastructure Inc,2020
+13563047.F,Park24 Co Ltd,2020
+13563098.F,Mesoblast Ltd,2020
+13563099.F,Stillfront Group AB (publ),2020
+13563127.F,MIX Telematics Ltd,2020
+13563145.F,Tikkurila Oyj,2020
+13563161.F,Wienerberger AG,2020
+13563272.F,Koninklijke Philips NV,2020
+13563505.F,Hexindai Inc,2020
+13563528.F,Sanlam Ltd,2020
+13563537.F,Energisa SA,2020
+13563565.F,Strongpoint ASA,2020
+13563845.F,Castellum AB,2020
+13563893.F,Optical Cable Corp,2020
+13563967.F,NVIDIA Corp,2020
+13563970.F,Karyopharm Therapeutics Inc,2020
+13564358.F,Myovant Sciences Ltd,2020
+13565463.F,Lockheed Martin Corp,2020
+13565497.F,Castellum AB,2020
+13565531.F,Hanwha Solutions Corp,2020
+13565633.F,Fubon Financial Holding Co Ltd,2020
+13565635.F,Delphi Energy Corp,2020
+13565783.F,OTC Markets Group Inc,2020
+13565804.F,Diamondback Energy Inc,2020
+13565829.F,Tele Columbus AG,2020
+13565835.F,Agios Pharmaceuticals Inc,2020
+13565841.F,ViaSat Inc,2020
+13565873.F,Rent-A-Center Inc,2020
+13565881.F,Uniqure NV,2020
+13566060.F,Zoom Video Communications Inc,2020
+13566244.F,SeQuent Scientific Ltd,2020
+13566246.F,Anterix Inc,2020
+13566264.F,Bridgeline Digital Inc,2020
+13566282.F,ChemoCentryx Inc,2020
+13566297.F,CSP Inc,2020
+13566430.F,Invisio AB,2020
+13566662.F,WELL Health Technologies Corp,2020
+13566735.F,Rhythm Pharmaceuticals Inc,2020
+13566748.F,MDC Partners Inc,2020
+13566914.F,San Miguel Industrias PET SA,2020
+13566921.F,Anavex Life Sciences Corp,2020
+13566923.F,Columbia Care Inc,2020
+13566933.F,AYR Strategies Inc,2020
+13566941.F,Juniper Industrial Holdings Inc,2020
+13566994.F,Forest Investments Inc,2020
+13567142.F,Spectrum Pharmaceuticals Inc,2020
+13567208.F,Secoo Holding Ltd,2020
+13567213.F,a2 Milk Company Ltd,2020
+13567836.F,NantKwest Inc,2020
+13568083.F,Portman Ridge Finance Corp,2020
+13568718.P,Sandvik AB,2020
+13568922.F,Peabody Energy Corp,2020
+13569009.F,Sumitomo Dainippon Pharma Co Ltd,2020
+13570184.F,Beigene Ltd,2020
+13570369.F,Myovant Sciences Ltd,2020
+13570396.F,China Finance Online Co Ltd,2020
+13570425.F,InRetail Peru Corp,2020
+13570635.F,Ferrellgas Partners LP,2020
+13570670.F,Arcturus Therapeutics Holdings Inc,2020
+13571072.F,South Indian Bank Ltd,2020
+13571921.F,Unicaja Banco SA,2020
