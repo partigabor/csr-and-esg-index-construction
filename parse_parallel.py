@@ -77,10 +77,10 @@ def process_largefile(
                     output_line_ids.append(output_line_id)
             output_lines = "\n".join(output_lines) + "\n"
             output_line_ids = "\n".join(output_line_ids) + "\n"
-            with open(output_file, "a", newline="\n") as f_out:
+            with open(output_file, "a", newline="\n", encoding='utf-8') as f_out:
                 f_out.write(output_lines)
             if output_index_file is not None:
-                with open(output_index_file, "a", newline="\n") as f_out:
+                with open(output_index_file, "a", newline="\n", encoding='utf-8') as f_out:
                     f_out.write(output_line_ids)
 
 

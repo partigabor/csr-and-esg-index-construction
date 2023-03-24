@@ -69,10 +69,10 @@ def file_bigramer(input_path, output_path, model_path, threshold=None, scoring=N
     if threshold is not None:
         bigram_model.threshold = threshold
     # bigram_phraser = models.phrases.Phraser(bigram_model)
-    with open(input_path, "r") as f:
+    with open(input_path, "r", encoding='utf-8') as f:
         input_data = f.readlines()
     data_bigram = [bigram_transform(l, bigram_model) for l in tqdm.tqdm(input_data)]
-    with open(output_path, "w") as f:
+    with open(output_path, "w", encoding='utf-8') as f:
         f.write("\n".join(data_bigram) + "\n")
     assert len(input_data) == file_util.line_counter(output_path)
 

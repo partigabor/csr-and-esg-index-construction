@@ -19,7 +19,7 @@ def line_counter(a_file):
         int -- number of lines in the file
     """
     n_lines = 0
-    with open(a_file, "rb") as f:
+    with open(a_file, "rb", encoding='utf-8') as f:
         n_lines = sum(1 for _ in f)
     return n_lines
 
@@ -34,7 +34,7 @@ def file_to_list(a_file):
         [str] -- list of lines in the input file, can be empty
     """
     file_content = []
-    with open(a_file, "rb") as f:
+    with open(a_file, "rb", encoding='utf-8') as f:
         for l in f:
             file_content.append(l.decode(encoding="utf-8").strip())
     return file_content
