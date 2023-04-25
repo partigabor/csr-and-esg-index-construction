@@ -34,6 +34,14 @@ Currently, `data-test` has been set up. If you want to work with a different dir
     python score.py
     python aggregate_firms.py
 
+If you encounter errors, you most likely need to:
+
+* Check if the packages' versions are compatible (you would get an error message)
+* Check for correct settings of path and parameters in `global_options.py`
+* Check for documents with missing data (xml tree)
+* Check for documents that are not in UTF-8 character encoding.
+* Check for too large documents.
+
 ***
 
 # Measuring Corporate Culture Using Machine Learning
