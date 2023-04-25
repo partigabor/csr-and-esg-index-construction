@@ -7,13 +7,13 @@
 Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values.
 This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions: (1) a preprocessor module to handle pdf files (transcripts and reports), and (2) a visualizer module for the results.
 
-## tl;dr
+## Follow the steps below to run the code.
 
-### Follow the steps below to run the code.
+### tl;dr
 
 0. For system requirements, follow the instructions of the original repository.
-1. Place your documents in the directory 'data/raw'.
-2. Run 'main.py'.
+1. Place your documents in the directory `data/raw`.
+2. Run `main.py`.
 
 Keywords:
 
