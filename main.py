@@ -18,7 +18,7 @@ if __name__=='__main__':
     time.sleep(1)
     print("Done.")
 
-    # # 1b. Parallel Parsing
+    # # 1b. Parallel Parsing (not stable)
     # print("Now running: parse_parallel.py...")
     # subprocess.run(["python", "parse_parallel.py"])
     # time.sleep(1)
