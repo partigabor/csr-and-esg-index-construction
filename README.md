@@ -9,9 +9,11 @@ This repository is a built on the work you can find in the original fork, the co
 
 ## Follow the steps below to run the code, tl;dr.
 
-### 0. For system requirements, follow the instructions of the original repository. In short: 
+### 0. Prerequisites
 
-#### Install:
+For system requirements, follow the instructions of the original repository (see details below). In short, you will need Python, Java, and Stanford CoreNLP 3.9.2.
+
+#### Install
 
     pip install -r requirements.txt
     
@@ -19,9 +21,11 @@ This repository is a built on the work you can find in the original fork, the co
 
     python -m culture.preprocess
     
-### 1. Place your documents in the directory `data/raw`.
+### 1. Place your documents in the directory `data-test/raw`.
 
-### 2. Run `main.py`, or one by one:
+Currently, `data-test` has been set up. If you want to work with a different directory or settings, make changes in `global-options.py`.
+
+### 2. Run `main.py` to run everything, or run the modules one by one:
 
     python preprocess.py
     python parse.py
@@ -42,7 +46,7 @@ Kai Li, Feng Mai, Rui Shen, Xinyan Yan, [__Measuring Corporate Culture Using Mac
 
 The code is tested on Ubuntu 18.04 and macOS Catalina, with limited testing on Windows 10.  
 
-## Requirement
+## Requirements
 The code requires 
 - `Python 3.6+`
 - The required Python packages can be installed via `pip install -r requirements.txt`
