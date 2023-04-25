@@ -4,7 +4,7 @@ import os, sys
 import xml.etree.ElementTree as et
 import PyPDF2
 
-path = "data-transcripts" ###
+path = "data-test" ###
 
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
