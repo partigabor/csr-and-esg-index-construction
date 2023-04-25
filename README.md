@@ -2,7 +2,20 @@
 
 **Find the original description below the line**
 
+# Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning.
+
 Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values.
+This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions: (1) a preprocessor module to handle pdf files (transcripts and reports), and (2) a visualizer module for the results.
+
+## tl;dr
+
+### Follow the steps below to run the code.
+
+0. For system requirements, follow the instructions of the original repository.
+1. Place your documents in the directory 'data/raw'.
+2. Run 'main.py'.
+
+Keywords:
 
 nlp
 finance
@@ -13,12 +26,6 @@ index
 csr
 esg
 dei
-
-# Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning. 
-
-This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions: (1) a preprocessor module to handle pdf files (transcripts and reports), and (2) a visualizer module for the results.
-
-
 
 ***
 
@@ -33,7 +40,7 @@ Kai Li, Feng Mai, Rui Shen, Xinyan Yan, [__Measuring Corporate Culture Using Mac
 The code is tested on Ubuntu 18.04 and macOS Catalina, with limited testing on Windows 10.  
 
 ## Requirement
-The code requres 
+The code requires 
 - `Python 3.6+`
 - The required Python packages can be installed via `pip install -r requirements.txt`
 - Download and uncompress [Stanford CoreNLP v3.9.2](http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip). Newer versions may work, but they are not tested. Either [set the environment variable to the location of the uncompressed folder](https://stanfordnlp.github.io/stanfordnlp/corenlp_client.html), or edit the following line in the `global_options.py` to the location of the uncompressed folder, for example: 
