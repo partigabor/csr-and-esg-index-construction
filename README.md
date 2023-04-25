@@ -7,25 +7,28 @@
 Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values.
 This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions: (1) a preprocessor module to handle pdf files (transcripts and reports), and (2) a visualizer module for the results.
 
-## Follow the steps below to run the code.
+## Follow the steps below to run the code, tl;dr.
 
-### tl;dr
+### 0. For system requirements, follow the instructions of the original repository. In short: 
 
-0. For system requirements, follow the instructions of the original repository.
-1. Place your documents in the directory `data/raw`.
-2. Run `main.py`.
+#### Install:
 
-Keywords:
+    pip install -r requirements.txt
+    
+#### Test
 
-nlp
-finance
-word-embeddings
-accounting
-corporate
-index
-csr
-esg
-dei
+    python -m culture.preprocess
+    
+### 1. Place your documents in the directory `data/raw`.
+
+### 2. Run `main.py`, or one by one:
+
+    python preprocess.py
+    python parse.py
+    python clean_and_train.py
+    python create_dict.py
+    python score.py
+    python aggregate_firms.py
 
 ***
 
@@ -99,27 +102,3 @@ You can config global options in the `global_options.py`. The most important opt
 
 5. (Optional): Use `python aggregate_firms.py` to aggregate the scores to the firm-time level. The final scores are adjusted by the document lengths. 
 
-***
-
-## TL;DR
-
-### Install
-
-pip install -r requirements.txt
-
-### Test
-
-python -m culture.preprocess
-
-### Run
-
-python main.py
-
-    or
-
-    python preprocess.py
-    python parse.py
-    python clean_and_train.py
-    python create_dict.py
-    python score.py
-    python aggregate_firms.py
