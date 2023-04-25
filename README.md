@@ -5,7 +5,7 @@
 # Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning.
 
 Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values.
-This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions: (1) a preprocessor module to handle pdf files (transcripts and reports), and (2) a visualizer module for the results.
+This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions so far: (1) a preprocessor module to handle pdf files (transcripts and reports). Planned: (2) a visualizer module for a better overview of the results.
 
 ## Follow the steps below to run the code, tl;dr.
 
