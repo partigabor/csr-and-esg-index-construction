@@ -4,10 +4,8 @@ import os
 import sys
 from multiprocessing import Pool, freeze_support
 from pathlib import Path
-
 import pandas as pd
 from tqdm import tqdm
-
 
 def line_counter(a_file):
     """Count the number of lines in a text file
