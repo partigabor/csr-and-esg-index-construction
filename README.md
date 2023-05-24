@@ -4,43 +4,72 @@
 
 # Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning.
 
-Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values.
-This repository is a built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions so far: (1) a preprocessor module to handle pdf files (transcripts and reports). Planned: (2) a visualizer module for a better overview of the results.
+Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values. This repository is built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions so far: (1) a preprocessor module to handle pdf files (earnings calls transcripts and reports). 
 
-## Follow the steps below to run the code, tl;dr.
+<!-- Planned: (2) a visualizer module for a better overview of the results. -->
 
-### 0. Prerequisites
+## Setup from scratch, on Windows 10 (tl;dr)
 
-For system requirements, follow the instructions of the original repository (see details below). In short, you will need Python, Java, and Stanford CoreNLP 3.9.2.
+* Install Anaconda (https://www.anaconda.com/)
+* Install an IDE (e.g. Visual Studio Code - https://code.visualstudio.com/)
+* Install Git (https://git-scm.com/download/win)
+* Install Java (Windows Offline 64-bit - https://www.java.com/en/download/manual.jsp)
+* Install Stanford CoreNLP v3.9.2 (http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip) by manually placing the uncompressed folder somewhere, e.g. C:\Users\user\AppData\Local\stanford-corenlp-full-2018-10-05
+* Clone code repository to your working directory: git clone https://github.com/partigabor/index-construction.git
+* Create an environment called "index": `conda create -n index python=3.9`
+* Activate this environment: `conda activate index`
+* Add Anaconda to Windows Path environment variables so that VSCode terminal will recognize and use Anaconda prompt (add these two lines "C:\Users\user\AppData\Local\Anaconda3\Scripts" and "C:\Users\user\AppData\Local\Anaconda3") 
+* Add a Python interpreter to VSCode from this new conda environment. If not offered, you can probably find it at: C:\Users\user\AppData\Local\anaconda3\envs\index\python.exe
+* Install required python packages: `pip install -r requirements.txt`
+* Add Stanford CoreNLP path to global_options.py: os.environ["CORENLP_HOME"] = "C:/Users/user/AppData/Local/stanford-corenlp-full-2018-10-05/"
+* Test with command: `python -m culture.preprocess`; if success, you should see:
 
-#### Install
+	Starting server with command: java -Xmx16G -cp C:/Users/gparti/AppData/Local/stanford-corenlp-full-2018-10-05//* edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 60000 -threads 1 -maxCharLength 100000 -quiet True -serverProperties corenlp_server-8922256f13d24a46.props -preload tokenize, ssplit, pos, lemma, ner, depparse
+	(['when[pos:WRB] I[pos:PRP] be[pos:VBD] a[pos:DT] child[pos:NN] in[pos:IN] [NER:LOCATION]Ohio[pos:NNP] ,[pos:,] I[pos:PRP] always[pos:RB] want[pos:VBD] to[pos:TO] go[pos:VB] to[pos:TO] [NER:ORGANIZATION]Stanford[pos:NNP]_University[pos:NNP] with[pos:IN]_respect[pos:NN]_to[pos:TO] higher[pos:JJR] education[pos:NN] .[pos:.] ', 'but[pos:CC] I[pos:PRP] go[pos:VBD] along[pos:IN] with[pos:IN] my[pos:PRP$] parent[pos:NNS] .[pos:.] '], ['None_0', 'None_1'])
 
-    pip install -r requirements.txt
+* Tweak settings in global_options.py according to your machine (e.g. RAM, CPU cores, etc.)
+* Setup complete, define `DATA_FOLDER` to train on your own data, adjust dimensions `DIMS` and `SEED_WORDS` to your own needs.
+
+For prerequisites and system requirements, you can also follow the instructions of the original repository (see details below). In short, you need Python, Java, and Stanford CoreNLP 3.9.2.
+
+## Usage notes
     
-#### Test
+### 1. Place your documents into a directory, e.g. `data-test/raw`.
 
-    python -m culture.preprocess
-    
-### 1. Place your documents in the directory `data-test/raw`.
+>Currently, `data-test` has been set up for you. If you want to work with a different directory or settings, make changes in `global-options.py`. Training the model on `data-test` (150 documents) should take 1 hour on an average system.
 
-Currently, `data-test` has been set up. If you want to work with a different directory or settings, make changes in `global-options.py`.
-
-### 2. Run `main.py` to run everything, or run the modules one by one:
+### 2. Run `main.py` to run everything, or run the modules one by one as below:
 
     python preprocess.py
+
+This module takes in pdf files and accompanying xml metadata files from a dataset and processes the documents to be suitable for training, extracting their content and creating input files `documents.txt` and `document_ids.txt`.
+
     python parse.py
+
     python clean_and_train.py
+
     python create_dict.py
+
     python score.py
+
     python aggregate_firms.py
 
-If you encounter errors, you most likely need to:
+See explanations on the modules in the original README (below).
+
+**If you encounter problems, you most likely need to:**
 
 * Check if the packages' versions are compatible (you would get an error message)
-* Check for correct settings of path and parameters in `global_options.py`
-* Check for documents with missing data (xml tree)
+* Check for correct settings of paths and parameters in `global_options.py`
+* Check for documents with missing data (xml tree errors)
 * Check for documents that are not in UTF-8 character encoding.
-* Check for too large documents.
+* Check for documents too large.
+* Deprecation warnings can be ignored.
+
+Gábor PARTI
+
+***
+
+***
 
 ***
 

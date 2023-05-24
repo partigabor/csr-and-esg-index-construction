@@ -4,4 +4,5 @@ data-transcripts/
 data-csr/
 models/
 *.props
+visualize.py
 visualize.ipynb

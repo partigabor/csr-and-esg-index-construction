@@ -1,5 +1,24 @@
 {
-    "python.pythonPath": "C:\\Users\\hkpu\\anaconda3\\envs\\index\\python.exe",
+    "python.pythonPath": "C:\\Users\\gparti\\anaconda3\\envs\\index\\python.exe",
     "python.terminal.activateEnvironment": true,
     "python.analysis.typeCheckingMode": "off",
+
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
 }
