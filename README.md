@@ -17,9 +17,9 @@ Python code based on a pipeline to measure corporate culture, but modified to ac
 * Install Stanford CoreNLP v3.9.2 (http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip) by manually placing the uncompressed folder somewhere, e.g. C:\Users\user\AppData\Local\stanford-corenlp-full-2018-10-05
 * Clone code repository to your working directory: git clone https://github.com/partigabor/index-construction.git
 * Create an environment called "index": `conda create -n index python=3.9`
-* Activate this environment: `conda activate index`
+* To activate this environment: `conda activate index`
 * Add Anaconda to Windows Path environment variables so that VSCode terminal will recognize and use Anaconda prompt (add these two lines "C:\Users\user\AppData\Local\Anaconda3\Scripts" and "C:\Users\user\AppData\Local\Anaconda3") 
-* Add a Python interpreter to VSCode from this new conda environment. If not offered, you can probably find it at: C:\Users\user\AppData\Local\anaconda3\envs\index\python.exe
+* Add a Python interpreter to VSCode from this new conda environment. If it is not offered, you can probably find it at: C:\Users\user\AppData\Local\anaconda3\envs\index\python.exe
 * Install required python packages: `pip install -r requirements.txt`
 * Add Stanford CoreNLP path to global_options.py: os.environ["CORENLP_HOME"] = "C:/Users/user/AppData/Local/stanford-corenlp-full-2018-10-05/"
 * Test with command: `python -m culture.preprocess`; if success, you should see:
