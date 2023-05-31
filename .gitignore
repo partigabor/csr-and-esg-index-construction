@@ -8,7 +8,6 @@ data-csr/
 *.mod
 *.npy
 *.pickle
-*.ipynb
 
 visualize.py
 
