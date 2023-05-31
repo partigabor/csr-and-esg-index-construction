@@ -12,4 +12,4 @@ data-csr/
 
 visualize.py
 
-# ignore by filesize? e.g. find * -size +1G | cat >> .gitignore
+# ignore by filesize? e.g. "find . -size +100M | cat >> .gitignore" OR "find * -size +100M | cat >> .gitignore" to exclude files from .git
