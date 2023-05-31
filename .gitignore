@@ -11,3 +11,5 @@ data-csr/
 *.ipynb
 
 visualize.py
+
+# ignore by filesize? e.g. find * -size +1G | cat >> .gitignore
