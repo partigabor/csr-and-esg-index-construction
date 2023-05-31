@@ -1,0 +1,51 @@
+========================================
+Transcrips Report
+========================================
+
+The program main.py was ran with global_options-transcripts.py (settings), the results can be seen in the outputs-transcripts directory. 
+
+Stats:
+Total files: 75,076 (i.e.: 37,538 documents with accompanying metadata)
+Erroneous files: 102 (encoding error)
+Too large files: 4 (for memory in chunk)
+Remaining files: 74,970
+
+========================================
+Output:
+
+Preprocessing,
+parsing,
+cleaning,
+training,
+...
+INFO:gensim.utils:saved models\w2v\w2v.mod
+Done.
+Now running: create_dict.py...
+Vocab size in the w2v model: 56004
+Dictionary created. 
+Dictionary deduplicated. 
+Dictionary saved at outputs\dict\expanded_dict.csv
+Done.
+Now running: score.py...
+Importing dict: outputs\dict\expanded_dict.csv
+Number of words in diversity dimension: 521
+Number of words in equity dimension: 381
+Number of words in inclusion dimension: 419
+Constructing doc level corpus
+Calculating document frequencies.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2800/2800 [00:01<00:00, 1513.48it/s]
+Scoring TF.
+Scoring using Term-freq (tf).
+Scoring TF-IDF.
+Scoring using TFIDF
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2800/2800 [00:02<00:00, 1141.44it/s]
+Scoring TF-IDF.
+Scoring using WFIDF
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2800/2800 [00:02<00:00, 1138.66it/s]
+Done.
+Now running: aggregate_firms.py...
+Aggregating scores to firms and adjusting by document lengths...
+Done.
+
+All done!
+Execution time: 1 day, 9:42:29.410000

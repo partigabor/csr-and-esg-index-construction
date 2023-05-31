@@ -5,13 +5,13 @@ from pathlib import Path
 from typing import Dict, List, Optional, Set
 
 # Hardware options
-N_CORES: int = 6  # max number of CPU cores to use
-RAM_CORENLP: str = "16G"  # max RAM allocated for parsing using CoreNLP; increase to speed up parsing
+N_CORES: int = 4  # max number of CPU cores to use
+RAM_CORENLP: str = "8G"  # max RAM allocated for parsing using CoreNLP; increase to speed up parsing
 PARSE_CHUNK_SIZE: int = 100 # number of lines in the input file to process uing CoreNLP at once. Increase on workstations with larger RAM (e.g. to 1000 if RAM is 64G)  
 
 # Directory locations
 os.environ["CORENLP_HOME"] = "C:/Users/gparti/AppData/Local/stanford-corenlp-full-2018-10-05/"  # location of the CoreNLP models; use / to seperate folders
-DATA_FOLDER: str = "data-test/" # also change path in preprocess.py
+DATA_FOLDER: str = "data-transcripts/" ### ATTENTION! Also change path in preprocess.py ### !!! ###
 MODEL_FOLDER: str = "models/" # will be created if does not exist
 OUTPUT_FOLDER: str = "outputs/" # will be created if does not exist; !!! WARNING: existing files will be removed !!!
 

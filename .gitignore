@@ -1,8 +1,13 @@
 .DS_Store
 __pycache__/
+
 data-transcripts/
 data-csr/
-models/
+
 *.props
+*.mod
+*.npy
+*.pickle
+*.ipynb
+
 visualize.py
-visualize.ipynb

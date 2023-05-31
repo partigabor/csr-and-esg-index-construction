@@ -4,7 +4,7 @@ import os, sys
 import xml.etree.ElementTree as et
 import PyPDF2
 
-path = "data-test" ###
+path = "data-transcripts" ###
 
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
@@ -17,7 +17,7 @@ def list_files(dir):
                 r.append(os.path.join(subdir, file))                                                                         
     return r
 
-# processing xml
+# a function to process xml
 def read_xml(document, index=0):
 
   # creating a pdf file object
@@ -56,7 +56,10 @@ def read_xml(document, index=0):
     df['year'] = df['year'].astype(int)
   else:
     print("### ERROR ### Missing data in", document)
-  
+    # log errors
+    errors = document + "\n"
+    with open(path + "\\errors.txt", "a") as text_file:
+      text_file.write(errors)
   return
 
 # assign relative directory
@@ -71,12 +74,19 @@ print("Your input directory is:", directory, "\nNumber of files:", len(files_in_
 # initialize dataframe to hold documents
 df = pd.DataFrame(columns=['file'])
 
+# initialize error log
+with open(path + "\\errors.txt", "w") as text_file:
+  text_file.write("")
+
 # iterate over files in the directory
 i = 0
 for f in files_in_dir:
     if f.lower().endswith('.xml'):
         read_xml(f,i)
     i = i + 1
+
+# Print log
+print("A list of problematic files (if any) can be found in errors.txt. You must remove or fix these files!")
 
 # Metadata from dataframe as csv
 df = df[['id', 'company', 'year']]
@@ -88,6 +98,15 @@ with open(path + "\\input\\document_ids.txt", "w", encoding='utf8') as f_out:
     f_out.write("\n".join(df["document_id"]))
 
 print("Done with metadata.")
+
+#####################################################
+
+"""
+Duplicate error list
+Change xml to pdf in the copy with regex
+Use the error lists to (re)move these files with batch commands
+  e.g. for /f %i in (errors.txt) do move %i .\errors
+"""
 
 #####################################################
 
