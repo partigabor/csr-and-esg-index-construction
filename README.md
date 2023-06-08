@@ -44,15 +44,15 @@ Create a data folder in the project directory, e.g. `data-test`, and place your 
 
 Your folder structure will look like this:
 
-/index-construction
-├── data-test
-│   ├── raw
-│   ├── input
-│   └── processed
-│
-├──...
-├──main.py
-└──...
+	/index-construction
+	├── data-test
+	│   ├── raw
+	│   ├── input
+	│   └── processed
+	│
+	├──...
+	├──main.py
+	└──...
 
 >Currently, `data-test` has been already set up for you with 150 sample documents. Training the model on `data-test` (150 documents) should take 1 hour on an ordinary office setup.
 
