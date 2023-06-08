@@ -89,10 +89,6 @@ Gábor PARTI
 
 ***
 
-***
-
-***
-
 # Measuring Corporate Culture Using Machine Learning
 
 ## Introduction
