@@ -34,25 +34,45 @@ For prerequisites and system requirements, you can also follow the instructions 
 
 ## Usage notes
     
-### 1. Place your documents into a directory, e.g. `data-test/raw`.
+### 1. Create your data folder
 
->Currently, `data-test` has been set up for you. If you want to work with a different directory or settings, make changes in `global-options.py`. Training the model on `data-test` (150 documents) should take 1 hour on an average system.
+Create a data folder in the project directory, e.g. `data-test`, and place your pdf (and xml) files in a folder named `raw` inside this data folder. In the settings file `global-options.py`, at line 14, define the DATA_FOLDER constant as your folder, e.g.: 
 
-### 2. Run `main.py` to run everything, or run the modules one by one as below:
+```python
+    DATA_FOLDER: str = "data-test/"
+```
 
-    python preprocess.py
+Your folder structure will look like this:
 
-This module takes in pdf files and accompanying xml metadata files from a dataset and processes the documents to be suitable for training, extracting their content and creating input files `documents.txt` and `document_ids.txt`.
+/index-construction
+├── data-test
+│   ├── raw
+│   ├── input
+│   └── processed
+│
+├──...
+├──main.py
+└──...
 
-    python parse.py
+>Currently, `data-test` has been already set up for you with 150 sample documents. Training the model on `data-test` (150 documents) should take 1 hour on an ordinary office setup.
 
-    python clean_and_train.py
+### 2. Run `main.py` to run everything, or run the modules one by one as below 
 
-    python create_dict.py
+The two variants - `main-transcripts.py` and `main-csr.py` - accommodate for different datasets. The "Transcripts" dataset consist of pdf files with accomodating xml files for metadata, while the "CSR" dataset just contains pdfs; the preprocessor is different for these two, the rest of the modules are the same.
 
-    python score.py
+    1. python preprocess.py
 
-    python aggregate_firms.py
+This module takes in pdf files (and accompanying xml metadata files in case of transcripts) from a dataset and processes the documents to be suitable for training, extracting their content and creating input files `documents.txt` and `document_ids.txt`.
+
+    2. python parse.py
+
+    3. python clean_and_train.py
+
+    4. python create_dict.py
+
+    5. python score.py
+
+    6. python aggregate_firms.py
 
 See explanations on the modules in the original README (below).
 

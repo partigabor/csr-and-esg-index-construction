@@ -35,3 +35,5 @@ for method in methods:
         index=False,
         float_format="%.4f",
     )
+
+print("Done.")

@@ -3,8 +3,9 @@ import regex as re
 import os, sys
 import xml.etree.ElementTree as et
 import PyPDF2
+import global_options
 
-path = "data-csr" ###
+path = global_options.DATA_FOLDER
 
 # a function to walk through all files in a folder and its subfolders
 def list_files(dir):                                                                                                  
@@ -86,7 +87,7 @@ for f in files_in_dir:
     i = i + 1
 
 # Print log
-print("A list of problematic files (if any) can be found in errors.txt. You must remove or fix these files!")
+print("A list of problematic files (if any) can be found in errors.txt. You must remove or fix these files! If the file is empty, you are good to go.")
 
 # Metadata from dataframe as csv
 df = df[['id', 'company', 'year']]
@@ -201,3 +202,5 @@ documents = documents.encode('ascii', 'ignore').decode('utf-8')  # remove invali
 
 with open(path + '\\input\\documents.txt', 'w', encoding='utf8') as f:
   f.write(documents)
+
+print("Done.")

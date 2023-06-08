@@ -11,7 +11,7 @@ PARSE_CHUNK_SIZE: int = 100 # number of lines in the input file to process uing 
 
 # Directory locations
 os.environ["CORENLP_HOME"] = "C:/Users/gparti/AppData/Local/stanford-corenlp-full-2018-10-05/"  # location of the CoreNLP models; use / to seperate folders
-DATA_FOLDER: str = "data-csr/" ### ATTENTION! Also change path in preprocess.py ### !!! ###
+DATA_FOLDER: str = "data-test/" 
 MODEL_FOLDER: str = "models/" # will be created if does not exist
 OUTPUT_FOLDER: str = "outputs/" # will be created if does not exist; !!! WARNING: existing files will be removed !!!
 
@@ -26,6 +26,7 @@ W2V_WINDOW: int = 5  # window size in word2vec
 W2V_ITER: int = 20  # number of iterations in word2vec
 N_WORDS_DIM: int = 500  # max number of words in each dimension of the dictionary
 DICT_RESTRICT_VOCAB = None # change to a fraction number (e.g. 0.2) to restrict the dictionary vocab in the top 20% of most frequent vocab
+
 
 # Inputs for constructing the expanded dictionary
 DIMS: List[str] = ["diversity", "equity", "inclusion"]
@@ -94,6 +95,7 @@ SEED_WORDS: Dict[str, List[str]] = {
 }
 
 # Create directories if not exist
+Path(DATA_FOLDER, "input").mkdir(parents=True, exist_ok=True)
 Path(DATA_FOLDER, "processed", "parsed").mkdir(parents=True, exist_ok=True)
 Path(DATA_FOLDER, "processed", "unigram").mkdir(parents=True, exist_ok=True)
 Path(DATA_FOLDER, "processed", "bigram").mkdir(parents=True, exist_ok=True)

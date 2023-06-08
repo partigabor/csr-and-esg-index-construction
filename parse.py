@@ -132,3 +132,5 @@ if __name__ == "__main__":
             function_name=process_line,
             chunk_size=global_options.PARSE_CHUNK_SIZE,
         )
+
+print("Done.")
