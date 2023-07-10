@@ -14,7 +14,7 @@ Python code based on a pipeline to measure corporate culture, but modified to ac
 * Install an IDE (e.g. Visual Studio Code - https://code.visualstudio.com/)
 * Install Git (https://git-scm.com/download/win)
 * Install Java (Windows Offline 64-bit - https://www.java.com/en/download/manual.jsp)
-* Install Stanford CoreNLP v3.9.2 (http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip) by manually placing the uncompressed folder somewhere, e.g. C:\Users\user\AppData\Local\stanford-corenlp-full-2018-10-05
+* Install Stanford CoreNLP v3.9.2 (http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip) by manually placing the uncompressed folder somewhere, e.g., "C:\Users\user\AppData\Local\stanford-corenlp-full-2018-10-05"
 * Clone code repository to your working directory: git clone https://github.com/partigabor/index-construction.git
 * Create an environment called "index": `conda create -n index python=3.9`
 * To activate this environment: `conda activate index`
