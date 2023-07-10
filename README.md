@@ -81,7 +81,7 @@ This module takes in pdf files (and accompanying xml metadata files in case of t
 * Check for documents with missing data (xml tree errors)
 * Check for documents that are not in UTF-8 character encoding.
 * Check for documents too large.
-* Deprecation warnings can be ignored.
+* Deprecation warnings can be ignored for now.
 
 ### 3. Find results in the `outputs/scores` folder.
 
