@@ -1,6 +1,6 @@
 > Originally forked from [MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning](https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning)
 
-**Find the original description below the line**
+**Find the original README below**
 
 # Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning.
 
@@ -28,7 +28,7 @@ Python code based on a pipeline to measure corporate culture, but modified to ac
 	(['when[pos:WRB] I[pos:PRP] be[pos:VBD] a[pos:DT] child[pos:NN] in[pos:IN] [NER:LOCATION]Ohio[pos:NNP] ,[pos:,] I[pos:PRP] always[pos:RB] want[pos:VBD] to[pos:TO] go[pos:VB] to[pos:TO] [NER:ORGANIZATION]Stanford[pos:NNP]_University[pos:NNP] with[pos:IN]_respect[pos:NN]_to[pos:TO] higher[pos:JJR] education[pos:NN] .[pos:.] ', 'but[pos:CC] I[pos:PRP] go[pos:VBD] along[pos:IN] with[pos:IN] my[pos:PRP$] parent[pos:NNS] .[pos:.] '], ['None_0', 'None_1'])
 
 * Tweak settings in global_options.py according to your machine (e.g. RAM, CPU cores, etc.)
-* Setup complete, define `DATA_FOLDER` to train on your own data, adjust dimensions `DIMS` and `SEED_WORDS` to your own needs.
+* Setup complete, define `DATA_FOLDER` in global_options.py to train on your own data, adjust dimensions `DIMS` and `SEED_WORDS` to your own needs.
 
 For prerequisites and system requirements, you can also follow the instructions of the original repository (see details below). In short, you need Python, Java, and Stanford CoreNLP 3.9.2.
 
@@ -54,15 +54,15 @@ Your folder structure will look like this:
 	├──main.py
 	└──...
 
->Currently, `data-test` has been already set up for you with 150 sample documents. Training the model on `data-test` (150 documents) should take 1 hour on an ordinary office setup.
+>Currently, `data-test` has been already set up for you with 150 sample documents. Training the model on `data-test` (150 documents) should take 1 hour on an ordinary office machine.
 
-### 2. Run `main.py` to run everything, or run the modules one by one as below 
+### 2. Run `main.py` to run everything, or run the modules one by one as below.
 
 The two variants - `main-transcripts.py` and `main-csr.py` - accommodate for different datasets. The "Transcripts" dataset consist of pdf files with accomodating xml files for metadata, while the "CSR" dataset just contains pdfs; the preprocessor is different for these two, the rest of the modules are the same.
 
     1. python preprocess.py
 
-This module takes in pdf files (and accompanying xml metadata files in case of transcripts) from a dataset and processes the documents to be suitable for training, extracting their content and creating input files `documents.txt` and `document_ids.txt`.
+This module takes in pdf files (and accompanying xml metadata files in case of transcripts) from a dataset and processes the documents to be suitable for training, extracting their content and creating input files `documents.txt` and `document_ids.txt`. See explanations on the rest of the modules in the original README (below).
 
     2. python parse.py
 
@@ -74,8 +74,6 @@ This module takes in pdf files (and accompanying xml metadata files in case of t
 
     6. python aggregate_firms.py
 
-See explanations on the modules in the original README (below).
-
 **If you encounter problems, you most likely need to:**
 
 * Check if the packages' versions are compatible (you would get an error message)
@@ -85,7 +83,11 @@ See explanations on the modules in the original README (below).
 * Check for documents too large.
 * Deprecation warnings can be ignored.
 
-Gábor PARTI
+### 3. Find results in the `outputs/scores` folder.
+
+For example, the file `firm_scores_TFIDF.csv` shows the aggregated TFIDF scores for all searched dimensions (e.g., "diversity", "equity", "inclusion"), for every document. The file `mean_firm_scores_TFIDF.csv` groups the previous scores by firm, and returns their mean values.
+
+
 
 ***
 
