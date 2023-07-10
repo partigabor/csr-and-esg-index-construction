@@ -15,6 +15,6 @@ tfidf = tfidf.groupby(['firm_id'])[['diversity', 'inclusion', 'equity']].mean()
 print(tfidf.head())
 
 # Save output
-tfidf.to_csv(Path(global_options.OUTPUT_FOLDER,"scores","avg_firm_scores_TFIDF.csv"))
+tfidf.to_csv(Path(global_options.OUTPUT_FOLDER,"scores","mean_firm_scores_TFIDF.csv"))
 
 print("Done.")
