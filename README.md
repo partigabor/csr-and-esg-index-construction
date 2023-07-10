@@ -93,6 +93,8 @@ For example, the file `firm_scores_TFIDF.csv` shows the aggregated TFIDF scores 
 
 ***
 
+**Original README**
+
 # Measuring Corporate Culture Using Machine Learning
 
 ## Introduction
