@@ -8,7 +8,7 @@ Python code based on a pipeline to measure corporate culture, but modified to ac
 
 <!-- Planned: (2) a visualizer module for a better overview of the results. -->
 
-## Setup from scratch, on Windows 10 (tl;dr)
+## Setup from scratch, on Windows (tl;dr)
 
 * Install Anaconda (https://www.anaconda.com/)
 * Install an IDE (e.g. Visual Studio Code - https://code.visualstudio.com/)
