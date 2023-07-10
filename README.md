@@ -4,7 +4,7 @@
 
 # Measuring corporations' CSR and ESG initiatives by constructing an index using word-embeddings and machine learning.
 
-Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values. This repository is built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions so far: (1) a preprocessor module to handle pdf files (earnings calls transcripts and reports). 
+Python code based on a pipeline to measure corporate culture, but modified to accommodate for corporations' CSR and ESG initiatives, including DEI values. This repository is built on the work you can find in the original fork, the code has been modified to accomodate for CSR and ESG reports, as well as transcripts of earnings calls. Major additions so far: (1) a preprocessor module to handle pdf files (earnings calls transcripts and reports) and xml metadata files. 
 
 <!-- Planned: (2) a visualizer module for a better overview of the results. -->
 
@@ -36,16 +36,16 @@ For prerequisites and system requirements, you can also follow the instructions 
     
 ### 1. Create your data folder
 
-Create a data folder in the project directory, e.g. `data-test`, and place your pdf (and xml) files in a folder named `raw` inside this data folder. In the settings file `global-options.py`, at line 14, define the DATA_FOLDER constant as your folder, e.g.: 
+Create a data folder in the project directory, e.g. `data`, and place your pdf (and xml) files in a folder named `raw` inside this data folder. In the settings file `global-options.py`, at line 14, define the DATA_FOLDER constant as your folder, e.g.: 
 
 ```python
-    DATA_FOLDER: str = "data-test/"
+    DATA_FOLDER: str = "data/"
 ```
 
 Your folder structure will look like this:
 
 	/index-construction
-	├── data-test
+	├── data
 	│   ├── raw
 	│   ├── input
 	│   └── processed
@@ -59,6 +59,8 @@ Your folder structure will look like this:
 ### 2. Run `main.py` to run everything, or run the modules one by one as below.
 
 The two variants - `main-transcripts.py` and `main-csr.py` - accommodate for different datasets. The "Transcripts" dataset consist of pdf files with accomodating xml files for metadata, while the "CSR" dataset just contains pdfs; the preprocessor is different for these two, the rest of the modules are the same.
+
+Files and folders appended with `-transcripts` or `-csr` hold code, data, or results for these two datasets.
 
     1. python preprocess.py
 
@@ -90,6 +92,8 @@ For example, the file `firm_scores_TFIDF.csv` shows the aggregated TFIDF scores 
 
 
 ***
+
+**Original README**
 
 # Measuring Corporate Culture Using Machine Learning
 
