@@ -47,7 +47,7 @@ print("Calculating mean values of TFIDF while grouping by firms (in case of mult
 tfidf = pd.read_csv(str(Path(global_options.OUTPUT_FOLDER, "scores", "firm_scores_TFIDF.csv")))
 
 # Calculate mean values while group by firm
-tfidf = tfidf.groupby(['firm_id'])['diversity', 'inclusion', 'equity'].mean()
+tfidf = tfidf.groupby(['firm_id'])[['diversity', 'inclusion', 'equity']].mean()
 
 # print(tfidf.head())
 
